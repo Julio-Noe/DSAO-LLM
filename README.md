@@ -20,7 +20,6 @@ configs/                 Non-identifying runtime configuration summary
 data/ttl/                Anonymised RDF/Turtle DSA instances, when included
 prompts/                 System, T1, and T2 prompts used for the experiments
 results/metrics/         Aggregate metric files and per-item score artifacts
-results/tables/          LaTeX-ready result tables reported in the paper
 docs/                    Reproducibility notes, metric decisions, and structure notes
 .github/                 Non-identifying issue and pull-request templates
 ```
@@ -30,12 +29,6 @@ docs/                    Reproducibility notes, metric decisions, and structure 
 ```text
 src/                     Source code for reference extraction, model execution, and evaluation
 Makefile                 Convenience targets for reproducing the pipeline
-Dockerfile               Containerised execution environment
-CI workflow              GitHub Actions smoke tests
-pyproject.toml           Package metadata
-requirements*.txt        Installation dependency files
-final CITATION.cff       Author-aware citation metadata
-final LICENSE            Final open-source license file
 ```
 
 The withheld material will be added to the public repository after acceptance. The post-acceptance version will include the complete runnable workflow for:

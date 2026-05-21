@@ -1,3 +1,5 @@
 src/
 docs/
 .DS_Store
+Makefile
+requirements.txt

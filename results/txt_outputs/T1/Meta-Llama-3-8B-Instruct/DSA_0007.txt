@@ -1,0 +1,9 @@
+Here is the executive summary for the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.0, was created on November 14, 2025. The agreement involves two parties: OrgA, a data controller with the role of "Data Controller", and OrgD, a processor with the role of "Processor". The purposes of this DSA are fraud detection and analytics, with legal bases being a contract and legitimate interest. The data categories used or shared include biometric, financial, and location information.
+
+The dataset is stored for 18 months and will be anonymized upon disposal. The rights handling involves access rights managed by OrgA, with a responsible party and procedure URL provided. Transparency arrangements include layered notices issued by OrgA, with a notice type of "layered" and an issuer URL provided.
+
+Assessment information is available, with a DPIA assessment outcome of "high" and references to a PDF document. Governance plans include review frequencies, metrics, and audit rights, while incident response plans outline notification deadlines and contact points. Exit obligations include data disposition and post-termination obligations.
+
+This DSA does not involve international transfers or enhanced safeguards for child or vulnerable populations.

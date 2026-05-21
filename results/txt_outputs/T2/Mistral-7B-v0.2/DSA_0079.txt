@@ -1,0 +1,13 @@
+CQ-1 — Specified: fraud detection, reporting
+CQ-2 — Specified: legal obligation, legitimate interest
+CQ-3 — Specified: OrgB (data controller), OrgD (recipient)
+CQ-4 — Specified: financial, biometric, location
+CQ-5 — Not specified
+CQ-6 — Specified: Japan, adequacy, key separation, access control
+CQ-7 — Not specified
+CQ-8 — Specified: indirect, OrgB, <https>
+CQ-9 — Not specified
+CQ-10 — Specified: 72 hours, mailto:sec@example.org
+CQ-11 — Specified: review frequency, metric, audit right
+CQ-12 — Not specified
+CQ-13 — Specified: contract end, return, no contact after exit

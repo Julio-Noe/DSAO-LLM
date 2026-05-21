@@ -1,0 +1,15 @@
+```
+The DSA is a data sharing agreement between OrgB and OrgE. It has the following key features:
+
+1. Purposes: The agreement allows OrgB to share data for analytics and reporting purposes with OrgE.
+2. Data categories: The agreement covers the sharing of health and location data with OrgE.
+3. Governance plan: The agreement includes a governance plan that requires an audit every 12 months and allows on-site audits.
+4. Incident response plan: The agreement includes an incident response plan that requires notification within 72 hours and provides a contact point for security incidents.
+5. Exit plan: The agreement includes an exit plan that requires the return of data and prohibits contact after the contract ends.
+6. Population: The agreement covers a general population.
+7. Rights handling: The agreement includes a rights handling procedure for erasure requests, with OrgB responsible for handling them.
+8. Transparency arrangement: The agreement includes a transparency arrangement that requires indirect notice to the population, with OrgB as the issuer and a webpage provided for more information.
+9. Assessment: The agreement includes an assessment that found a high risk and was conducted by OrgB.
+10. International transfer: The agreement includes an international transfer plan that covers the destination country and transfer mechanism, with safeguards in place.
+11. Enhanced safeguard: The agreement includes an enhanced safeguard for child or vulnerable populations.
+```

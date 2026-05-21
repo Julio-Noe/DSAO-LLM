@@ -1,0 +1,38 @@
+@prefix :      <https://example.org/dsao/inst/> .
+@prefix dsao:  <https://w3id.org/dsao#> .
+@prefix dpv:   <https://w3id.org/dpv#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+:DSA_0026 a dsao:DataSharingAgreement ;
+  dct:hasVersion "1.0.2" ;
+  dpv:hasPurpose dpv:analytics , dpv:hasPurpose dpv:research ;
+  dsao:hasParty :OrgE , :OrgD ;
+  dsao:hasGovernancePlan :DSA_0026_Gov ;
+  dsao:hasIncidentResponsePlan :DSA_0026_IRP ;
+  dsao:hasExitPlan :DSA_0026_Exit ;
+  dct:created "2025-11-14T21:22:59Z"^^xsd:dateTime .
+
+:OrgE a dsao:Party ; dct:title "OrgE" ; dpv:hasRole dpv:DataController .
+:OrgD a dsao:Party ; dct:title "OrgD" ; dpv:hasRole dpv:Recipient .
+
+:DSA_0026_P1 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:analytics ; dpv:hasLegalBasis dpv:contract ; dsao:usesData dpv:location , dsao:usesData dpv:contact .
+:DSA_0026_P2 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:research ; dpv:hasLegalBasis dpv:public_interest ; dsao:usesData dpv:biometric .
+
+:DSA_0026_DS1 a dsao:SharedDataset , dcat:Dataset ;
+  dct:conformsTo <https> ;
+  dpv:hasStorage [ a dpv:Storage ; dpv:hasDuration "P6M"^^xsd:duration ] ;
+  dsao:disposalMethod "Return" .
+
+:DSA_0026_RH1 a dsao:RightsHandling ; dsao:forRight dpv:RightRectification ; dsao:responsibleParty :OrgE ; dsao:procedureURL <https> .
+
+:DSA_0026_TA1 a dsao:TransparencyArrangement ; dsao:noticeType "indirect" ; dsao:issuer :OrgE ; foaf:page <https> .
+
+:DSA_0026_Gov a dsao:GovernancePlan ; dsao:reviewFrequency "P6M" ; dsao:metric "BreachMTTR<=72h" ; dsao:auditRight "third_party_audit" .
+:DSA_0026_IRP a dsao:IncidentResponsePlan ; dsao:notificationDeadline "PT72H"^^xsd:duration ; dsao:contactPoint "mailto:sec@example.org" .
+:DSA_0026_Exit a dsao:ExitPlan ; dsao:exitTrigger "contract_end" ; dsao:dataDisposition "Return" ; dsao:postTerminationObligation "no_redisclosure" .
+:DSA_0026_Population a dsao:Population ; dct:title "general" .
+:DSA_0026 dsao:population :DSA_0026_Population .
+:DSA_0026_RN1 a dsao:ReviewNote ; dsao:justifies :DSA_0026_P1 ; dsao:guidelineRef "ICO-2021-§3.2" ; dsao:decision "needs-change" ; dsao:rating 2 ; dct:description "reduce data categories" .

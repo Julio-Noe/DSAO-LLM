@@ -1,0 +1,13 @@
+CQ-1 — Analytics, fraud detection
+CQ-2 — contract, legitimate interest
+CQ-3 — OrgB: Data Controller, OrgD: Processor
+CQ-4 — contact, health, location
+CQ-5 — 18 months, anonymise
+CQ-6 — SG, BCRs, access control, pseudonymisation
+CQ-7 — Erasure, OrgB, <https>
+CQ-8 — direct, OrgB, <https>
+CQ-9 — DPIA, medium, <https://example.org/dpia.pdf>
+CQ-10 — 72 hours, mailto:sec@example.org
+CQ-11 — review frequency 12 months, metric DSAR_SLA_<=30d, audit right remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end, return, no contact after exit

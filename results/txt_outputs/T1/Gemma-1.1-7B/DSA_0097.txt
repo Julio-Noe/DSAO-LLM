@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The parties involved are OrgC (Data Controller) and OrgA (Processor), both with their respective roles. The purposes of this DSA are reporting and research, with legal bases being contract and legal obligation, respectively. The data categories used or shared include contact information, financial data, and biometric data.
+
+The dataset, DSA_0097_DS1, conforms to a standard and has storage and retention periods. The disposal method is anonymization. Rights handling, transparency arrangement, and governance plan are also specified.
+
+The rights handling process is managed by OrgC, with procedures outlined. Transparency arrangements include indirect notice and a dedicated webpage.
+
+The governance plan includes regular reviews, metrics for breach response, and on-site audits. Incident response plans are in place, with notification deadlines and contact points specified.
+
+The exit plan outlines the trigger for exit, data disposition, and post-termination obligations. The population covered by this DSA is general.
+
+Note that assessment information, international transfer information, and child or vulnerable-population safeguards are not specified in this DSA.

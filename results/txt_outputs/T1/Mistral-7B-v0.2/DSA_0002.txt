@@ -1,0 +1,19 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is between OrgB and OrgC. It covers two processing activities:
+- DSA_0002_P1: Research, legal basis: public interest, data categories used/shared: location and biometric.
+- DSA_0002_P2: Service provision, legal basis: legal obligation, data categories used/shared: contact.
+
+The DSA includes a governance plan (DSA_0002_Gov), an incident response plan (DSA_0002_IRP), and an exit plan (DSA_0002_Exit).
+The governance plan specifies a review frequency of 12 months, a metric of BreachMTTR<=72h, and an audit right of on-site yearly.
+The incident response plan specifies a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+The exit plan specifies an exit trigger of contract end, data disposition of SecureDelete, and a post-termination obligation of no redisclosure.
+The DSA also includes an assessment (DSA_0002_Assess) with a TRA outcome and a reference to dpia.pdf.
+The DSA includes a transparency arrangement (DSA_0002_TA1) with a notice type of direct, an issuer of OrgB, and a page at https.
+The DSA includes a rights handling (DSA_0002_RH1) for RightErasure, with a responsible party of OrgB and a procedure URL at https.
+The DSA includes a population (DSA_0002_Population) with a title of employees.
+The DSA includes a shared dataset (DSA_0002_DS1) with a conformance to https and storage of 18 months.
+The DSA includes a disposal method of Return.
+The DSA was created on 2025-11-14T21:22:59Z.
+```

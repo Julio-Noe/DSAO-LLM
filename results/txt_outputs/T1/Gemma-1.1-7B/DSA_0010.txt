@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.0, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the data controller, and OrgA, acting as the processor. The purposes of this DSA are fraud detection and research. The data categories used or shared include financial and health information.
+
+The DSA has a governance plan, incident response plan, and exit plan in place. The governance plan outlines the review frequency, metrics for evaluation, and audit rights. The incident response plan specifies a notification deadline and contact point in case of an incident. The exit plan defines the trigger for exit, data disposition, and post-termination obligations.
+
+The DSA also includes an assessment, which has been conducted according to the TRA (Technical Review and Assessment) methodology. The outcome of this assessment is "low" risk, and the references to the assessment report are available.
+
+Additionally, the DSA has a transparency arrangement in place, which includes notice type, issuer, and procedure URL. The rights handling process is managed by OrgD, which is responsible for the right to access and has a procedure URL available.
+
+Overall, this DSA outlines the necessary arrangements for the sharing of personal data between OrgD and OrgA, ensuring compliance with relevant legal bases and providing mechanisms for governance, incident response, and exit.

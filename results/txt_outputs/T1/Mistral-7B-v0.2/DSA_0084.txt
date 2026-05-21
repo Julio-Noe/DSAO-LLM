@@ -1,0 +1,15 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgC and OrgE.
+OrgC is the data controller, and OrgE is the processor.
+The DSA has two purposes: research and fraud detection.
+OrgC is responsible for handling rights requests, and OrgE is responsible for responding to incidents.
+The DSA has a governance plan, an incident response plan, and an exit plan.
+The DSA covers the following data categories: financial, health, and biometric.
+The dataset is stored for 6 months and then disposed of by returning it to the data controller.
+The DSA has a transparency arrangement, an assessment, and enhanced safeguards for populations.
+The DSA covers the following data categories: financial, health, and biometric.
+The dataset is stored for 6 months and then disposed of by returning it to the data controller.
+The DSA has a transparency arrangement, an assessment, and enhanced safeguards for populations.
+```

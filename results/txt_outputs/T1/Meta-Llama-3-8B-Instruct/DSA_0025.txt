@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgA, a processor, and OrgB, a data controller. The purposes of the DSA are research and analytics, with legal bases including contract and public interest. The data categories used or shared include biometric and financial information.
+
+The DSA specifies a governance plan, incident response plan, and exit plan. The governance plan outlines review frequency, metrics, and audit rights. The incident response plan includes notification deadlines and contact points. The exit plan outlines triggers, data disposition, and post-termination obligations.
+
+The DSA also includes transparency arrangements, such as notice types and issuers. Rights handling is specified for rectification rights, with responsible parties and procedures outlined.
+
+Assessment information is provided, including an assessment type of TRA (Technical Review Assessment) and an outcome of high. The DSA has undergone a technical review assessment, which identified potential risks.
+
+Overall, this DSA outlines the terms and conditions for sharing data between OrgA and OrgB, including purposes, legal bases, data categories, retention periods, rights handling, transparency arrangements, governance, incident response, and exit obligations.

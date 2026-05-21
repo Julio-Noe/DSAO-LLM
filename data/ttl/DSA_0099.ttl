@@ -1,0 +1,43 @@
+@prefix :      <https://example.org/dsao/inst/> .
+@prefix dsao:  <https://w3id.org/dsao#> .
+@prefix dpv:   <https://w3id.org/dpv#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+:DSA_0099 a dsao:DataSharingAgreement ;
+  dct:hasVersion "1.0.1" ;
+  dpv:hasPurpose dpv:reporting , dpv:hasPurpose dpv:fraud_detection ;
+  dsao:hasParty :OrgD , :OrgB ;
+  dsao:hasGovernancePlan :DSA_0099_Gov ;
+  dsao:hasIncidentResponsePlan :DSA_0099_IRP ;
+  dsao:hasExitPlan :DSA_0099_Exit ;
+  dct:created "2025-11-14T21:22:59Z"^^xsd:dateTime .
+
+:OrgD a dsao:Party ; dct:title "OrgD" ; dpv:hasRole dpv:DataController .
+:OrgB a dsao:Party ; dct:title "OrgB" ; dpv:hasRole dpv:Recipient .
+
+:DSA_0099_P1 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:reporting ; dpv:hasLegalBasis dpv:public_interest ; dsao:usesData dpv:contact , dsao:usesData dpv:location .
+:DSA_0099_P2 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:fraud_detection ; dpv:hasLegalBasis dpv:public_interest ; dsao:usesData dpv:health .
+
+:DSA_0099_DS1 a dsao:SharedDataset , dcat:Dataset ;
+  dct:conformsTo <https> ;
+  dpv:hasStorage [ a dpv:Storage ; dpv:hasDuration "P12M"^^xsd:duration ] ;
+  dsao:disposalMethod "Return" .
+
+:DSA_0099_T1 a dsao:InternationalTransfer ; dsao:destinationCountry "MX" ; dsao:transferMechanism "SCCs" ; dsao:hasSafeguard dpv:pseudonymisation , dsao:hasSafeguard dpv:key_separation .
+
+:DSA_0099_RH1 a dsao:RightsHandling ; dsao:forRight dpv:RightRectification ; dsao:responsibleParty :OrgD ; dsao:procedureURL <https> .
+
+:DSA_0099_TA1 a dsao:TransparencyArrangement ; dsao:noticeType "layered" ; dsao:issuer :OrgD ; foaf:page <https> .
+
+:DSA_0099_Assess a dsao:Assessment ; dsao:assessmentType "TRA" ; dsao:assessmentOutcome "low" ; dct:references <https://example.org/dpia.pdf> .
+:DSA_0099 dsao:hasAssessment :DSA_0099_Assess .
+
+:DSA_0099_Gov a dsao:GovernancePlan ; dsao:reviewFrequency "P6M" ; dsao:metric "DSAR_SLA_<=30d" ; dsao:auditRight "remote_audit" .
+:DSA_0099_IRP a dsao:IncidentResponsePlan ; dsao:notificationDeadline "PT72H"^^xsd:duration ; dsao:contactPoint "mailto:sec@example.org" .
+:DSA_0099_Exit a dsao:ExitPlan ; dsao:exitTrigger "contract_end" ; dsao:dataDisposition "SecureDelete" ; dsao:postTerminationObligation "no_contact_after_exit" .
+:DSA_0099_Population a dsao:Population ; dct:title "general" .
+:DSA_0099 dsao:population :DSA_0099_Population .
+:DSA_0099_RN1 a dsao:ReviewNote ; dsao:justifies :DSA_0099_P1 ; dsao:guidelineRef "ICO-2021-§3.2" ; dsao:decision "needs-change" ; dsao:rating 2 ; dct:description "reduce data categories" .

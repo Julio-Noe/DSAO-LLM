@@ -1,0 +1,11 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgA and OrgB outlines the terms for sharing data between the two parties. The primary purposes of this DSA are reporting and service provision, with legal bases including a legal obligation and a contract. The parties will process personal data categories such as location, biometric, and financial information.
+
+The DSA specifies that the shared dataset will be stored for 18 months and disposed of through a return method. The data controller, OrgB, will be responsible for handling rights related to rectification and will provide a procedure URL. Transparency arrangements include layered notices issued by OrgB, with a review frequency of every 6 months.
+
+The DSA has undergone an assessment, which identified a high risk and recommended measures to mitigate this risk. The governance plan outlines review frequencies, metrics, and audit rights, while the incident response plan includes notification deadlines and contact points. The exit plan specifies triggers, data disposition methods, and post-termination obligations.
+
+This DSA is applicable to a general population, with rights handling procedures in place. The parties have agreed to review and update the DSA regularly to ensure compliance with relevant regulations.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

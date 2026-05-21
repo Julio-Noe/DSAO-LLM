@@ -1,0 +1,28 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is between OrgB and OrgA. It covers two processing activities:
+- DSA_0089_P1, which is for service provision and has a legal basis of contract. It uses data categories financial and location.
+- DSA_0089_P2, which is for analytics and has a legal basis of public interest. It uses data categories financial.
+
+The DSA includes the following governance plan:
+- DSA_0089_Gov, which has a review frequency of P12M, a metric of DSAR_SLA_<=30d, and an audit right of remote_audit.
+
+The DSA includes the following incident response plan:
+- DSA_0089_IRP, which has a notification deadline of PT72H and a contact point of mailto:sec@example.org.
+
+The DSA includes the following exit plan:
+- DSA_0089_Exit, which has an exit trigger of contract_end, a data disposition of SecureDelete, and a post-termination obligation of no_redisclosure.
+
+The DSA includes the following population:
+- DSA_0089_Population, which has a title of general.
+
+The DSA includes the following rights handling:
+- DSA_0089_RH1, which has a responsible party of OrgB and a procedure URL of <https>.
+
+The DSA includes the following transparency arrangement:
+- DSA_0089_TA1, which has a notice type of layered and an issuer of OrgB.
+
+The DSA includes the following review note:
+- DSA_0089_RN1, which justifies DSA_0089_P1 and has a guideline ref of ICO-2021-§3.2, a decision of needs-change, and a rating of 2.
+```

@@ -1,0 +1,23 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is between OrgB and OrgD. It covers two processing activities: analytics and fraud detection.
+
+OrgB is the data controller, and OrgD is the processor. The analytics activity uses contact and health data, while the fraud detection activity uses location data.
+
+The shared dataset is a Dataset that conforms to the specified standard and has storage with a duration of 6 months. The disposal method is anonymization.
+
+The international transfer mechanism is BCRs, and the safeguards are access control and pseudonymization.
+
+The rights handling procedure for RightErasure is specified by OrgB, and the transparency arrangement is direct with a notice type of "direct" issued by OrgB.
+
+The DSA has been assessed with a DPIA and an assessment outcome of "medium".
+
+The governance plan includes a review frequency of 12 months, a metric of "DSAR_SLA_<=30d", and an audit right of "remote_audit".
+
+The incident response plan includes a notification deadline of 72 hours and a contact point of "mailto:sec@example.org".
+
+The exit plan includes an exit trigger of "contract_end", a data disposition of "Return", and a post-termination obligation of "no_contact_after_exit".
+
+The population covered by the DSA is general.
+```

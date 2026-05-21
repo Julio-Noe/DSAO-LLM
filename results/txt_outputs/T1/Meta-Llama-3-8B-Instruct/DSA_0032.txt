@@ -1,0 +1,9 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgB and OrgE aims to facilitate the sharing of data for fraud detection and research purposes. The agreement is version 1.0.0, created on November 14, 2025. The parties involved are OrgB, acting as the Data Controller, and OrgE, acting as the Processor. The purposes of data sharing are fraud detection and research, with legal bases established under contract and public interest. The agreement uses data categories related to health and biometric information.
+
+The dataset, DSA_0032_DS1, conforms to a standard and will be stored for 12 months before being disposed of through return. The agreement includes an incident response plan, exit plan, and transparency arrangement. OrgB is responsible for handling rights related to data erasure and has a procedure in place for this purpose. The agreement also includes an assessment, DSA_0032_Assess, which has been conducted and is available for review.
+
+The governance plan, DSA_0032_Gov, outlines the review frequency and audit rights. The incident response plan, DSA_0032_IRP, specifies the notification deadline and contact point. The exit plan, DSA_0032_Exit, outlines the trigger for exit and data disposition. The population covered by this agreement is general.
+
+Note that this summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

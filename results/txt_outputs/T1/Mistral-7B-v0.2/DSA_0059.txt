@@ -1,0 +1,27 @@
+```
+The following DSA is a data sharing agreement between OrgB and OrgA. It was created on 2025-11-14T21:22:59Z.
+
+The agreement has two purposes: fraud detection and service provision. It also includes a governance plan, an incident response plan, and an exit plan.
+
+The agreement involves two parties: OrgB as the data controller and OrgA as the recipient.
+
+The agreement includes two processing activities: one for fraud detection and another for service provision. The fraud detection activity has a legal basis of legal obligation, while the service provision activity has a legal basis of contract.
+
+The agreement includes one shared dataset, which conforms to a standard and has storage with a duration of 6 months. The dataset is disposed of by return.
+
+The agreement includes an international transfer to Japan, which uses SCCs as the transfer mechanism and has safeguards of key separation and pseudonymisation.
+
+The agreement includes a rights handling for the right of erasure, which is handled by OrgB and has a procedure URL.
+
+The agreement includes a transparency arrangement with a notice type of direct, an issuer of OrgB, and a page URL.
+
+The agreement includes an assessment with an assessment type of DPIA, an assessment outcome of low, and references to a DPIA report.
+
+The agreement includes a governance plan with a review frequency of every 6 months, a metric of DSAR SLA <= 30 days, and an audit right of remote audit.
+
+The agreement includes an incident response plan with a notification deadline of 72 hours and a contact point of sec@example.org.
+
+The agreement includes an exit plan with an exit trigger of contract end, a data disposition of secure delete, and a post-termination obligation of no redisclosure.
+
+The agreement includes a population of employees.
+```

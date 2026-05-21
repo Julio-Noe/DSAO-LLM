@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.4, was created on November 14, 2025. The agreement involves two parties: OrgE (Data Controller) and OrgB (Recipient). The purposes of the DSA are fraud detection and service provision, with legal bases of public interest and legal obligation. The data categories used or shared are health and location.
+
+The DSA uses a shared dataset, which conforms to the specified standards. The data will be stored for 12 months and then securely deleted. International transfer of the data is planned to Brazil, with safeguards in place, including pseudonymization and encryption at rest.
+
+The rights handling process is managed by OrgE, with procedures outlined. Transparency arrangements include indirect notice and a dedicated webpage.
+
+The DSA has undergone an assessment, which identified a medium-level risk. The governance plan includes regular reviews and remote audits. Incident response plans are in place, with a notification deadline of 72 hours. The exit plan outlines procedures for returning data and managing post-termination obligations.
+
+The population covered by the DSA is general. Review notes have been prepared, recommending changes to reduce data categories.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values or guess at omitted fields.

@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.5, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the Data Controller, and OrgE, acting as the Recipient. The purposes of this DSA are service provision and reporting, with legal bases being contract and public interest. The data categories used and shared include location, health, contact information, and age.
+
+The DSA specifies that the data will be stored for 12 months and then anonymized. The rights handling procedures are in place, including the right to erasure, with OrgD being responsible for this process. Transparency arrangements are also specified, including a notice type of "layered" and an issuer of OrgD.
+
+The DSA has undergone an assessment, which concluded that the risk is low. The governance plan includes regular reviews every 6 months and audit rights for third-party auditors. In case of an incident, OrgE must notify OrgD within 72 hours and provide contact information. The exit plan specifies that data will be securely deleted when the contract ends, and there is no obligation to disclose personal data after termination.
+
+Finally, this DSA has enhanced safeguards in place for children, including age-appropriate design.

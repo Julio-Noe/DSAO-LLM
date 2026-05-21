@@ -1,0 +1,14 @@
+```
+The following is an executive summary of the Data Sharing Agreement (DSA) between OrgD and OrgC.
+
+1. Purposes: The DSA allows for the processing of personal data for two purposes: service provision and fraud detection.
+2. Parties and roles: OrgD is the data controller, and OrgC is the recipient.
+3. Data categories: The DSA allows for the processing of biometric, financial, and location data.
+4. Dataset: The dataset is stored for 6 months and disposed of using the SecureDelete method.
+5. Rights handling: OrgD is responsible for handling rights requests related to the erasure of personal data.
+6. Transparency arrangement: OrgD provides a layered transparency arrangement, with information available at <https>.
+7. Governance plan: OrgD has a governance plan that includes reviewing the DSA every 6 months, using metrics such as DSAR SLA <=30d, and conducting on-site audits.
+8. Incident response plan: OrgD has an incident response plan that includes notifying the security team within 72 hours and providing contact information at mailto:sec@example.org.
+9. Exit plan: OrgD has an exit plan that includes returning the data and not contacting OrgC after exiting the agreement.
+10. Population: The DSA applies to employees.
+```

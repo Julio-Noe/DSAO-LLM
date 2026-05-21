@@ -1,0 +1,13 @@
+CQ-1 — Analytics, Service Provision
+CQ-2 — Public Interest
+CQ-3 — OrgE: Data Controller, OrgC: Processor
+CQ-4 — Contact, Financial, Location
+CQ-5 — 12 months, Anonymise
+CQ-6 — Not stated in the TTL
+CQ-7 — Right Rectification, OrgE, <https>
+CQ-8 — Layered, OrgE, <https>
+CQ-9 — Not stated in the TTL
+CQ-10 — 72 hours, mailto:sec@example.org
+CQ-11 — Review frequency 6 months, Audit findings <=2, Third party audit
+CQ-12 — Not stated in the TTL
+CQ-13 — Contract end, Return, No redisclosure

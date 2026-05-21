@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The agreement involves two parties: OrgB, acting as the data controller, and OrgC, acting as the processor. The purposes of this DSA are research and service provision. The legal bases for processing are public interest and legal obligation.
+
+The agreement involves the use of two datasets: one containing location and biometric data, and another containing contact information. The retention period for the datasets is 18 months, with disposal method "Return". 
+
+The rights handling procedures are in place for the right to erasure, with OrgB as the responsible party and a procedure URL provided. Transparency arrangements include direct notice to individuals, with OrgB as the issuer and a webpage providing further information.
+
+The governance plan includes regular reviews every 12 months, with metrics for breach MTTR (mean time to respond) and audit rights on site annually. The incident response plan includes notification deadlines of 72 hours, with a contact point provided.
+
+The exit plan outlines the procedures for exiting the agreement, including data disposition and post-termination obligations. The population covered by this DSA is employees.
+
+Assessment information is available, including a TRA (Transparency Report) assessment outcome of "high" and references to a DPIA (Data Protection Impact Assessment).

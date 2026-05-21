@@ -1,0 +1,13 @@
+```
+The DSA is a contract between OrgA and OrgE. It covers two processing activities: analytics and fraud detection.
+The analytics activity uses biometric and contact data, while the fraud detection activity uses only biometric data.
+The analytics activity is based on a contractual agreement, while the fraud detection activity is based on public interest.
+The data is stored for 12 months and disposed of securely.
+The data is transferred internationally to Germany using SCCs, and the transfer is safeguarded by encryption at rest and access control.
+The rights handling procedure for access to the data is managed by OrgA, and the transparency arrangement is a layered notice issued by OrgA.
+The DSA has been assessed using TRA and found to have a low risk level.
+The governance plan includes reviews every 12 months, with metrics such as BreachMTTR and remote audit rights.
+The incident response plan includes a notification deadline of 72 hours and contact information for security@example.org.
+The exit plan includes data disposal, no redisclosure, and contract end as triggers.
+The population covered by the DSA is employees.
+```

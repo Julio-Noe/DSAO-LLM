@@ -1,0 +1,13 @@
+```
+The DSA is a contract between OrgB and OrgA. It covers two processing activities:
+- reporting, with legal basis contract and data categories financial and location. The dataset is stored for 6 months and disposed of by return.
+- service_provision, with legal basis contract and data category biometric. The dataset is stored for 6 months and disposed of by return.
+
+The DSA contains a rights handling procedure for the right to erasure, with responsible party OrgB and procedure URL https://example.org/dsao/inst/DSA_0042_RH1.
+It also contains a transparency arrangement with notice type indirect, issuer OrgB and page https://example.org/dsao/inst/DSA_0042_TA1.
+
+The DSA contains a governance plan with review frequency every 6 months, metric BreachMTTR<=72h and audit right remote_audit.
+It also contains an incident response plan with notification deadline 72 hours and contact point mailto:sec@example.org.
+The DSA contains an exit plan with exit trigger contract_end, data disposition SecureDelete and post termination obligation no_contact_after_exit.
+The DSA contains a population with title children and the enhanced safeguard age_appropriate_design.
+```

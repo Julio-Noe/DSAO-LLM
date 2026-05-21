@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgE, acting as the Recipient. The purposes of this DSA are reporting and service provision, with a legal basis of legitimate interest. The data categories used or shared include contact information and biometric data.
+
+The DSA specifies that the dataset, DSA_0009_DS1, will be stored for 12 months and then anonymized. The rights handling procedure is managed by OrgA, which is responsible for access to the data and has a procedure URL. Transparency arrangements are in place, with OrgA as the issuer of notices.
+
+The DSA has undergone an assessment, which concluded that the risk is low. The governance plan includes regular reviews every 12 months and remote audits. In case of an incident, OrgE must notify OrgA within 72 hours, and the contact point is sec@example.org. The exit plan specifies that data will be securely deleted after the contract ends, and there will be no contact with individuals after exit.
+
+Note that this summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

@@ -1,0 +1,11 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) governs the sharing of data between two parties, OrgD and OrgA. The purposes of this DSA are service provision and reporting, with legal bases including legal obligation and legitimate interest. The data categories involved include health, biometric, financial, and personal information of children.
+
+The DSA specifies that the data will be stored for a period of 12 months and then anonymized. International transfer of data is allowed to Germany, with safeguards in place including key separation and encryption at rest.
+
+The rights handling process includes procedures for erasure, with OrgD responsible for implementing these measures. Transparency arrangements include indirect notice and a webpage maintained by OrgD.
+
+The DSA has undergone an assessment, which identified a high risk. The governance plan includes regular reviews and remote audits, while the incident response plan outlines notification deadlines and contact points. The exit plan specifies triggers for data return and post-termination obligations.
+
+This DSA includes enhanced safeguards to protect the personal information of children, including age-appropriate design.

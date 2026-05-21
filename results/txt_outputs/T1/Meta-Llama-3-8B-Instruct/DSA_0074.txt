@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the Data Controller, and OrgE, acting as the Processor. The purposes of this DSA are analytics and reporting. The legal bases for processing are a legal obligation and a contract.
+
+The DSA uses financial, health, biometric data categories. The retention period is 12 months, and the disposal method is return of data to the controller.
+
+The rights handling procedure is responsible for OrgD, and the transparency arrangement provides direct notice to individuals. An assessment has been conducted, which identified a medium-level risk and provided recommendations.
+
+The governance plan includes regular reviews every 12 months, with metrics focused on data subject access requests. The incident response plan requires notification within 72 hours, and the contact point is sec@example.org.
+
+The exit plan includes a trigger for contract end, with data disposition set to return and post-termination obligations prohibiting redisclosure.
+
+The population covered by this DSA is children, with enhanced safeguards in place to ensure age-appropriate design.

@@ -1,0 +1,29 @@
+```
+The DSA is a Data Sharing Agreement between OrgC and OrgD. The agreement was created on 2025-11-14T21:22:59Z.
+
+The agreement has two purposes: analytics and research. The data controller is OrgC, and the processor is OrgD.
+
+The agreement has two processing activities: analytics and research. The legal basis for the analytics activity is public interest, and the data categories used are health and contact. The legal basis for the research activity is a legal obligation, and the data categories used are contact.
+
+The agreement has one shared dataset: DSA_0044_DS1. The dataset conforms to a standard, and has storage with a duration of 6 months. The disposal method is anonymise.
+
+The agreement has one international transfer: DSA_0044_T1. The destination country is SG, the transfer mechanism is adequacy, and the safeguards are pseudonymisation and access control.
+
+The agreement has one rights handling: DSA_0044_RH1. The right is rectification, the responsible party is OrgC, and the procedure URL is https.
+
+The agreement has one transparency arrangement: DSA_0044_TA1. The notice type is layered, the issuer is OrgC, and the page URL is https.
+
+The agreement has one assessment: DSA_0044_Assess. The assessment type is DPIA, the outcome is medium, and the references are https://example.org/dpia.pdf.
+
+The agreement has one governance plan: DSA_0044_Gov. The review frequency is 6 months, the metric is AuditFindings<=2, and the audit right is third_party_audit.
+
+The agreement has one incident response plan: DSA_0044_IRP. The notification deadline is PT72H, and the contact point is mailto:sec@example.org.
+
+The agreement has one exit plan: DSA_0044_Exit. The exit trigger is contract_end, the data disposition is return, and the post-termination obligation is no contact after exit.
+
+The agreement has one population: children. The agreement applies to this population.
+
+The agreement has an enhanced safeguard for the population: age-appropriate design.
+
+The agreement has one review note: DSA_0044_RN1. The note justifies the processing activity, and recommends reducing the data categories used.
+```

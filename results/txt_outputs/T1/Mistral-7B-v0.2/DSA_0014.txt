@@ -1,0 +1,21 @@
+```
+This Data Sharing Agreement (DSA) is between OrgC and OrgE. It covers two processing activities: reporting and analytics. The agreement is effective from 2025-11-14T21:22:59Z.
+
+OrgC is the data controller and OrgE is the processor. The agreement includes a governance plan, an incident response plan, and an exit plan.
+
+The reporting processing activity has a legal basis of legitimate interest and uses data categories of location and contact. The analytics processing activity has a legal basis of legitimate interest and uses data category of contact.
+
+The shared dataset is called DSA_0014_DS1 and conforms to <https>. It has a storage of dpv:Storage with a duration of P18M. The disposal method is "Return".
+
+The rights handling for the dataset is called DSA_0014_RH1 and has a responsible party of OrgC. The procedure URL is <https>.
+
+The transparency arrangement for the dataset is called DSA_0014_TA1 and has a notice type of "direct". The issuer is OrgC. The page URL is <https>.
+
+The governance plan for the agreement is called DSA_0014_Gov and has a review frequency of P12M. The metric is "DSAR_SLA_<=30d". The audit right is "third_party_audit".
+
+The incident response plan for the agreement is called DSA_0014_IRP and has a notification deadline of PT72H. The contact point is "mailto:sec@example.org".
+
+The exit plan for the agreement is called DSA_0014_Exit and has an exit trigger of "contract_end". The data disposition is "Return". The post-termination obligation is "no_redisclosure".
+
+The population for the agreement is called DSA_0014_Population and has a title of "employees". The agreement includes the population.
+```

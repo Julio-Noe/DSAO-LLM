@@ -1,0 +1,50 @@
+Generate an EXECUTIVE SUMMARY (max 180 words) for the following Data Sharing Agreement (DSA).
+
+Use only information explicitly present in the TTL graph. Do not infer missing values from external knowledge or from typical DSA structure. If an important field is absent, omit it or write "not specified" without guessing.
+
+Prioritize the properties that are most consistently represented in the data corpus:
+
+1. Agreement metadata:
+   - DSA identifier: resource typed as dsao:DataSharingAgreement
+   - Version: dct:hasVersion
+   - Creation date: dct:created
+
+2. Parties and roles:
+   - Parties: dsao:hasParty
+   - Party names: dct:title
+   - Party roles: dpv:hasRole
+
+3. Purposes, processing, and data:
+   - DSA purposes: dpv:hasPurpose
+   - Processing activities: dsao:ProcessingActivity
+   - Legal bases: dpv:hasLegalBasis
+   - Data categories used/shared: dsao:usesData
+
+4. Dataset, retention, and disposal:
+   - Dataset: dsao:SharedDataset and/or dcat:Dataset
+   - Conformance link, if meaningful: dct:conformsTo
+   - Storage and retention period: dpv:hasStorage / dpv:hasDuration
+   - Disposal method: dsao:disposalMethod
+
+5. Population, rights, and transparency:
+   - Population: dsao:population / dct:title
+   - Rights handling: dsao:RightsHandling, dsao:forRight, dsao:responsibleParty, dsao:procedureURL
+   - Transparency arrangement: dsao:TransparencyArrangement, dsao:noticeType, dsao:issuer, foaf:page
+
+6. Governance, incident response, and exit:
+   - Governance plan: dsao:GovernancePlan, dsao:reviewFrequency, dsao:metric, dsao:auditRight
+   - Incident response: dsao:IncidentResponsePlan, dsao:notificationDeadline, dsao:contactPoint
+   - Exit plan: dsao:ExitPlan, dsao:exitTrigger, dsao:dataDisposition, dsao:postTerminationObligation
+
+Include the following only if explicitly present:
+- Assessment information: dsao:Assessment, dsao:assessmentType, dsao:assessmentOutcome, dct:references
+- International transfer information: dsao:InternationalTransfer, dsao:destinationCountry, dsao:transferMechanism, dsao:hasSafeguard
+- Child or vulnerable-population safeguards: dsao:enhancedSafeguard
+
+Do not require unsupported fields such as Producer BU, Consumer BU, Effective Start Date, Effective End Date, Business Use Cases, Subject Areas, or Usage Policy unless they are explicitly represented in the TTL.
+
+Write one concise professional paragraph suitable for an executive audience. Prefer clear labels such as parties, purposes, data categories, retention, rights, governance, incident response, and exit obligations.
+
+TTL input:
+
+{{TTL input}}

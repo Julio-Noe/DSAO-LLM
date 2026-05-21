@@ -1,0 +1,9 @@
+Here is the executive summary for the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgB, acting as the Data Controller, and OrgD, acting as the Recipient. The purposes of this DSA are analytics and fraud detection, with legal bases of public interest and legitimate interest. The data categories used or shared include contact information, location data, and financial data.
+
+The DSA specifies that the dataset will be stored for six months and disposed of using a secure delete method. The rights handling procedure is responsible to OrgB, which will erase personal data upon request. Transparency arrangements include indirect notice and a webpage maintained by OrgB.
+
+The governance plan outlines review frequency, metrics, and audit rights. The incident response plan includes notification deadlines and contact points. The exit plan specifies triggers, data disposition, and post-termination obligations.
+
+This DSA does not include assessment information, international transfer information, or child or vulnerable-population safeguards.

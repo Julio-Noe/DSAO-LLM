@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.4, was created on November 14, 2025. The agreement involves two parties: OrgB, acting as the Data Controller, and OrgD, acting as the Processor. The purposes of this DSA are analytics and fraud detection. The parties will process personal data categories including contact information, health data, and location data, with legal bases of contract and legitimate interest. The retention period is 18 months, and the disposal method is anonymization.
+
+The DSA has a governance plan in place, which includes regular reviews and audits. In case of an incident, OrgD will notify OrgB within 72 hours. The parties have also established an exit plan, which includes returning data and having no contact after the agreement ends. The DSA has undergone an assessment, which identified a medium-level risk and provided recommendations for mitigation.
+
+The parties have also established arrangements for transparency, including providing direct notices to individuals and maintaining a webpage with information about the DSA. The agreement includes safeguards for international data transfers, including destination country Singapore and transfer mechanism BCRs.
+
+Note that this summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

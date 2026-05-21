@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) is version 1.0.3, created on November 14, 2025. The parties involved are OrgD, acting as the Data Controller, and OrgC, acting as the Processor. The purposes of this DSA are fraud detection and analytics, with legal bases being contract and legitimate interest. The data categories used or shared include biometric and contact information.
+
+The dataset, DSA_0071_DS1, conforms to a standard and has storage and retention periods of 18 months. Disposal method is SecureDelete.
+
+Rights handling is managed by OrgD, responsible for the right of access. Transparency arrangements include indirect notice and a procedure URL.
+
+Assessment information is available, including an assessment type of DPIA with an outcome of medium. Governance plan, incident response plan, and exit plan are also specified.
+
+The population covered by this DSA is children. Enhanced safeguards include age-appropriate design. Review notes are available, including guidelines and decisions on data categories.
+
+Please note that this summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

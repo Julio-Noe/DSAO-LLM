@@ -1,0 +1,13 @@
+CQ-1 — reporting, research
+CQ-2 — legal_obligation, public_interest
+CQ-3 — OrgA: Data Controller, OrgD: Processor
+CQ-4 — contact, location
+CQ-5 — P12M, SecureDelete
+CQ-6 — ZA, BCRs, key_separation, encryption_at_rest
+CQ-7 — RightAccess, OrgA, <https>
+CQ-8 — direct, OrgA, <https>
+CQ-9 — TRA, high, <https://example.org/dpia.pdf>
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — P6M, AuditFindings<=2, third_party_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end, SecureDelete, no_redisclosure

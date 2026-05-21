@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgE and OrgD aims to facilitate the sharing of data for analytics and research purposes. The parties involved are OrgE, acting as the Data Controller, and OrgD, acting as the Processor. The purposes of data sharing are analytics and research, with legal bases established under public interest and contract respectively. The data categories used and shared include contact information, health records, and location data.
+
+The DSA specifies that the dataset will be stored for a period of 12 months and disposed of securely. The rights handling procedures are in place, with OrgE responsible for managing access to the data and providing a procedure URL. Transparency arrangements are also established, with OrgE as the issuer of notices and a webpage providing information on data sharing.
+
+The DSA has undergone an assessment, which identified a high level of risk. The governance plan outlines regular review and audit procedures to ensure compliance with the agreement. In case of incidents, OrgD will notify OrgE within 72 hours and provide contact information for further communication. The exit plan specifies that data will be disposed of securely upon contract termination, and OrgD will have no further contact with the data.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

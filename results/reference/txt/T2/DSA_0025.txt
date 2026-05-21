@@ -1,0 +1,13 @@
+CQ-1 — Purpose: dpv:analytics, dpv:research.
+CQ-2 — Processing activities and legal bases: dpv:research -> dpv:contract; dpv:analytics -> dpv:public_interest.
+CQ-3 — Parties and roles: OrgA as dpv:Processor; OrgB as dpv:DataController.
+CQ-4 — Data categories: dpv:biometric, dpv:financial.
+CQ-5 — Retention and disposal: P6M, Return.
+CQ-6 — Not stated in the TTL
+CQ-7 — Rights handling: OrgB, dpv:RightRectification, https.
+CQ-8 — Transparency: OrgB, direct, https.
+CQ-9 — Risk assessment: TRA, dpia.pdf, high.
+CQ-10 — Incident response: P3D, mailto:sec@example.org.
+CQ-11 — Governance and audit: AuditFindings<=2, P12M, on_site_yearly.
+CQ-12 — Not stated in the TTL
+CQ-13 — Exit and termination: SecureDelete, contract_end, no_redisclosure.

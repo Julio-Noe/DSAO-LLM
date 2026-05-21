@@ -1,0 +1,13 @@
+```
+The DSA is a contract between OrgD and OrgA. It has two purposes: fraud detection and research.
+OrgD is the data controller, and OrgA is a processor.
+The DSA contains two processing activities: one for fraud detection and another for research. Both have legal bases: public interest and contract, respectively.
+The DSA contains a shared dataset that conforms to a standard and has storage for 12 months. The disposal method is SecureDelete.
+The DSA contains a rights handling procedure for access to the dataset, which is handled by OrgD.
+The DSA contains a transparency arrangement with direct notice from OrgD to the dataset's users.
+The DSA contains an assessment with a type of TRA, an outcome of low, and references to a DPIA.
+The DSA contains a governance plan with a review frequency of 12 months, a metric of AuditFindings<=2, and an audit right of remote_audit.
+The DSA contains an incident response plan with a notification deadline of 72 hours and a contact point of sec@example.org.
+The DSA contains an exit plan with an exit trigger of contract_end, data disposition of Return, and a post-termination obligation of no_contact_after_exit.
+The DSA contains a population with the title of employees.
+```

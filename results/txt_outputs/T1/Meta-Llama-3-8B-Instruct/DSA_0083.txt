@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The agreement involves two parties: OrgE, acting as the Data Controller, and OrgD, acting as the Recipient. The purposes of this DSA are fraud detection and reporting, with legal bases of public interest and legitimate interest. The data categories used and shared include contact information and financial data.
+
+The dataset, DSA_0083_DS1, conforms to a standard and will be stored for 12 months before being disposed of through return. The rights handling, DSA_0083_RH1, is responsible to OrgE and outlines procedures for accessing data. Transparency arrangements, DSA_0083_TA1, include indirect notice and are issued by OrgE.
+
+The governance plan, DSA_0083_Gov, outlines review frequency and metrics for auditing. The incident response plan, DSA_0083_IRP, includes notification deadlines and contact points for security incidents. The exit plan, DSA_0083_Exit, outlines triggers and procedures for exiting the agreement. The population covered by this DSA is general.
+
+Note that assessment information, international transfer information, and child or vulnerable-population safeguards are not specified in this DSA.

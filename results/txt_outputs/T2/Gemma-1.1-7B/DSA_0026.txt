@@ -1,0 +1,27 @@
+Here are the answers to the competency questions based on the provided TTL content:
+
+CQ-1 — The purposes associated with the DSA are analytics and research.
+
+CQ-2 — Not specified. There is no information about processing activities linked to legal bases.
+
+CQ-3 — The parties participating in the DSA are OrgE (Data Controller) and OrgD (Recipient).
+
+CQ-4 — The categories of data used or shared are location, contact, and biometric.
+
+CQ-5 — Not specified. There is no information about retention duration and disposal method.
+
+CQ-6 — Not stated in the TTL. There is no information about international transfer details, including destination, transfer mechanism, and safeguard.
+
+CQ-7 — The data-subject rights handling includes the right to rectification, with responsible party OrgE and procedure URL https.
+
+CQ-8 — The transparency arrangement includes notice type "indirect", issuer OrgE, and page https.
+
+CQ-9 — Not specified. There is no information about DPIA or transfer-risk assessments.
+
+CQ-10 — The incident notification deadline is 72 hours, and the contact point is mailto:sec@example.org.
+
+CQ-11 — The governance plan includes review frequency every 6 months, audit right "third_party_audit", and metric "BreachMTTR<=72h".
+
+CQ-12 — Not specified. There is no information about children or child-specific safeguards.
+
+CQ-13 — The exit plan includes exit trigger "contract_end", data disposition "Return", and post-termination obligation "no_redisclosure".

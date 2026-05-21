@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.3, was created on November 14, 2025. The parties involved are OrgB (Data Controller) and OrgE (Processor). The purposes of the DSA are reporting and research, with legal bases of legitimate interest and legal obligation, respectively. The data categories used or shared include biometric and contact information.
+
+The dataset is stored for six months, with a disposal method of return. The DSA has an international transfer arrangement to Brazil, using the adequacy mechanism and pseudonymization and access control safeguards.
+
+The rights handling arrangement is responsible for OrgB, with a procedure URL provided. The transparency arrangement includes notice type indirect and issuer OrgB.
+
+The DSA has undergone an assessment, which concluded that the risk is low. The governance plan includes review frequency every 12 months and audit rights on site annually. The incident response plan has a notification deadline of 72 hours, with a contact point provided.
+
+The exit plan includes an exit trigger of contract end and data disposition of return, with post-termination obligations to prevent redisclosure. The population covered by the DSA is general.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

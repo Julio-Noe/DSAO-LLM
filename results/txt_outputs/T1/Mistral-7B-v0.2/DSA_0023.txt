@@ -1,0 +1,33 @@
+```
+The following DSA is between OrgE and OrgA. It covers two processing activities:
+- service provision (purpose: dpv:service_provision; legal basis: dpv:legal_obligation)
+- research (purpose: dpv:research; legal basis: dpv:legal_obligation)
+
+The data categories used/shared are:
+- health (used by DSA_0023_P1)
+- biometric (used by DSA_0023_P1 and DSA_0023_P2)
+
+The dataset shared is:
+- DSA_0023_DS1 (conformsTo <https>; storage: dpv:Storage; duration: P18M; disposalMethod: Anonymise)
+
+The rights handling is:
+- dpv:RightRectification (responsibleParty: OrgE; procedureURL: <https>)
+
+The transparency arrangement is:
+- dsao:noticeType "direct" (issuer: OrgE; page: <https>)
+
+The assessment information is:
+- dsao:assessmentType "TRA" (outcome: low; references: <https://example.org/dpia.pdf>)
+
+The governance plan is:
+- dsao:reviewFrequency "P12M" (metric: AuditFindings<=2; auditRight: remote_audit)
+
+The incident response plan is:
+- dsao:notificationDeadline "PT72H" (contactPoint: mailto:sec@example.org)
+
+The exit plan is:
+- dsao:exitTrigger "contract_end" (dataDisposition: SecureDelete; postTerminationObligation: no_contact_after_exit)
+
+The population is:
+- dsao:population "general"
+```

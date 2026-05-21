@@ -1,0 +1,13 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgA and OrgC outlines the terms for sharing data between the two parties. The primary purposes of this DSA are research and service provision, with legal bases established through contracts and public interest. The parties will process data categories including location and health, with storage and retention periods of six months. Data disposal will be achieved through anonymization.
+
+The DSA has a governance plan in place, which includes regular reviews and audits. In the event of an incident, OrgA will notify OrgC within 72 hours. The parties have also established an exit plan, which includes returning data and no redisclosure after the contract ends.
+
+The DSA has undergone an assessment, which identified a low risk. The parties have also implemented international transfer safeguards, including adequacy and pseudonymization measures.
+
+The DSA includes transparency arrangements, which include notice types and issuers. The parties have also established rights handling procedures for rectification, with responsible party OrgA and procedure URL provided.
+
+Assessment information is available, including an assessment type of TRA and outcome of low risk. The DSA has also been reviewed, with a decision to reduce data categories and a rating of 2.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

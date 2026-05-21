@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.5, was created on November 14, 2025. The agreement involves two parties: OrgE (Data Controller) and OrgD (Recipient). The purposes of the DSA are reporting and analytics, with legal bases being contract and legitimate interest. The data categories used or shared include contact information and biometric data.
+
+The dataset, DSA_0005_DS1, conforms to a standard and will be stored for six months before being disposed of through anonymization. The international transfer of data to South Africa (ZA) will be done using the Business Compliance and Risk Services (BCRs) mechanism, with safeguards in place for encryption at rest and key separation.
+
+The rights handling procedure is managed by OrgE, with procedures in place for erasure and notification. Transparency arrangements include a layered notice type and an issuer, OrgE.
+
+The governance plan includes regular reviews every 12 months, with metrics such as breach MTTR (mean time to resolve) and audit rights. The incident response plan includes a notification deadline of 72 hours, with contact information provided.
+
+The exit plan outlines the procedures for exiting the agreement, including data disposition and post-termination obligations. The population covered by this DSA is employees.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

@@ -1,0 +1,11 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgD and OrgE.
+It covers two processing activities: analytics and reporting.
+The agreement is governed by the GDPR, and includes a governance plan, an incident response plan, and an exit plan.
+The agreement covers the following data categories: financial, health, and biometric.
+The agreement includes a rights handling procedure for the right to erasure, and a transparency arrangement.
+The agreement has been assessed using a DPIA, which concluded that the agreement is medium risk.
+The agreement includes an enhanced safeguard for children.
+```

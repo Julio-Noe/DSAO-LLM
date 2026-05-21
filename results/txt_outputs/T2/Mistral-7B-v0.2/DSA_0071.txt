@@ -1,0 +1,13 @@
+CQ-1 — fraud_detection, analytics
+CQ-2 — contract:DSA_0071_P1, legitimate_interest:DSA_0071_P2
+CQ-3 — OrgD:DataController, OrgC:Processor
+CQ-4 — contact, biometric
+CQ-5 — SecureDelete
+CQ-6 — Not stated in the TTL
+CQ-7 — RightAccess:DSA_0071_RH1
+CQ-8 — indirect:DSA_0071_TA1
+CQ-9 — DPIA:DSA_0071_Assess
+CQ-10 — PT72H:DSA_0071_IRP
+CQ-11 — reviewFrequency:DSA_0071_Gov, metric:DSA_0071_Gov, auditRight:DSA_0071_Gov
+CQ-12 — children:DSA_0071, age_appropriate_design:DSA_0071
+CQ-13 — contract_end:DSA_0071_Exit, no_contact_after_exit:DSA_0071_Exit

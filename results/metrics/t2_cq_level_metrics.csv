@@ -1,0 +1,40 @@
+model,cq_id,label,items,answerable,missing,strict,semantic,abstention,unsupported,ttl_supported_wrong_field_rate
+Gemma-1.1-7B,CQ-1,Purpose,100,100,0,1,1,,,
+Gemma-1.1-7B,CQ-2,Processing activity / Legal basis,100,100,0,0,0,,,
+Gemma-1.1-7B,CQ-3,Parties and roles,100,100,0,1,1,,,
+Gemma-1.1-7B,CQ-4,Data categories,100,100,0,0.86,0.86,,,
+Gemma-1.1-7B,CQ-5,Retention and disposal,100,100,0,0.15,0.15,,,
+Gemma-1.1-7B,CQ-6,International transfer,100,32,68,0.99,0.99,1,0,0
+Gemma-1.1-7B,CQ-7,Rights handling,100,100,0,0.03,0.03,,,
+Gemma-1.1-7B,CQ-8,Transparency,100,100,0,0.66,0.66,,,
+Gemma-1.1-7B,CQ-9,Risk assessment,100,78,22,0.22,0.46,0.9545454545454546,0,0
+Gemma-1.1-7B,CQ-10,Incident response,100,100,0,0.35,0.79,,,
+Gemma-1.1-7B,CQ-11,Governance and audit,100,100,0,0.47,0.47,,,
+Gemma-1.1-7B,CQ-12,Children / vulnerable data subjects,100,29,71,1,1,1,0,0
+Gemma-1.1-7B,CQ-13,Exit and termination,100,100,0,0.84,0.84,,,
+Meta-Llama-3-8B-Instruct,CQ-1,Purpose,100,100,0,1,1,,,
+Meta-Llama-3-8B-Instruct,CQ-2,Processing activity / Legal basis,100,100,0,0,0,,,
+Meta-Llama-3-8B-Instruct,CQ-3,Parties and roles,100,100,0,1,1,,,
+Meta-Llama-3-8B-Instruct,CQ-4,Data categories,100,100,0,0.86,0.86,,,
+Meta-Llama-3-8B-Instruct,CQ-5,Retention and disposal,100,100,0,0.16,0.16,,,
+Meta-Llama-3-8B-Instruct,CQ-6,International transfer,100,32,68,0.98,0.98,1,0,0
+Meta-Llama-3-8B-Instruct,CQ-7,Rights handling,100,100,0,0.04,0.04,,,
+Meta-Llama-3-8B-Instruct,CQ-8,Transparency,100,100,0,0.66,0.66,,,
+Meta-Llama-3-8B-Instruct,CQ-9,Risk assessment,100,78,22,0.23,0.47,1,0,0
+Meta-Llama-3-8B-Instruct,CQ-10,Incident response,100,100,0,0.3,0.75,,,
+Meta-Llama-3-8B-Instruct,CQ-11,Governance and audit,100,100,0,0.52,0.52,,,
+Meta-Llama-3-8B-Instruct,CQ-12,Children / vulnerable data subjects,100,29,71,1,1,1,0,0
+Meta-Llama-3-8B-Instruct,CQ-13,Exit and termination,100,100,0,0.87,0.87,,,
+Mistral-7B-v0.2,CQ-1,Purpose,100,100,0,0.98,0.98,,,
+Mistral-7B-v0.2,CQ-2,Processing activity / Legal basis,100,100,0,0.05,0.05,,,
+Mistral-7B-v0.2,CQ-3,Parties and roles,100,100,0,0.77,0.77,,,
+Mistral-7B-v0.2,CQ-4,Data categories,100,100,0,0.88,0.88,,,
+Mistral-7B-v0.2,CQ-5,Retention and disposal,100,100,0,0.43,0.43,,,
+Mistral-7B-v0.2,CQ-6,International transfer,100,32,68,0.79,0.79,0.75,0.07352941176470588,0.17647058823529413
+Mistral-7B-v0.2,CQ-7,Rights handling,100,100,0,0.56,0.56,,,
+Mistral-7B-v0.2,CQ-8,Transparency,100,100,0,0.9,0.9,,,
+Mistral-7B-v0.2,CQ-9,Risk assessment,100,78,22,0.2,0.67,0.9090909090909091,0,0.09090909090909091
+Mistral-7B-v0.2,CQ-10,Incident response,100,100,0,0.8,0.9,,,
+Mistral-7B-v0.2,CQ-11,Governance and audit,100,100,0,0.75,0.75,,,
+Mistral-7B-v0.2,CQ-12,Children / vulnerable data subjects,100,29,71,0.76,0.76,0.7746478873239436,0.18309859154929578,0.028169014084507043
+Mistral-7B-v0.2,CQ-13,Exit and termination,100,100,0,0.93,0.93,,,

@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The agreement involves two parties: OrgB, acting as the Data Controller, and OrgE, acting as the Recipient. The purposes of this DSA are research and analytics, with legal bases including a legal obligation and legitimate interest. The data categories used or shared include financial and location information.
+
+The DSA specifies a retention period of 18 months, with data to be disposed of securely. Rights handling is managed by OrgB, which is responsible for access rights and has a procedure in place. Transparency arrangements include indirect notice and an issuer, OrgB.
+
+The governance plan outlines review frequency, metrics, and audit rights. The incident response plan includes notification deadlines and contact points. The exit plan specifies triggers, data disposition, and post-termination obligations.
+
+The DSA also includes population information, with enhanced safeguards in place for children. Assessment information is not specified.
+
+Note that this summary only includes the explicitly represented fields in the TTL graph and does not infer missing values or include unsupported fields.

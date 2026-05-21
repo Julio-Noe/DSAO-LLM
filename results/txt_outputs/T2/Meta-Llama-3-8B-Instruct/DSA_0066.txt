@@ -1,0 +1,27 @@
+Here are the answers to the competency questions based on the provided TTL content:
+
+CQ-1 — The purposes associated with the DSA are reporting and service provision.
+
+CQ-2 — Not specified
+
+CQ-3 — The parties participating in the DSA are OrgC (Data Controller) and OrgE (Processor).
+
+CQ-4 — The categories of data used or shared are health and location.
+
+CQ-5 — Not specified
+
+CQ-6 — Not stated in the TTL
+
+CQ-7 — Data-subject rights are handled by OrgC, and the procedure URL is https.
+
+CQ-8 — Transparency arrangements include indirect notice type issued by OrgC, with a page at https.
+
+CQ-9 — A DPIA assessment is specified, with an assessment type of DPIA, outcome of high, and a reference to https://example.org/dpia.pdf.
+
+CQ-10 — Incident notification deadline is 72 hours, and the contact point is mailto:sec@example.org.
+
+CQ-11 — Governance plan review frequency is every 12 months, with a metric of DSAR_SLA_<=30d and audit right for remote audits.
+
+CQ-12 — Not specified
+
+CQ-13 — Exit plan exit trigger is contract end, data disposition is SecureDelete, and post-termination obligation is no contact after exit.

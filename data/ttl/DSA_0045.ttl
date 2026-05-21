@@ -1,0 +1,43 @@
+@prefix :      <https://example.org/dsao/inst/> .
+@prefix dsao:  <https://w3id.org/dsao#> .
+@prefix dpv:   <https://w3id.org/dpv#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+:DSA_0045 a dsao:DataSharingAgreement ;
+  dct:hasVersion "1.0.3" ;
+  dpv:hasPurpose dpv:research , dpv:hasPurpose dpv:reporting ;
+  dsao:hasParty :OrgD , :OrgB ;
+  dsao:hasGovernancePlan :DSA_0045_Gov ;
+  dsao:hasIncidentResponsePlan :DSA_0045_IRP ;
+  dsao:hasExitPlan :DSA_0045_Exit ;
+  dct:created "2025-11-14T21:22:59Z"^^xsd:dateTime .
+
+:OrgD a dsao:Party ; dct:title "OrgD" ; dpv:hasRole dpv:DataController .
+:OrgB a dsao:Party ; dct:title "OrgB" ; dpv:hasRole dpv:Recipient .
+
+:DSA_0045_P1 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:research ; dpv:hasLegalBasis dpv:legal_obligation ; dsao:usesData dpv:health , dsao:usesData dpv:location .
+:DSA_0045_P2 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:reporting ; dpv:hasLegalBasis dpv:public_interest ; dsao:usesData dpv:financial .
+
+:DSA_0045_DS1 a dsao:SharedDataset , dcat:Dataset ;
+  dct:conformsTo <https> ;
+  dpv:hasStorage [ a dpv:Storage ; dpv:hasDuration "P6M"^^xsd:duration ] ;
+  dsao:disposalMethod "Return" .
+
+:DSA_0045_T1 a dsao:InternationalTransfer ; dsao:destinationCountry "DE" ; dsao:transferMechanism "BCRs" ; dsao:hasSafeguard dpv:encryption_at_rest , dsao:hasSafeguard dpv:pseudonymisation .
+
+:DSA_0045_RH1 a dsao:RightsHandling ; dsao:forRight dpv:RightErasure ; dsao:responsibleParty :OrgD ; dsao:procedureURL <https> .
+
+:DSA_0045_TA1 a dsao:TransparencyArrangement ; dsao:noticeType "direct" ; dsao:issuer :OrgD ; foaf:page <https> .
+
+:DSA_0045_Assess a dsao:Assessment ; dsao:assessmentType "DPIA" ; dsao:assessmentOutcome "high" ; dct:references <https://example.org/dpia.pdf> .
+:DSA_0045 dsao:hasAssessment :DSA_0045_Assess .
+
+:DSA_0045_Gov a dsao:GovernancePlan ; dsao:reviewFrequency "P6M" ; dsao:metric "DSAR_SLA_<=30d" ; dsao:auditRight "third_party_audit" .
+:DSA_0045_IRP a dsao:IncidentResponsePlan ; dsao:notificationDeadline "PT72H"^^xsd:duration ; dsao:contactPoint "mailto:sec@example.org" .
+:DSA_0045_Exit a dsao:ExitPlan ; dsao:exitTrigger "contract_end" ; dsao:dataDisposition "SecureDelete" ; dsao:postTerminationObligation "no_redisclosure" .
+:DSA_0045_Population a dsao:Population ; dct:title "children" .
+:DSA_0045 dsao:population :DSA_0045_Population .
+:DSA_0045 dsao:enhancedSafeguard dpv:age_appropriate_design .

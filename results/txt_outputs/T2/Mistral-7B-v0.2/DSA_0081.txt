@@ -1,0 +1,13 @@
+CQ-1 — research, analytics
+CQ-2 — legitimate_interest
+CQ-3 — OrgD:DataController, OrgA:Processor
+CQ-4 — health, financial, location
+CQ-5 — P12M, SecureDelete
+CQ-6 — Not stated in the TTL
+CQ-7 — RightAccess, OrgD, <https>
+CQ-8 — layered, OrgD, <https>
+CQ-9 — DPIA, high, <https://example.org/dpia.pdf>
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — reviewFrequency=P6M, metric="DSAR_SLA_<=30d", remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end, SecureDelete, no_redisclosure

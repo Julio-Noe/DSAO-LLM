@@ -1,0 +1,13 @@
+CQ-1 — Specified purposes are reporting and research.
+CQ-2 — Legal basis for processing activity DSA_0082_P1 is legal obligation.
+CQ-3 — OrgA has role processor and OrgC has role data controller.
+CQ-4 — Data categories used or shared are health, biometric, and financial.
+CQ-5 — Retention duration is 6 months and disposal method is return.
+CQ-6 — International transfer details are specified: destination country is MX, transfer mechanism is adequacy, and safeguards are key separation and access control.
+CQ-7 — Data subject rights handling is specified: right is erasure, responsible party is OrgC, and procedure URL is https://example.org/dsa-rights.html.
+CQ-8 — Transparency arrangements are specified: notice type is layered, issuer is OrgC, and page is https://example.org/dsa-notice.html.
+CQ-9 — DPIA or transfer risk assessment is specified: assessment type is TRA, trigger is high, and reference is https://example.org/dpia.pdf.
+CQ-10 — Incident notification deadline is 72 hours and contact point is mailto:sec@example.org.
+CQ-11 — Governance, audit, or review arrangements are specified: review frequency is 6 months, metric is DSAR SLA <= 30d, and audit right is third-party audit.
+CQ-12 — Children or child-specific safeguards are not represented.
+CQ-13 — Exit or termination obligations are specified: exit trigger is contract end, data disposition is return, and post-termination obligation is no contact after exit.

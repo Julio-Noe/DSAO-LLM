@@ -1,0 +1,13 @@
+CQ-1 — Purpose: dpv:reporting, dpv:research.
+CQ-2 — Processing activities and legal bases: dpv:reporting -> dpv:legal_obligation; dpv:research -> dpv:public_interest.
+CQ-3 — Parties and roles: OrgC as dpv:Processor; OrgD as dpv:DataController.
+CQ-4 — Data categories: dpv:health, dpv:location.
+CQ-5 — Retention and disposal: P1Y6M, Return.
+CQ-6 — International transfer details: BCRs, JP, dpv:access_control, dpv:encryption_at_rest.
+CQ-7 — Rights handling: OrgD, dpv:RightAccess, https.
+CQ-8 — Transparency: OrgD, https, layered.
+CQ-9 — Risk assessment: DPIA, dpia.pdf, low.
+CQ-10 — Incident response: P3D, mailto:sec@example.org.
+CQ-11 — Governance and audit: BreachMTTR<=72h, P6M, third_party_audit.
+CQ-12 — Child or vulnerable-population information: children, dpv:age_appropriate_design.
+CQ-13 — Exit and termination: SecureDelete, contract_end, no_redisclosure.

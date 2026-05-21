@@ -1,0 +1,13 @@
+CQ-1 — Specified: fraud_detection, service_provision
+CQ-2 — Specified: legal_obligation, public_interest
+CQ-3 — Specified: OrgE (DataController), OrgB (Recipient)
+CQ-4 — Specified: health, location
+CQ-5 — Not specified
+CQ-6 — Specified: BR, BCRs, pseudonymisation, encryption_at_rest
+CQ-7 — Specified: RightAccess, OrgE, <https>
+CQ-8 — Specified: indirect, OrgE, <https>
+CQ-9 — Specified: DPIA, medium, https://example.org/dpia.pdf
+CQ-10 — Specified: PT72H, mailto:sec@example.org
+CQ-11 — Specified: P6M, BreachMTTR<=72h, remote_audit
+CQ-12 — Not specified
+CQ-13 — Specified: contract_end, Return, no_redisclosure

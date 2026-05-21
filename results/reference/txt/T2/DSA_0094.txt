@@ -1,0 +1,13 @@
+CQ-1 — Purpose: dpv:fraud_detection, dpv:research.
+CQ-2 — Processing activities and legal bases: dpv:fraud_detection -> dpv:public_interest; dpv:research -> dpv:public_interest.
+CQ-3 — Parties and roles: OrgB as dpv:DataController; OrgD as dpv:Processor.
+CQ-4 — Data categories: dpv:biometric, dpv:contact, dpv:health.
+CQ-5 — Retention and disposal: Anonymise, P6M.
+CQ-6 — International transfer details: BR, SCCs, dpv:access_control, dpv:key_separation.
+CQ-7 — Rights handling: OrgB, dpv:RightErasure, https.
+CQ-8 — Transparency: OrgB, https, indirect.
+CQ-9 — Risk assessment: DPIA, dpia.pdf, high.
+CQ-10 — Incident response: P3D, mailto:sec@example.org.
+CQ-11 — Governance and audit: BreachMTTR<=72h, P12M, remote_audit.
+CQ-12 — Not stated in the TTL
+CQ-13 — Exit and termination: SecureDelete, contract_end, no_redisclosure.

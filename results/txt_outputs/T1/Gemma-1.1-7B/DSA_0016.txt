@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The parties involved are OrgB, a data controller, and OrgE, a recipient. The purposes of the DSA are research and analytics, with legal bases including legal obligation and legitimate interest. The data categories used or shared are financial and location information.
+
+The DSA has a governance plan, incident response plan, and exit plan in place. The governance plan includes review frequency every six months, metrics for data access, and remote audit rights. The incident response plan includes notification deadlines and contact points.
+
+The DSA also has a transparency arrangement in place, which includes indirect notice types and responsible parties. The enhanced safeguard for vulnerable populations is age-appropriate design.
+
+This summary provides an overview of the key elements of the DSA, including parties, purposes, data categories, retention, rights, governance, incident response, and exit obligations.

@@ -1,0 +1,9 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) between OrgD and OrgC outlines the terms for sharing data between the two parties. The primary purposes of this DSA are research and reporting, with legal bases including a legal obligation and legitimate interest. The data categories involved include biometric, location, and contact information.
+
+The DSA specifies that the shared dataset will be stored for six months and disposed of through a return process. The parties have implemented international transfer arrangements, including the destination country Japan and transfer mechanisms such as Standard Contractual Clauses (SCCs). Enhanced safeguards have been put in place to protect vulnerable populations, including children.
+
+The DSA also outlines rights handling procedures, including the right of erasure and a responsible party for processing. Transparency arrangements have been established, with notice provided indirectly through OrgD's website.
+
+Assessment information is available, including a TRA (Transparency Review Assessment) outcome of "medium". Governance, incident response, and exit plans are in place, including a review frequency of every six months and an audit right for third-party audits.

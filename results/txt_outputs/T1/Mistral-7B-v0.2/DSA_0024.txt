@@ -1,0 +1,23 @@
+The following is an example response.
+
+```
+This Data Sharing Agreement (DSA) governs the sharing of data between OrgB and OrgD.
+
+OrgB is a Data Controller, responsible for collecting and processing personal data. OrgD is a Processor, responsible for analyzing the data on behalf of OrgB.
+
+The purposes of this DSA are fraud detection and research. The data categories used/shared include contact information, health records, and financial data.
+
+The dataset is stored for 12 months and then securely deleted. The disposal method is SecureDelete.
+
+The DSA includes an international transfer to ZA, with Adequacy as the transfer mechanism and key separation and pseudonymization as safeguards.
+
+The rights handling includes a procedure for erasure, with OrgB as the responsible party. The transparency arrangement is indirect, with OrgB as the issuer and a webpage as the notice.
+
+The governance plan includes an audit every 12 months, with a metric of AuditFindings<=2 and on-site audits yearly.
+
+The incident response plan includes a notification deadline of 72 hours and contact information for OrgB.
+
+The exit plan includes a trigger of contract end, data disposition of return, and post-termination obligation of no redisclosure.
+
+The population is employees.
+```

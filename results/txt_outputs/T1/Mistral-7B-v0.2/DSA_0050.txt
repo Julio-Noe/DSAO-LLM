@@ -1,0 +1,11 @@
+The following is an example response to the above instruction.
+
+This Data Sharing Agreement (DSA) establishes a framework for the sharing of data between two parties: OrgA and OrgC. The DSA is versioned as 1.0.5, created on November 14th, 2025, and has two purposes: reporting and research.
+
+OrgA is the data controller, responsible for processing personal data under the legal basis of a contract. The agreement outlines two processing activities: DSA_0050_P1 and DSA_0050_P2. The first processing activity, DSA_0050_P1, is for reporting purposes and has a legal basis of contract. It uses data categories of health and financial information. The second processing activity, DSA_0050_P2, is for research purposes and has a legal basis of contract. It uses data categories of contact information.
+
+OrgC is the recipient, responsible for processing personal data under the legal basis of a contract. The agreement outlines two processing activities: DSA_0050_P1 and DSA_0050_P2. The first processing activity, DSA_0050_P1, is for reporting purposes and has a legal basis of contract. It uses data categories of health and financial information. The second processing activity, DSA_0050_P2, is for research purposes and has a legal basis of contract. It uses data categories of contact information.
+
+The agreement outlines a governance plan, incident response plan, and exit plan. The governance plan is outlined in DSA_0050_Gov, which specifies a review frequency of every six months, a metric of BreachMTTR<=72h, and an audit right of third-party audit. The incident response plan is outlined in DSA_0050_IRP, which specifies a notification deadline of 72 hours and a contact point of mailto:sec@example.org. The exit plan is outlined in DSA_0050_Exit, which specifies an exit trigger of contract end, data disposition of return, and a post-termination obligation of no redisclosure.
+
+The agreement also outlines a population, rights handling, and transparency arrangement. The population is outlined in DSA_0050_Population, which specifies a title of children. The rights handling is outlined in DSA_0050_RH1, which specifies a right of erasure, a responsible party of OrgA, and a procedure URL of <https>. The transparency arrangement is outlined in DSA_0050_TA1, which specifies a

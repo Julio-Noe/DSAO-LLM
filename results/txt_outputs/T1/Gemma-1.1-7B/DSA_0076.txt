@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgE and OrgC outlines the terms for sharing data between the two parties. The primary purposes of this DSA are analytics and service provision, with legal bases grounded in the public interest. The parties will process personal data categories including contact information and financial details.
+
+The shared dataset, DSA_0076_DS1, conforms to a specific standard and will be stored for 12 months before being disposed of through anonymization. The rights handling process, DSA_0076_RH1, ensures that individuals have the right to rectification and that OrgE is responsible for handling these requests.
+
+The transparency arrangement, DSA_0076_TA1, provides layered notices and is issued by OrgE. The governance plan, DSA_0076_Gov, outlines review frequencies and metrics for auditing, while the incident response plan, DSA_0076_IRP, sets a 72-hour notification deadline and designates a contact point. The exit plan, DSA_0076_Exit, specifies the trigger for exiting the agreement and outlines data disposition and post-termination obligations.
+
+The population covered by this DSA is general, with no specific safeguards in place for child or vulnerable populations.

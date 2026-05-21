@@ -1,0 +1,29 @@
+The following is an example of a response that would be considered correct.
+
+```
+This Data Sharing Agreement (DSA) is between OrgD and OrgE. It covers two processing activities:
+- Service provision (purpose: dpv:service_provision, legal basis: dpv:contract)
+- Reporting (purpose: dpv:reporting, legal basis: dpv:public_interest)
+
+The agreement includes a governance plan with review frequency of every 6 months, an incident response plan with notification deadline of 72 hours, and an exit plan.
+
+The agreement covers the following data categories:
+- Location (dpv:location)
+- Health (dpv:health)
+- Contact (dpv:contact)
+
+The agreement includes a shared dataset with the following characteristics:
+- Conforms to <https>
+- Storage: dpv:Storage with duration of 12 months
+- Disposal method: Anonymise
+
+The agreement includes a rights handling procedure for dpv:RightErasure, with responsible party OrgD and procedure URL <https>.
+
+The agreement includes a transparency arrangement with notice type "layered", issuer OrgD, and page <https>.
+
+The agreement includes an assessment with type "TRA", outcome "low", and references <https://example.org/dpia.pdf>.
+
+The agreement includes a population of children.
+
+The agreement includes enhanced safeguards for dpv:age_appropriate_design.
+```

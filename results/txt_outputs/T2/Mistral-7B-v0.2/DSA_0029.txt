@@ -1,0 +1,13 @@
+CQ-1 — Specified purposes are fraud_detection and reporting.
+CQ-2 — Legal basis for processing activity DSA_0029_P1 is legal_obligation. Legal basis for processing activity DSA_0029_P2 is legitimate_interest.
+CQ-3 — Participating parties are OrgE and OrgC. Roles of OrgE are DataController and OrgC is Recipient.
+CQ-4 — Categories of data used or shared are location and biometric.
+CQ-5 — Retention duration is P6M and disposal method is SecureDelete.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights handling is for RightErasure, responsible party is OrgE and procedureURL is https.
+CQ-8 — Transparency arrangements are direct, issuer is OrgE and foaf:page is https.
+CQ-9 — DPIA assessment outcome is low and dct:references is https://example.org/dpia.pdf.
+CQ-10 — Incident notification deadline is PT72H and contact point is mailto:sec@example.org.
+CQ-11 — Governance, audit or review arrangements are not specified.
+CQ-12 — Children or child-specific safeguards are not represented.
+CQ-13 — Exit or termination obligations are contract_end, Return and no_contact_after_exit.

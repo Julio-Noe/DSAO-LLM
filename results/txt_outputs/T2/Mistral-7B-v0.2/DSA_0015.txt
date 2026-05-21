@@ -1,0 +1,13 @@
+CQ-1 — The DSA has two purposes, research and analytics.
+CQ-2 — The processing activity “DSA_0015_P1” has a legal basis of public interest and uses the data categories biometric and financial. The processing activity “DSA_0015_P2” has a legal basis of legal obligation and uses the data category health.
+CQ-3 — The parties to this DSA are “OrgE” and “OrgA”. OrgE has the role of data controller, while OrgA has the role of processor.
+CQ-4 — The data categories used or shared are biometric, financial, and health.
+CQ-5 — The retention duration is 6 months, and the disposal method is SecureDelete.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights are handled by the responsible party “OrgE” and procedure URL “https://example.org/dsa-rights”.
+CQ-8 — Transparency arrangements are specified by the notice type “indirect”, issuer “OrgE”, and page “https://example.org/dsa-notice”.
+CQ-9 — DPIA or transfer risk assessments are not specified.
+CQ-10 — Incident notification deadline and contact point are not specified.
+CQ-11 — Governance, audit, or review arrangements are not specified.
+CQ-12 — Children or child-specific safeguards are not represented.
+CQ-13 — Exit or termination obligations are not specified.

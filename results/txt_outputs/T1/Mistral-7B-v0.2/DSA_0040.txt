@@ -1,0 +1,19 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is version 1.0.2, created on November 14, 2025.
+It involves two parties: OrgA as the Data Controller and OrgD as the Recipient.
+The purposes of this DSA are fraud detection and analytics, with legal bases of public interest and legitimate interest.
+The processing activities include:
+- DSA_0040_P1: fraud detection with legal basis of public interest and data categories of location and biometric.
+- DSA_0040_P2: analytics with legal basis of legitimate interest and data category of health.
+The shared dataset is DSA_0040_DS1, which conforms to <https> and has a storage duration of 6 months.
+The disposal method is "Return".
+Rights handling includes DSA_0040_RH1, which handles the right of erasure with responsible party OrgA and procedure URL <https>.
+Transparency arrangement is DSA_0040_TA1, which has notice type of "direct" and issuer OrgA with foaf:page <https>.
+Assessment information is DSA_0040_Assess, which has assessment type of TRA, assessment outcome of "medium", and references <https://example.org/dpia.pdf>.
+Governance plan is DSA_0040_Gov, which has review frequency of 6 months, metric of "DSAR_SLA_<=30d", and audit right of "remote_audit".
+Incident response plan is DSA_0040_IRP, which has notification deadline of 72 hours and contact point "mailto:sec@example.org".
+Exit plan is DSA_0040_Exit, which has exit trigger of "contract_end", data disposition of "Return", and post-termination obligation of "no_contact_after_exit".
+The population is employees.
+```

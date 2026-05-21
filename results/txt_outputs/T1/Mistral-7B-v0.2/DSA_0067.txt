@@ -1,0 +1,17 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgC and OrgE.
+It covers two processing activities: fraud detection and service provision.
+The agreement is governed by a governance plan, an incident response plan, and an exit plan.
+The agreement covers the following data categories: location, health, and contact.
+The dataset is stored for 18 months and then disposed of securely.
+Rights handling includes the right to erasure, with OrgC as the responsible party and a procedure URL.
+Transparency arrangements include indirect notice from OrgC, with a page at https://example.org/dsa-notice.
+The agreement was assessed using a DPIA, with an outcome of low risk and a reference to https://example.org/dpia.pdf.
+The governance plan includes a review frequency of every 12 months, a metric of AuditFindings<=2, and an audit right of third-party audit.
+The incident response plan includes a notification deadline of 72 hours and a contact point of sec@example.org.
+The exit plan includes an exit trigger of contract_end, data disposition of SecureDelete, and a post-termination obligation of no redisclosure.
+The agreement covers the population of children.
+It includes enhanced safeguards for age-appropriate design.
+```

@@ -1,0 +1,13 @@
+CQ-1 — Specified: fraud_detection, research
+CQ-2 — Specified: contract, public_interest
+CQ-3 — Specified: OrgB (DataController), OrgE (Processor)
+CQ-4 — Specified: health, biometric
+CQ-5 — Not specified
+CQ-6 — Specified: JP, BCRs, access_control, pseudonymisation
+CQ-7 — Specified: RightErasure, OrgB, <https>
+CQ-8 — Specified: direct, OrgB, <https>
+CQ-9 — Not specified
+CQ-10 — Specified: PT72H, mailto:sec@example.org
+CQ-11 — Not specified
+CQ-12 — Not stated in the TTL
+CQ-13 — Specified: contract_end, SecureDelete, no_redisclosure

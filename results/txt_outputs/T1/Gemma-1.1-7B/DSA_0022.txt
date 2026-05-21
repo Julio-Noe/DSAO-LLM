@@ -1,0 +1,9 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) governs the sharing of data between two parties, OrgC and OrgD. The purposes of this DSA are reporting and service provision, with legal bases of public interest and legal obligation. The data categories used and shared include financial and location information.
+
+The DSA has a governance plan, incident response plan, and exit plan in place. The governance plan includes regular reviews and audit rights, while the incident response plan outlines notification deadlines and contact points. The exit plan specifies triggers for termination, data disposition, and post-termination obligations.
+
+The DSA also includes transparency arrangements, with a notice type of layered notices issued by OrgC. The agreement has undergone an assessment, which concluded that the risks are low. International transfer of data is allowed to Brazil, with safeguards in place including pseudonymization and access control.
+
+Finally, the DSA includes enhanced safeguards for vulnerable populations, such as children, with age-appropriate design measures in place.

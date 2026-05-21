@@ -1,0 +1,13 @@
+```
+The DSA is a data sharing agreement between OrgB and OrgA. It has two purposes: fraud detection and service provision.
+
+OrgB is the data controller, and OrgA is the recipient. The agreement includes a governance plan with a review frequency of 12 months, an incident response plan with a notification deadline of 72 hours, and an exit plan.
+
+The agreement covers two processing activities: fraud detection and service provision. The data categories used in the agreement are financial and location data.
+
+The shared dataset is a Dataset that conforms to <https>. It has a storage period of 12 months and is disposed of by anonymization.
+
+The agreement includes a rights handling procedure for the right to erasure, which is handled by OrgB. The transparency arrangement is a layered notice issued by OrgB and available at <https>.
+
+The agreement includes an enhanced safeguard for children.
+```

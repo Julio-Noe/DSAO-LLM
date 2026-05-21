@@ -1,0 +1,34 @@
+CQ-1 — Specified purposes are research and reporting.
+CQ-2 — Legal basis for processing activity DSA_0045_P1 is legal obligation.
+Legal basis for processing activity DSA_0045_P2 is public interest.
+CQ-3 — Participating parties are OrgD and OrgB.
+OrgD has role DataController.
+OrgB has role Recipient.
+CQ-4 — Categories of data used or shared are health and location.
+CQ-5 — Retention duration is 6 months.
+Disposal method is Return.
+CQ-6 — International transfer details are specified.
+Destination country is DE.
+Transfer mechanism is BCRs.
+Safeguards are encryption at rest and pseudonymisation.
+CQ-7 — Data subject rights handling is specified for right Erasure.
+Responsible party is OrgD.
+Procedure URL is https://example.org/dsa_0045_rights_handling.pdf.
+CQ-8 — Transparency arrangements are specified for notice type direct.
+Issuer is OrgD.
+Foaf:page is https://example.org/dsa_0045_transparency.pdf.
+CQ-9 — DPIA assessment is specified.
+Assessment outcome is high.
+Dct:references is https://example.org/dpia.pdf.
+CQ-10 — Incident notification deadline is 72 hours.
+Contact point is mailto:sec@example.org.
+CQ-11 — Governance, audit, or review arrangements are specified.
+Review frequency is 6 months.
+Metric is DSAR_SLA_<=30d.
+Audit right is third-party audit.
+CQ-12 — Children or child-specific safeguards are represented.
+Child-related condition is age appropriate design.
+CQ-13 — Exit or termination obligations are specified.
+Exit trigger is contract end.
+Data disposition is SecureDelete.
+Post-termination obligation is no redisclosure.

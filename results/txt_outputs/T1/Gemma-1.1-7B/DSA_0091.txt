@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgA and OrgD aims to facilitate the sharing of data for research and analytics purposes. The parties involved are OrgA, acting as the Data Controller, and OrgD, serving as the Recipient. The purposes of this DSA are to support research and analytics activities.
+
+The data categories involved in this agreement include health-related information and contact details. The legal bases for processing these data are the public interest and legal obligations.
+
+The dataset, DSA_0091_DS1, conforms to a specific standard and will be stored for six months before being disposed of through anonymization. The rights handling procedures are in place, with OrgA responsible for rectification requests.
+
+The transparency arrangement requires OrgA to provide direct notices to individuals and maintain a webpage with information about the DSA. An assessment has been conducted, concluding that the risks associated with this DSA are low.
+
+The governance plan outlines review frequencies and audit rights, while the incident response plan specifies notification deadlines and contact points. The exit plan details the procedures for terminating the agreement, including data disposal methods.
+
+The population covered by this DSA is employees.

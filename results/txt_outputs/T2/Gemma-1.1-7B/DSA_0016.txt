@@ -1,0 +1,25 @@
+CQ-1 — The purposes associated with the DSA are research and analytics.
+
+CQ-2 — Not specified in the TTL.
+
+CQ-3 — The parties participating in the DSA are OrgB (Data Controller) and OrgE (Recipient).
+
+CQ-4 — The categories of data used or shared are financial and location.
+
+CQ-5 — Not specified in the TTL.
+
+CQ-6 — Not stated in the TTL.
+
+CQ-7 — The data-subject rights are handled by OrgB, and the procedure URL is https.
+
+CQ-8 — Transparency arrangements are specified, including notice type "indirect", issuer OrgB, and page https.
+
+CQ-9 — Not specified in the TTL.
+
+CQ-10 — Incident notification deadline is 72 hours, and the contact point is mailto:sec@example.org.
+
+CQ-11 — Governance plan review frequency is every 6 months, and audit right is remote_audit.
+
+CQ-12 — Children or child-specific safeguards are represented. The enhanced safeguard is age-appropriate design.
+
+CQ-13 — Exit obligations include exit trigger "contract_end", data disposition "Return", and post-termination obligation "no_contact_after_exit".

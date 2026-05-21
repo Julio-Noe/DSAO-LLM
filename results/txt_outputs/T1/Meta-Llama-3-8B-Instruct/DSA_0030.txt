@@ -1,0 +1,11 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgB and OrgC aims to facilitate the sharing of data for fraud detection and analytics purposes. The parties have designated roles, with OrgB acting as the Data Controller and OrgC as the Processor. The DSA has been versioned to 1.0.2 and was created on November 14, 2025.
+
+The data to be shared includes contact information and location data for fraud detection purposes, as well as financial data for analytics. The legal basis for processing is the legal obligation and public interest. The retention period for the data is 18 months, with a disposal method of returning the data to the original owner.
+
+The DSA has been assessed as having a low risk, with an assessment outcome of "low" and references to a Data Protection Impact Assessment (DPIA) available. The governance plan includes regular reviews every 6 months, with a review frequency of "P6M". The incident response plan includes notification deadlines and contact points for reporting incidents.
+
+The transparency arrangement requires OrgB to provide notice of the data sharing, with a notice type of "indirect". The rights handling plan includes procedures for erasure and responsible parties. The exit plan outlines the obligations of both parties upon termination, including secure deletion of data.
+
+Overall, this DSA provides a framework for the sharing of personal data between OrgB and OrgC for specific purposes, with appropriate safeguards in place to protect the rights of individuals.

@@ -1,0 +1,13 @@
+CQ-1 — The DSA has two purposes, service provision and research.
+CQ-2 — The processing activity for service provision has a legal basis of legal obligation, and the processing activity for research has a legal basis of public interest.
+CQ-3 — The DSA has two parties, OrgD and OrgC. OrgD is a data controller, and OrgC is a processor.
+CQ-4 — The DSA uses two data categories, health and location.
+CQ-5 — The retention duration is 18 months, and the disposal method is return.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights handling is specified for the right of erasure, with OrgD as the responsible party and a procedure URL provided.
+CQ-8 — Transparency arrangements are specified for direct notice, with OrgD as the issuer and a foaf:page provided.
+CQ-9 — DPIA assessments are specified, with a medium outcome and a reference provided.
+CQ-10 — Incident notification deadline is 72 hours, and the contact point is provided.
+CQ-11 — Governance arrangements are specified for review frequency of 6 months, a metric of BreachMTTR<=72h, and an audit right of third-party audit.
+CQ-12 — Children or child-specific safeguards are not represented.
+CQ-13 — Exit and termination obligations are specified for contract end, data disposition of return, and a post-termination obligation of no redisclosure.

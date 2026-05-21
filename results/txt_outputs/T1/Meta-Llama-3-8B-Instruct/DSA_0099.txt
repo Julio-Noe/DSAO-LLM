@@ -1,0 +1,7 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgD and OrgB aims to facilitate the sharing of data for reporting and fraud detection purposes. The parties have identified public interest as the legal basis for processing personal data, which includes contact and location information. The data will be stored for 12 months and disposed of through a secure deletion process.
+
+The DSA has been assessed as having a low risk, and the assessment report is available at https://example.org/dpia.pdf. The governance plan outlines regular review and audit processes, while the incident response plan includes a notification deadline of 72 hours. In case of exit, OrgD will securely delete the data and have no further contact with individuals.
+
+The DSA also includes arrangements for transparency, including a notice type of "layered" and an issuer of OrgD. The parties have agreed to handle rights, including the right to rectification, and have designated OrgD as the responsible party.

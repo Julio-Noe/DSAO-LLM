@@ -1,0 +1,20 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgC and OrgE.
+It was created on 2025-11-14T21:22:59Z.
+The DSA has two purposes: research and service provision.
+OrgC is the data controller, and OrgE is the recipient.
+The DSA contains two processing activities: research and service provision.
+Both activities are subject to the legal basis of legitimate interest.
+The DSA contains two data categories: location and health.
+The DSA contains one shared dataset, which conforms to a standard and has storage for six months.
+The DSA contains one international transfer, which is to ZA and uses BCRs as a safeguard.
+The DSA contains one rights handling, which is for the right of erasure and is responsible by OrgC.
+The DSA contains one transparency arrangement, which is direct and issued by OrgC.
+The DSA contains an assessment, which is a DPIA and has a low outcome.
+The DSA contains one governance plan, which is reviewed every six months and has a metric of BreachMTTR<=72h.
+The DSA contains one incident response plan, which has a notification deadline of PT72H and a contact point of mailto:sec@example.org.
+The DSA contains one exit plan, which has an exit trigger of contract_end and a data disposition of SecureDelete.
+The DSA contains one population, which is general.
+```

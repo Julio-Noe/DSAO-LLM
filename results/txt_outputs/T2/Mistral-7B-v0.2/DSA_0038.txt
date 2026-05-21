@@ -1,0 +1,13 @@
+CQ-1 — Analytics, Research
+CQ-2 — Legitimate Interest, Legal Obligation
+CQ-3 — OrgA: Data Controller, OrgB: Recipient
+CQ-4 — Location, Health, Contact
+CQ-5 — 12 months, Anonymise
+CQ-6 — Not specified
+CQ-7 — Erasure, OrgA, <https>
+CQ-8 — Indirect, OrgA, <https>
+CQ-9 — Transfer Risk Assessment, High, <https://example.org/dpia.pdf>
+CQ-10 — 72 hours, mailto:sec@example.org
+CQ-11 — Review frequency 6 months, Breach MTTR <= 72 hours, On-site yearly
+CQ-12 — Not specified
+CQ-13 — Contract end, Secure Delete, No contact after exit

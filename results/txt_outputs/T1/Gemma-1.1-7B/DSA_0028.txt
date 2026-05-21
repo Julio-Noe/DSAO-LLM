@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgC, acting as the Data Controller, and OrgE, acting as the Processor. The purposes of this DSA are fraud detection and analytics. The legal bases for processing personal data are public interest and contract.
+
+The agreement involves the use of two datasets, DSA_0028_DS1, which conforms to a standard (https), and will be stored for six months before being anonymized. The rights handling procedures are in place, with OrgC responsible for rectification and providing a procedure URL.
+
+The transparency arrangement is indirect, with OrgC as the issuer, and a notice page available at https. An assessment has been conducted, with an outcome of "low" risk and references to a DPia report.
+
+The governance plan includes regular reviews every six months, with audit rights for on-site annual audits. The incident response plan provides for notification within 72 hours, with a contact point at sec@example.org. The exit plan outlines procedures for returning data and no redisclosure after the contract ends.
+
+The population covered by this DSA is general.

@@ -1,0 +1,30 @@
+The following is an example response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgA and OrgB.
+OrgA is the Data Controller, and OrgB is the Recipient.
+The DSA has two purposes: analytics and research.
+OrgA will share data with OrgB for these purposes, subject to the following conditions:
+
+1. Data categories used/shared: location and health data.
+2. Storage and retention period: 12 months.
+3. Disposal method: Anonymise.
+4. Rights handling: OrgA will handle requests for erasure within 72 hours and provide a procedure URL.
+5. Transparency arrangement: OrgA will issue notices to the public via a web page.
+6. Governance plan: OrgA will review data breaches every 6 months, measure MTTR (mean time to repair), and audit rights on-site yearly.
+7. Incident response plan: OrgA will notify the public within 72 hours and provide a contact point.
+8. Exit plan: OrgA will dispose of data securely and prohibit contact after exit.
+9. Population: children.
+10. Rights handling: OrgA will handle requests for erasure within 72 hours and provide a procedure URL.
+11. Transparency arrangement: OrgA will issue notices to the public via a web page.
+12. Governance plan: OrgA will review data breaches every 6 months, measure MTTR (mean time to repair), and audit rights on-site yearly.
+13. Incident response plan: OrgA will notify the public within 72 hours and provide a contact point.
+14. Exit plan: OrgA will dispose of data securely and prohibit contact after exit.
+15. Population: children.
+16. Rights handling: OrgA will handle requests for erasure within 72 hours and provide a procedure URL.
+17. Transparency arrangement: OrgA will issue notices to the public via a web page.
+18. Governance plan: OrgA will review data breaches every 6 months, measure MTTR (mean time to repair), and audit rights on-site yearly.
+19. Incident response plan: OrgA will notify the public within 72 hours and provide a contact point.
+20. Exit plan: OrgA will dispose of data securely and prohibit contact after exit.
+21. Population: children.
+22. Rights handling: OrgA will handle requests for erasure within 72 hours and provide a procedure URL

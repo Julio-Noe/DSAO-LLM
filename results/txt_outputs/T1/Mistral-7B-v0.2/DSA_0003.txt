@@ -1,0 +1,23 @@
+```
+The Data Sharing Agreement (DSA) is a legal agreement between two parties, OrgB and OrgA. The DSA has been created on 2025-11-14T21:22:59Z.
+
+The DSA has two purposes: reporting and service provision. The processing activities associated with these purposes are DSA_0003_P1 and DSA_0003_P2, respectively. The legal bases for these processing activities are legal obligation and contract, respectively.
+
+The DSA uses two data categories: location and biometric. The dataset associated with these data categories is DSA_0003_DS1, which conforms to a standard and has a storage location with a duration of 6 months. The disposal method for this dataset is "Return".
+
+The DSA has a rights handling procedure, RH1, which handles the right to rectification. The responsible party for this rights handling procedure is OrgB.
+
+The DSA has a transparency arrangement, TA1, which is layered and issued by OrgB. The page associated with this transparency arrangement is <https>.
+
+The DSA has an assessment, Assess, which is a Data Protection Impact Assessment (DPIA) with an outcome of "high". The DSA references a document, <https://example.org/dpia.pdf>, which provides more information about the assessment.
+
+The DSA has a governance plan, Gov, which reviews the dataset every 6 months. The metric for this review is "BreachMTTR<=72h". The audit right for this governance plan is "third_party_audit".
+
+The DSA has an incident response plan, IRP, which notifies the contact point "mailto:sec@example.org" within 72 hours of an incident.
+
+The DSA has an exit plan, Exit, which triggers when the contract ends. The data disposition for this exit plan is "SecureDelete". The post-termination obligation for this exit plan is "no_redisclosure".
+
+The DSA has a population, Population, which is "general". The DSA uses this population for the processing activities associated with reporting and service provision.
+
+The DSA has a review note, RN1, which justifies the processing activity DSA_0003_P1. The guideline reference for this review note is "ICO-2021-§3.2". The decision for this review note is "needs-change". The rating for this review note is 2. The description for this review note is "reduce data categories".
+```

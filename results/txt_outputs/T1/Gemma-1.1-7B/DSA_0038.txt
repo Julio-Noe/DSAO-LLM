@@ -1,0 +1,9 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) between OrgA and OrgB outlines the sharing of data for analytics and research purposes. The parties have defined specific roles, with OrgA acting as the Data Controller and OrgB as the Recipient. The DSA purposes are to support analytics and research, with legal bases of legitimate interest and legal obligation respectively. The data categories used include location and health information.
+
+The shared dataset, DSA_0038_DS1, conforms to a specific standard and will be stored for 12 months before being disposed of through anonymization. The rights handling procedures are in place, including the responsible party OrgA and a procedure URL.
+
+The transparency arrangement includes notice types and issuers, with OrgA as the issuer. The assessment outcome is high, and the DSA has been reviewed against guidelines with a decision to make changes. The governance plan includes review frequencies and audit rights, while the incident response plan outlines notification deadlines and contact points. The exit plan defines triggers, data disposition, and post-termination obligations.
+
+The population covered by this DSA is children, and enhanced safeguards are in place to ensure age-appropriate design.

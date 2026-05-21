@@ -1,0 +1,13 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgD and OrgC outlines the terms for sharing personal data. The parties, OrgD (Data Controller) and OrgC (Processor), will process data for research and service provision purposes, with legal bases of contract and legal obligation. The data categories used include location and health information.
+
+The DSA specifies that the shared dataset, DSA_0075_DS1, will be stored for six months and disposed of through return. International transfer of data to Germany (DE) will be done using the adequacy mechanism, with safeguards in place for access control and encryption at rest.
+
+The agreement includes provisions for rights handling, transparency arrangement, and incident response. OrgD will be responsible for handling the right to erasure, and a procedure URL is provided. Transparency arrangements include layered notices issued by OrgD, with a notice type of "layered" and an issuer of OrgD.
+
+The DSA also includes governance, incident response, and exit plans. The governance plan outlines review frequency, metrics, and audit rights. The incident response plan specifies a notification deadline of 72 hours and contact point for security incidents.
+
+Assessment information is also included, with an assessment type of "TRA" and outcome of "high". The DSA has been reviewed, with a review note justifying the need for changes to reduce data categories.
+
+Finally, the DSA includes enhanced safeguards for vulnerable populations, such as children, with age-appropriate design measures in place.

@@ -1,0 +1,19 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgD and OrgE.
+It was created on 2025-11-14T21:22:59Z and has version 1.0.2.
+
+The DSA allows OrgD to share data with OrgE for analytics and research purposes.
+OrgD is the Data Controller, while OrgE is the Processor.
+
+The DSA includes a governance plan that requires reviews every 12 months, with metrics such as DSAR SLA <= 30d and third-party audits.
+It also includes an incident response plan with a notification deadline of 72 hours and contact point mailto:sec@example.org.
+The DSA also includes an exit plan with an exit trigger of contract end, data disposition of return, and post-termination obligation of no redisclosure.
+The DSA applies to a general population.
+
+OrgD has the right to erase data under the DSA, with a responsible party of OrgD and procedure URL <https>.
+OrgD also has a transparency arrangement with notice type direct, issuer OrgD, and foaf:page <https>.
+OrgD has an assessment of DPIA with assessment outcome high and references <https://example.org/dpia.pdf>.
+OrgD has an international transfer with destination country BR, transfer mechanism SCCs, and safeguards access control and pseudonymisation.
+```

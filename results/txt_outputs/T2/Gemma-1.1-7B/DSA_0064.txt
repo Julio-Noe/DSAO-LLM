@@ -1,0 +1,27 @@
+Here are the answers to the competency questions based on the provided TTL content:
+
+CQ-1 — The purposes associated with the DSA are research and reporting.
+
+CQ-2 — Not specified
+
+CQ-3 — The parties participating in the DSA are OrgB (Data Controller) and OrgD (Processor).
+
+CQ-4 — The categories of data used or shared are health, biometric, and contact.
+
+CQ-5 — The retention duration is 18 months, and the disposal method is "Return".
+
+CQ-6 — Not specified
+
+CQ-7 — The data-subject rights are handled by OrgB, and the procedure URL is https.
+
+CQ-8 — The transparency arrangement specifies a notice type of "layered", issued by OrgB, and the page is https.
+
+CQ-9 — A DPIA assessment has been conducted with an outcome of "medium", and the assessment report is available at https://example.org/dpia.pdf.
+
+CQ-10 — The incident notification deadline is 72 hours, and the contact point is mailto:sec@example.org.
+
+CQ-11 — The governance plan specifies a review frequency of every 6 months, audit metrics, and on-site audits annually.
+
+CQ-12 — The DSA population is children, and an enhanced safeguard of age-appropriate design has been implemented.
+
+CQ-13 — The exit plan specifies an exit trigger of contract end, data disposition as SecureDelete, and post-termination obligation to have no contact after exit.

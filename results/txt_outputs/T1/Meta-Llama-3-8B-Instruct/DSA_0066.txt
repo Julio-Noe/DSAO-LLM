@@ -1,0 +1,13 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgC and OrgE outlines the terms for sharing data between the two parties. The primary purposes of this DSA are reporting and service provision, with legal bases grounded in legitimate interest. The data categories involved include health and location information.
+
+The DSA specifies that the shared dataset, DSA_0066_DS1, will be stored for a period of 12 months and disposed of through anonymization. The rights handling process, DSA_0066_RH1, ensures that the right to rectification is respected, with OrgC as the responsible party.
+
+The transparency arrangement, DSA_0066_TA1, provides for indirect notice and is issued by OrgC. The assessment, DSA_0066_Assess, has been conducted and deemed high-risk.
+
+The governance plan, DSA_0066_Gov, outlines the review frequency and audit rights. The incident response plan, DSA_0066_IRP, specifies a notification deadline and contact point. The exit plan, DSA_0066_Exit, outlines the trigger for exit and data disposition.
+
+The population covered by this DSA is general. The review note, DSA_0066_RN1, highlights the need to reduce data categories.
+
+This summary provides a concise overview of the key terms and conditions outlined in this Data Sharing Agreement.

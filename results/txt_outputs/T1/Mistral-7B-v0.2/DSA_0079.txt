@@ -1,0 +1,19 @@
+The following is an example response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgB and OrgD.
+OrgB is the Data Controller, and OrgD is the Recipient.
+The DSA has two purposes: fraud detection and reporting.
+OrgB will process the data for these purposes using legal basis of legitimate interest and legal obligation.
+The data categories used/shared are financial, biometric, and location.
+OrgB will store the data for 18 months and dispose of it by returning it.
+OrgD will transfer the data to Japan using adequacy as a safeguard and key separation and access control.
+OrgB will handle rights requests for rectification, and the responsible party is OrgB.
+OrgB will issue a transparency arrangement with indirect notice and a page at https://example.org/dsa.
+OrgB will assess the DSA using a TRA and medium assessment outcome, and the reference is https://example.org/dpia.pdf.
+OrgB will have a governance plan with review frequency of 12 months, metric of BreachMTTR<=72h, and audit right of third_party_audit.
+OrgB will have an incident response plan with notification deadline of PT72H and contact point of mailto:sec@example.org.
+OrgB will have an exit plan with exit trigger of contract_end, data disposition of Return, and post termination obligation of no_contact_after_exit.
+The population is children.
+OrgB will have enhanced safeguards for age-appropriate design.
+```

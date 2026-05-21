@@ -1,0 +1,7 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.0, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the Data Controller, and OrgA, acting as the Processor. The purposes of this DSA are fraud detection and research. The parties will process personal data categories including financial and health information, with legal bases of public interest and contract. The retention period is 12 months, and data will be disposed of securely.
+
+The rights handling arrangement ensures that OrgD is responsible for managing access to the data, and a procedure URL is provided. Transparency arrangements include direct notice from OrgD, with a reference to the Data Protection Impact Assessment (DPIA) available at <https://example.org/dpia.pdf>. Governance, incident response, and exit plans are in place, including regular review of audit findings and remote auditing. The population covered by this DSA is employees.
+
+Note that the assessment outcome is low, and international transfer information is not specified. Enhanced safeguards for child or vulnerable populations are also not mentioned.

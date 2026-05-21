@@ -1,0 +1,15 @@
+The following is an example of a response to the above instruction.
+
+The Data Sharing Agreement (DSA) is an agreement between two parties, OrgE and OrgC. The DSA has two purposes: fraud detection and research.
+
+OrgE is the data controller, and OrgC is the recipient of the data. The DSA specifies two processing activities: fraud detection and research. Both activities are subject to legal obligations, and the data categories used in each activity are financial, health, and biometric.
+
+The DSA specifies a shared dataset, which conforms to a standard and has storage and retention periods of 6 months. The dataset is disposed of by anonymization.
+
+The DSA specifies a rights handling procedure for the right to erasure, which is handled by OrgE. The DSA also specifies a transparency arrangement with indirect notice and an issuer of the notice.
+
+The DSA specifies an assessment that was conducted, which resulted in a high-risk finding. The DSA also specifies a governance plan, an incident response plan, and an exit plan. The governance plan specifies a review frequency of every 6 months, a metric for breach mean time to repair (MTTR) of less than 72 hours, and an audit right of on-site audits every year. The incident response plan specifies a notification deadline of 72 hours and a contact point for security incidents. The exit plan specifies an exit trigger of contract end, data disposal by secure delete, and a post-termination obligation of no contact after exit. The DSA also specifies a population of employees.
+
+The DSA is subject to international transfer, and the destination country is specified. The transfer mechanism is also specified, as well as any safeguards in place for the transfer.
+
+The DSA also specifies enhanced safeguards for child or vulnerable populations.

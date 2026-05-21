@@ -1,0 +1,13 @@
+CQ-1 — service_provision, analytics
+CQ-2 — contract, legal_obligation
+CQ-3 — OrgA, DataController; OrgB, Processor
+CQ-4 — location, biometric, health
+CQ-5 — P6M, SecureDelete
+CQ-6 — JP, Adequacy, access_control, key_separation
+CQ-7 — RightAccess, OrgA, <https>
+CQ-8 — indirect, OrgA, <https>
+CQ-9 — TRA, low, https://example.org/dpia.pdf
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — P12M, BreachMTTR<=72h, third_party_audit
+CQ-12 — children, age_appropriate_design
+CQ-13 — contract_end, SecureDelete, no_contact_after_exit

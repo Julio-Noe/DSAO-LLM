@@ -1,0 +1,13 @@
+CQ-1 — The DSA has two purposes: fraud detection and reporting.
+CQ-2 — The processing activities are linked to the legitimate interest legal basis.
+CQ-3 — There are two parties: OrgE and OrgC, with roles of data controller and recipient.
+CQ-4 — The data categories used or shared are contact and biometric.
+CQ-5 — The retention duration is 18 months, and the disposal method is SecureDelete.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights handling is specified, with the right of access handled by OrgE and a procedure URL provided.
+CQ-8 — Transparency arrangements are specified, with indirect notice type, OrgE as the issuer, and a foaf:page provided.
+CQ-9 — A transfer risk assessment is specified, with the assessment type as TRA and an outcome of medium.
+CQ-10 — Incident notification deadline is 72 hours, and the contact point is mailto:sec@example.org.
+CQ-11 — Governance, audit, or review arrangements are specified with a review frequency of 12 months, a metric of AuditFindings<=2, and an audit right of third_party_audit.
+CQ-12 — Children or child-specific safeguards are not represented.
+CQ-13 — Exit or termination obligations are specified with a trigger of contract_end, data disposition as SecureDelete, and a post-termination obligation of no contact after exit.

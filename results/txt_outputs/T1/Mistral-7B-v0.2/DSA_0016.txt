@@ -1,0 +1,21 @@
+The following is an example response.
+
+```
+This Data Sharing Agreement (DSA) establishes a data sharing arrangement between OrgB and OrgE. The DSA is versioned at 1.0.1, created on November 14, 2025, and has two purposes: research and analytics.
+
+OrgB acts as the Data Controller, while OrgE acts as the Recipient. The DSA outlines two processing activities:
+- Research: This activity has a legal basis of "legal obligation" and uses data categories of "financial" and "location".
+- Analytics: This activity has a legal basis of "legitimate interest" and uses data categories of "financial".
+
+The DSA also includes a shared dataset, identified as :DSA_0016_DS1. This dataset conforms to a specified standard and has a storage location with a retention period of 6 months. The dataset is subject to secure deletion upon disposal.
+
+The DSA outlines rights handling for access rights, with OrgB as the responsible party and a specified procedure URL. It also includes a transparency arrangement with an indirect notice type, issued by OrgB and linked to a specified web page.
+
+The DSA outlines a governance plan with a review frequency of every 6 months, a metric of "DSAR_SLA_<=30d", and an audit right of "remote_audit". It also includes an incident response plan with a notification deadline of 72 hours and a contact point of "mailto:sec@example.org".
+
+The DSA outlines an exit plan with an exit trigger of "contract_end", data disposition of "Return", and a post-termination obligation of "no contact after exit".
+
+The DSA includes a population of children, which is linked to the specified dataset. The DSA also includes an enhanced safeguard of "age-appropriate design".
+
+The DSA includes a review note justifying the processing activity of "research" with a guideline reference of "ICO-2021-§3.2", a decision of "needs-change", and a rating of 2.
+```

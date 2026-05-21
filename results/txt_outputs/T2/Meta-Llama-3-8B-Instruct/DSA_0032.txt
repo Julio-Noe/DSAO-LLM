@@ -1,0 +1,27 @@
+Here are the answers to the competency questions based on the provided TTL content:
+
+CQ-1 — The purposes associated with the DSA are fraud detection and research.
+
+CQ-2 — Not specified
+
+CQ-3 — The parties participating in the DSA are OrgB (Data Controller) and OrgE (Processor).
+
+CQ-4 — The categories of data used or shared are health and biometric.
+
+CQ-5 — Not specified
+
+CQ-6 — International transfer details are specified. The destination country is JP, the transfer mechanism is BCRs, and safeguards include access control and pseudonymisation.
+
+CQ-7 — Data-subject rights are handled, including the right to erasure. The responsible party is OrgB, and the procedure URL is https.
+
+CQ-8 — Transparency arrangements are specified. The notice type is direct, the issuer is OrgB, and the page URL is https.
+
+CQ-9 — A DPIA assessment is specified. The assessment type is DPIA, the assessment outcome is medium, and a reference to the assessment report is provided.
+
+CQ-10 — Incident notification deadline is 72 hours, and the contact point is mailto:sec@example.org.
+
+CQ-11 — Governance plan review frequency is every 6 months, and audit metrics include AuditFindings <= 2.
+
+CQ-12 — Not specified
+
+CQ-13 — Exit plan obligations include secure deletion of data and no redisclosure after termination.

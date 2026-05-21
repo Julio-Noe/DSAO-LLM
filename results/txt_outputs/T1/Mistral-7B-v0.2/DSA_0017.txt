@@ -1,0 +1,26 @@
+The DSA is a Data Sharing Agreement between two organizations, OrgD and OrgC.
+OrgD is the Data Controller and OrgC is the Recipient.
+The DSA has two purposes: research and reporting.
+OrgD is responsible for handling rights requests related to data erasure, while OrgC is responsible for handling rights requests related to access.
+The DSA includes a governance plan, an incident response plan, and an exit plan.
+The governance plan includes a review frequency of every 6 months, a metric for audit findings, and an audit right of third-party audits.
+The incident response plan includes a notification deadline of 72 hours and a contact point for security incidents.
+The exit plan includes an exit trigger of contract end, data disposition of secure delete, and a post-termination obligation of no contact after exit.
+The DSA also includes a population of children, and enhanced safeguards for age-appropriate design.
+The DSA includes a review note that justifies the processing activity of research and recommends reducing data categories.
+The DSA includes an international transfer to Japan, with safeguards of encryption at rest and access control.
+The DSA includes a rights handling for data erasure, with responsible party of OrgD and procedure URL.
+The DSA includes a transparency arrangement for indirect notice, with issuer of OrgD and page URL.
+The DSA includes an assessment for TRA, with outcome of medium and references to a DPIA.
+The DSA includes an international transfer to Japan, with safeguards of encryption at rest and access control.
+The DSA includes a rights handling for data erasure, with responsible party of OrgD and procedure URL.
+The DSA includes a transparency arrangement for indirect notice, with issuer of OrgD and page URL.
+The DSA includes an assessment for TRA, with outcome of medium and references to a DPIA.
+The DSA includes an international transfer to Japan, with safeguards of encryption at rest and access control.
+The DSA includes a rights handling for data erasure, with responsible party of OrgD and procedure URL.
+The DSA includes a transparency arrangement for indirect notice, with issuer of OrgD and page URL.
+The DSA includes an assessment for TRA, with outcome of medium and references to a DPIA.
+The DSA includes an international transfer to Japan, with safeguards of encryption at rest and access control.
+The DSA includes a rights handling for data erasure, with responsible party of OrgD and procedure URL.
+The DSA includes a transparency arrangement for indirect notice, with issuer of OrgD and page URL.
+The DSA includes an assessment for TRA, with

@@ -1,0 +1,17 @@
+```
+The DSA is a data sharing agreement between OrgE and OrgA. The agreement has two purposes: fraud detection and analytics.
+
+OrgE is the data controller, and OrgA is the recipient. The agreement includes a governance plan, an incident response plan, and an exit plan.
+
+The agreement covers two processing activities: fraud detection and analytics. The data categories used/shared are health and contact.
+
+The dataset is a shared dataset that conforms to the specified standard. The storage and retention period are 12 months, and the disposal method is return.
+
+The rights handling includes a procedure for accessing data, and the transparency arrangement is indirect. The assessment information indicates that the agreement has a low risk level, and it includes a DPIA.
+
+The governance plan includes a review frequency of 6 months, a metric for audit findings, and an audit right. The incident response plan includes a notification deadline of 72 hours and a contact point for security incidents.
+
+The exit plan includes an exit trigger, data disposition, and a post-termination obligation. The population covered by the agreement is children.
+
+The agreement includes an enhanced safeguard for age-appropriate design.
+```

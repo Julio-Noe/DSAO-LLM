@@ -1,0 +1,13 @@
+CQ-1 — Specified: service_provision, research
+CQ-2 — Specified: legal_obligation
+CQ-3 — Specified: OrgE, OrgB
+CQ-4 — Specified: contact, location, biometric
+CQ-5 — Not specified
+CQ-6 — Specified: international, transfer_mechanism, safeguard
+CQ-7 — Not specified
+CQ-8 — Specified: layered, OrgE, <https>
+CQ-9 — Not specified
+CQ-10 — Specified: PT72H, mailto:sec@example.org
+CQ-11 — Specified: review_frequency, metric, audit_right
+CQ-12 — Not specified
+CQ-13 — Specified: contract_end, SecureDelete, no_contact_after_exit

@@ -1,0 +1,5 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The parties involved are OrgE (Data Controller) and OrgA (Processor), both with the purpose of conducting research and analytics. The data categories used and shared include biometric, financial, and health information. The retention period is six months, with a disposal method of "SecureDelete". Rights handling involves access control and responsible party OrgE. Transparency arrangements include indirect notice and a procedure URL. An assessment has been conducted, concluding that the DSA poses a high risk. Governance and incident response plans are in place, with regular reviews and on-site audits. The exit plan includes returning data and no contact after termination. The population covered by this DSA is employees.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

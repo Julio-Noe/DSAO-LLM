@@ -1,0 +1,21 @@
+The following is an example response for the above input.
+
+```
+This Data Sharing Agreement (DSA) is between OrgD and OrgC. It covers two processing activities:
+- Fraud detection (P1) with a legal basis of legitimate interest and data categories of financial and location.
+- Research (P2) with a legal basis of legal obligation and data categories of financial.
+
+The DSA includes the following obligations:
+- Governance plan (Gov) with a review frequency of every 6 months, metric of BreachMTTR<=72h, and audit right of on-site yearly.
+- Incident response plan (IRP) with a notification deadline of 72 hours and contact point of sec@example.org.
+- Exit plan (Exit) with an exit trigger of contract end, data disposition of SecureDelete, and post-termination obligation of no contact after exit.
+- Population (Pop) with a title of general.
+- Rights handling (RH1) for RightRectification with responsible party of OrgD and procedure URL of https.
+- Transparency arrangement (TA1) with notice type of layered, issuer of OrgD, and page URL of https.
+- Dataset (DS1) with conformance to https, storage of dpv:Storage with duration of P18M, and disposal method of SecureDelete.
+- International transfer information (not specified).
+- Child or vulnerable-population safeguards (not specified).
+- Assessment information (not specified).
+
+The DSA is effective from 2025-11-14T21:22:59Z.
+```

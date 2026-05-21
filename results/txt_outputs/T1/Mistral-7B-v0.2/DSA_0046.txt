@@ -1,0 +1,20 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgA and OrgC.
+OrgA is the Data Controller, responsible for collecting and processing personal data.
+OrgC is a Processor, authorized to process the data on behalf of OrgA.
+
+The DSA has two purposes: analytics and reporting.
+It covers the processing of contact and financial data, subject to contract and public interest legal bases.
+The shared dataset is a Dataset that conforms to the specified standard and has a storage period of 12 months.
+The disposal method is SecureDelete.
+
+OrgA has a rights handling procedure for access requests, which can be found at <https>.
+OrgA has a transparency arrangement for direct notices, which can be found at <https>.
+
+OrgA has a governance plan with a review frequency of 12 months, a metric of DSAR_SLA_<=30d, and an on-site audit right.
+OrgC has an incident response plan with a notification deadline of 72 hours and a contact point at mailto:sec@example.org.
+OrgA has an exit plan with an exit trigger of contract_end, data disposition of Return, and post-termination obligation of no redisclosure.
+The population covered by the DSA is employees.
+```

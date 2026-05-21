@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.4, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgC, acting as the Processor. The purposes of this DSA are analytics and reporting. The parties will process personal data categories including contact information and financial data, with legal bases of contract and public interest. The data will be stored for 12 months and disposed of securely.
+
+The rights handling process is managed by OrgA, which will provide access to the data and maintain a procedure for handling requests. Transparency arrangements include direct notice from OrgA, with a review frequency of every 12 months.
+
+The governance plan outlines the review frequency and audit rights, while the incident response plan includes notification deadlines and contact points. The exit plan specifies the trigger for termination, data disposition, and post-termination obligations.
+
+The population covered by this DSA is employees.

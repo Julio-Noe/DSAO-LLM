@@ -1,0 +1,9 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.4, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the Data Controller, and OrgB, acting as the Processor. The purposes of this DSA are service provision and reporting, with legal bases being a contract and a legal obligation. The data categories used and shared are financial and contact information.
+
+The dataset, DSA_0088_DS1, conforms to a standard and will be stored for 18 months. Disposal of the data will be done by returning it to the source.
+
+The rights handling, DSA_0088_RH1, is responsible for managing access rights and will be handled by OrgD. Transparency arrangements, DSA_0088_TA1, require direct notice and will be issued by OrgD.
+
+The governance plan, DSA_0088_Gov, includes regular reviews every 6 months and audit rights for on-site annual audits. The incident response plan, DSA_0088_IRP, requires notification within 72 hours and contact information for OrgD's security team. The exit plan, DSA_0088_Exit, will trigger when the contract ends and data will be disposed of securely.

@@ -1,0 +1,21 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgD and OrgB.
+OrgD is the Data Controller, responsible for collecting and processing personal data from employees of OrgB.
+OrgD processes the data for two purposes: service provision and reporting.
+OrgB is the Processor, responsible for handling personal data from employees of OrgD.
+OrgB processes the data for two purposes: service provision and reporting.
+The DSA is valid from 2025-11-14T21:22:59Z.
+The DSA contains a governance plan, an incident response plan, and an exit plan.
+The governance plan includes a review frequency of every 6 months, a metric for data subject access requests (DSARs) with a maximum response time of 30 days, and an audit right for on-site audits once a year.
+The incident response plan includes a notification deadline of 72 hours and a contact point for security incidents.
+The exit plan includes an exit trigger of contract end, data disposal by secure deletion, and a post-termination obligation to not contact employees after the exit.
+The DSA includes a population of employees, and OrgD is responsible for handling rights for access to personal data.
+The DSA includes a transparency arrangement with direct notice from OrgD and a webpage for more information.
+The DSA includes a processing activity with two purposes: service provision and reporting, and legal bases of contract and legal obligation.
+The DSA includes a shared dataset with a conformance link to <https> and storage for 18 months.
+The DSA includes a rights handling with responsibility for access to personal data from OrgD, and a procedure URL.
+The DSA includes an international transfer with destination country of <https> and transfer mechanism of <https>.
+The DSA includes enhanced safeguards for child or vulnerable populations.
+```

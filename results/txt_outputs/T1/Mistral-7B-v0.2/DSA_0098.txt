@@ -1,0 +1,16 @@
+```
+The DSA is between OrgA and OrgC.
+OrgA is the data controller, and OrgC is a processor.
+The DSA has two purposes: research and service provision.
+OrgA will share data with OrgC for both purposes.
+The data categories used are location and health.
+OrgA will store the data for 6 months, after which it will be disposed of by anonymisation.
+OrgA has a rights handling procedure for rectification, which is the responsibility of OrgA.
+OrgA has a transparency arrangement for indirect notice, issued by OrgA and published on the website <https>.
+OrgA has an assessment of TRA with a low outcome, which is referenced in the DSA.
+OrgA has a governance plan with a review frequency of 12 months, a metric of DSAR_SLA_<=30d, and an audit right of third-party audit.
+OrgA has an incident response plan with a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+OrgA has an exit plan with an exit trigger of contract_end, data disposition of return, and post-termination obligation of no redisclosure.
+The population covered by the DSA is employees.
+OrgA has a review note justifying the use of data categories, referencing ICO-2021-§3.2 and giving a rating of 2 with a description of "reduce data categories".
+```

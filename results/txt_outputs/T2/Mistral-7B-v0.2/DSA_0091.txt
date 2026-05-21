@@ -1,0 +1,13 @@
+CQ-1 — The DSA has two purposes, research and analytics.
+CQ-2 — The processing activity “DSA_0091_P1” has a legal basis of public interest and uses data categories health and contact. The processing activity “DSA_0091_P2” has a legal basis of legal obligation and uses data category contact.
+CQ-3 — The DSA has two parties, OrgA and OrgD. OrgA is a data controller and OrgD is a recipient.
+CQ-4 — The DSA uses two data categories, health and contact.
+CQ-5 — The DSA specifies a retention duration of 6 months and a disposal method of anonymise.
+CQ-6 — The DSA specifies international transfer details, including a destination of “https”, a transfer mechanism of storage, and a safeguard of anonymise.
+CQ-7 — The DSA specifies data subject rights handling, including the right of rectification, a responsible party of OrgA, and a procedure URL of “https”.
+CQ-8 — The DSA specifies transparency arrangements, including a notice type of direct, an issuer of OrgA, and a page of “https”.
+CQ-9 — The DSA specifies a data protection impact assessment, including an assessment type of TRA, an assessment outcome of low, and a reference URL of “https://example.org/dpia.pdf”.
+CQ-10 — The DSA specifies incident notification details, including a deadline of 72 hours and a contact point of “mailto:sec@example.org”.
+CQ-11 — The DSA specifies governance and audit arrangements, including a review frequency of 12 months, a metric of AuditFindings<=2, and an audit right of on_site_yearly.
+CQ-12 — The DSA does not specify any child or child-specific safeguards.
+CQ-13 — The DSA specifies exit and termination obligations, including an exit trigger of contract_end, a data disposition of SecureDelete, and a post-termination obligation of no_redisclosure.

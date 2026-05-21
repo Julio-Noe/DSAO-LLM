@@ -1,0 +1,13 @@
+```
+The DSA is a data sharing agreement between OrgE and OrgB. It has two purposes: research and analytics.
+
+OrgE is the data controller, and OrgB is the recipient.
+
+The DSA contains two processing activities: research and analytics. The legal basis for the research activity is public interest, and the legal basis for the analytics activity is a legal obligation. The data categories used in the research activity are health and location, and the data categories used in the analytics activity are contact.
+
+The DSA contains a shared dataset, which conforms to a standard and has storage with a duration of 6 months. The disposal method for the dataset is anonymise.
+
+The DSA contains a rights handling activity, which handles the right to erasure and is responsible by OrgE. The transparency arrangement is direct, with the issuer being OrgE and the page being https.
+
+The DSA contains an assessment, which is a type of data protection impact assessment and has an outcome of medium. The DSA contains a governance plan, which reviews the dataset every 12 months and has an audit right of remote audit. The DSA contains an incident response plan, which notifies within 72 hours and has a contact point of mailto:sec@example.org. The DSA contains an exit plan, which triggers on contract end and has a data disposition of secure delete and a post-termination obligation of no redisclosure. The DSA contains a population, which is employees.
+```

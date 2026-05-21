@@ -1,0 +1,15 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgC and OrgE.
+It covers two processing activities: fraud detection and analytics.
+The data categories used/shared are health and biometric.
+The dataset is shared for 6 months, after which it will be anonymized and disposed of.
+Rights handling is handled by OrgC, with a procedure URL provided.
+Transparency arrangements are made through indirect notices issued by OrgC, with a page provided.
+An assessment was conducted and found to be low-risk, with a DPIA provided.
+Governance is reviewed every 6 months, with metrics and audit rights specified.
+Incident response plans include a notification deadline of 72 hours and contact point provided.
+Exit plans include an exit trigger, data disposition, and post-termination obligation.
+The population covered by the DSA is general.
+```

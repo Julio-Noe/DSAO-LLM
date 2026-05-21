@@ -1,0 +1,13 @@
+CQ-1 — reporting, research
+CQ-2 — legitimate_interest, legal_obligation
+CQ-3 — OrgB, OrgE
+CQ-4 — biometric, contact
+CQ-5 — P6M, Return
+CQ-6 — BR, Adequacy, pseudonymisation, access_control
+CQ-7 — RightAccess, OrgB, <https>
+CQ-8 — indirect, OrgB, <https>
+CQ-9 — DPIA, low, <https://example.org/dpia.pdf>
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — P12M, AuditFindings<=2, on_site_yearly
+CQ-12 — general
+CQ-13 — contract_end, Return, no_redisclosure

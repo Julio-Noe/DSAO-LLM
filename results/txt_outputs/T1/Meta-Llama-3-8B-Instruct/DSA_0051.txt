@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgC, acting as the Data Controller, and OrgE, acting as the Processor. The purposes of this DSA are analytics and fraud detection, with legal bases of legitimate interest and public interest. The data categories used and shared include financial and contact information.
+
+The dataset, DSA_0051_DS1, conforms to a standard and will be stored for 18 months before being anonymized. The international transfer of data to South Africa (ZA) will be done through an adequacy mechanism, with safeguards in place for access control and encryption at rest.
+
+The rights handling process includes procedures for erasure, with OrgC responsible for implementing these measures. Transparency arrangements include indirect notice and a webpage maintained by OrgC.
+
+The governance plan, DSA_0051_Gov, outlines review frequencies and metrics for monitoring compliance. The incident response plan, DSA_0051_IRP, includes notification deadlines and contact points for reporting incidents. The exit plan, DSA_0051_Exit, outlines triggers and procedures for exiting the agreement.
+
+The population covered by this DSA is employees. The assessment, DSA_0051_Assess, has identified a high risk and provides references to a data protection impact assessment (DPIA) report.

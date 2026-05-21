@@ -1,0 +1,11 @@
+Here is the executive summary for the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.5, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgC, acting as the Recipient. The purposes of this DSA are analytics and fraud detection. The data categories used and shared include contact information and financial data.
+
+The dataset, DSA_0070_DS1, conforms to a standard and will be stored for six months before being disposed of through return. The international transfer of data to Australia is governed by an adequacy mechanism and includes safeguards such as key separation and access control.
+
+The rights handling for this DSA is managed by OrgA, which is responsible for the right of access. The transparency arrangement requires direct notice and provides a procedure URL.
+
+The governance plan, incident response plan, and exit plan are all in place. The governance plan includes regular reviews every 12 months, while the incident response plan requires notification within 72 hours. The exit plan includes a trigger for contract end and provides for the return of data.
+
+Finally, this DSA has undergone an assessment, which identified a medium-level risk. The enhanced safeguard in place is age-appropriate design to protect children's data.

@@ -1,0 +1,11 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgB and OrgC aims to facilitate the sharing of data for analytics and fraud detection purposes. The parties have agreed on specific purposes, processing activities, and legal bases for the data sharing. OrgB will act as the Data Controller, while OrgC will be the Recipient of the shared data. The DSA specifies that the data categories used and shared include location and financial information.
+
+The agreement outlines retention and disposal procedures, with the data to be stored for 18 months and disposed of securely. Rights handling is also specified, with OrgB responsible for rectification rights and a procedure in place for handling these requests.
+
+The DSA includes governance, incident response, and exit plans. The governance plan outlines review frequency, metrics, and audit rights, while the incident response plan specifies notification deadlines and contact points. The exit plan outlines triggers, data disposition, and post-termination obligations.
+
+Assessment information is not specified in this DSA. International transfer information is also absent, as are child or vulnerable-population safeguards.
+
+This summary provides a concise overview of the key elements of this Data Sharing Agreement, including parties, purposes, data categories, retention, rights, governance, incident response, and exit obligations.

@@ -1,0 +1,13 @@
+CQ-1 — Specified purposes are service_provision and research.
+CQ-2 — Processing activity “DSA_0056_P1” is linked to legitimate_interest.
+CQ-3 — Participating parties are “OrgC” and “OrgE”.
+CQ-4 — Data categories used or shared are location and biometric.
+CQ-5 — Retention duration is 6 months, disposal method is “Return”.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights handling is specified for erasure, responsible party is “OrgC”, and procedure URL is <https>.
+CQ-8 — Transparency arrangements are specified for indirect notice, issuer is “OrgC”, and page is <https>.
+CQ-9 — DPIA or transfer risk assessment is specified, trigger is “DSA_0056_Assess”, and responsible party is “OrgC”.
+CQ-10 — Incident notification deadline is 72 hours, contact point is “mailto:sec@example.org”.
+CQ-11 — Governance, audit, or review arrangements are specified for review frequency of 6 months, metric is “AuditFindings<=2”, and audit right is “remote_audit”.
+CQ-12 — Children or child-specific safeguards are not represented.
+CQ-13 — Exit or termination obligations are specified for contract end, data disposition is “SecureDelete”, and post-termination obligation is “no_redisclosure”.

@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgC, acting as the Processor. The purposes of this DSA are fraud detection and analytics, with legal bases being contract and public interest. The data categories used or shared include contact information and biometric data.
+
+The dataset, DSA_0008_DS1, conforms to a standard and will be stored for six months before being securely deleted. The rights handling procedure is managed by OrgA, and the transparency arrangement includes a layered notice type with an issuer and a procedure URL.
+
+The governance plan, DSA_0008_Gov, includes review frequencies and metrics for auditing, while the incident response plan, DSA_0008_IRP, outlines notification deadlines and contact points. The exit plan, DSA_0008_Exit, specifies an exit trigger, data disposition, and post-termination obligations.
+
+The population covered by this DSA is children, and an enhanced safeguard has been implemented to ensure age-appropriate design. An assessment, DSA_0008_Assess, has been conducted and is available for review.
+
+Please note that this summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

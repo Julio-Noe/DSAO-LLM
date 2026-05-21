@@ -1,0 +1,17 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is between OrgC and OrgD. It covers two processing activities:
+- DSA_0037_P1, which is for reporting purposes and has a legal basis of contract. It uses financial and health data categories.
+- DSA_0037_P2, which is for analytics purposes and has a legal basis of legitimate interest. It uses contact data categories.
+
+The DSA includes the following obligations:
+- The dataset, DSA_0037_DS1, is a shared dataset and a Dataset. It conforms to <https> and has storage with a duration of P12M. Its disposal method is Anonymise.
+- The rights handling, DSA_0037_RH1, is for the right of erasure. The responsible party is OrgC and the procedure URL is <https>.
+- The transparency arrangement, DSA_0037_TA1, is for indirect notice. The issuer is OrgC and the page is <https>.
+- The assessment, DSA_0037_Assess, is for a DPIA. The assessment outcome is medium and the references are <https://example.org/dpia.pdf>.
+- The governance plan, DSA_0037_Gov, is for a review frequency of P6M and a metric of DSAR_SLA_<=30d. The audit right is third-party audit.
+- The incident response plan, DSA_0037_IRP, is for a notification deadline of PT72H and a contact point of "mailto:sec@example.org".
+- The exit plan, DSA_0037_Exit, is for an exit trigger of contract_end and a data disposition of Return. The post-termination obligation is no redisclosure.
+- The population, DSA_0037_Population, is general.
+```

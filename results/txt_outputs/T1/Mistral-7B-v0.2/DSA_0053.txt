@@ -1,0 +1,45 @@
+```
+The following DSA is a research and fraud-detection agreement between OrgC (data controller) and OrgE (recipient).
+
+The agreement includes the following processing activities:
+- Research: The data controller processes personal data for research purposes, based on legitimate interest. The data categories used are financial and biometric.
+- Fraud detection: The data controller processes personal data for fraud detection purposes, based on legitimate interest. The data category used is health.
+
+The agreement includes the following dataset:
+- Dataset 1: A shared dataset that conforms to a standard. The data is stored for 6 months and will be disposed of by anonymization.
+
+The agreement includes the following international transfer:
+- Destination country: Australia
+- Transfer mechanism: SCCs
+- Safeguards: Pseudonymization and access control
+
+The agreement includes the following rights handling:
+- Right of access: The data controller is responsible for handling requests for access to personal data. The procedure URL is https://example.org/dsa-rights.
+
+The agreement includes the following transparency arrangement:
+- Notice type: Indirect
+- Issuer: OrgC
+- URL: https://example.org/dsa-notice
+
+The agreement includes the following assessment:
+- Assessment type: DPIA
+- Outcome: Medium
+- References: https://example.org/dpia.pdf
+
+The agreement includes the following governance plan:
+- Review frequency: Every 6 months
+- Metric: Audit findings <= 2
+- Audit right: Third-party audit
+
+The agreement includes the following incident response plan:
+- Notification deadline: 72 hours
+- Contact point: mailto:sec@example.org
+
+The agreement includes the following exit plan:
+- Exit trigger: Contract end
+- Data disposition: Return
+- Post-termination obligation: No contact after exit
+
+The agreement includes the following population:
+- Employees
+```

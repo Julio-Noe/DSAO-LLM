@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) is version 1.0.3, created on November 14, 2025. The parties involved are OrgC (Data Controller) and OrgD (Processor). The purposes of the DSA are analytics and research, with legal bases of public interest and legal obligation. The data categories used and shared are health and contact information.
+
+The dataset, DSA_0044_DS1, conforms to a standard and will be stored for six months before being anonymized. The international transfer of data is to Singapore, with safeguards in place including pseudonymization and access control.
+
+The rights handling process involves OrgC as the responsible party, with procedures in place for rectification. Transparency arrangements include a notice type of layered notice and an issuer of OrgC.
+
+The governance plan includes regular reviews every six months, with metrics such as audit findings and an audit right of third-party audits. The incident response plan includes a notification deadline of 72 hours and a contact point.
+
+The exit plan outlines the procedures for exiting the agreement, including data disposition and post-termination obligations. The population covered by this DSA is children, with enhanced safeguards in place to ensure age-appropriate design.
+
+Assessment information is available, including a DPIA assessment outcome of medium and references to the assessment report.

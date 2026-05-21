@@ -1,0 +1,30 @@
+```
+The DSA is between OrgE and OrgA.
+OrgE is the data controller, and OrgA is the recipient.
+The DSA has two purposes: reporting and research.
+Processing activities include:
+- Reporting: data controller is OrgE, legal basis is legitimate interest, and data categories used/shared are contact and financial.
+- Research: data controller is OrgE, legal basis is legal obligation, and data categories used/shared are biometric.
+The dataset shared under the DSA is a SharedDataset and Dataset, with conformance to <https>.
+The dataset has storage in a Storage with duration of P6M.
+Disposal method is SecureDelete.
+Rights handling includes:
+- Right to rectification: responsible party is OrgE, and procedure URL is <https>.
+Transparency arrangement includes:
+- Notice type is direct.
+- Issuer is OrgE.
+- Page URL is <https>.
+Governance plan includes:
+- Review frequency is P6M.
+- Metric is DSAR_SLA_<=30d.
+- Audit right is remote_audit.
+Incident response plan includes:
+- Notification deadline is PT72H.
+- Contact point is mailto:sec@example.org.
+Exit plan includes:
+- Exit trigger is contract_end.
+- Data disposition is SecureDelete.
+- Post termination obligation is no_contact_after_exit.
+Population includes:
+- Title is general.
+```

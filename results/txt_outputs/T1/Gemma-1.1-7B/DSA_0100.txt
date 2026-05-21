@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgA and OrgB aims to facilitate the sharing of data for service provision and analytics purposes. The parties have agreed on specific purposes, including dpv:service_provision and dpv:analytics, which will be carried out in accordance with the legal bases of dpv:contract and dpv:legal_obligation. The data categories involved include location, biometric, and health information.
+
+The DSA outlines the processing activities, including data storage and retention periods, as well as disposal methods. The parties have also agreed on incident response and exit plans, including notification deadlines and contact points.
+
+The DSA includes safeguards for international data transfers to Japan, with adequate mechanisms in place to ensure the security and confidentiality of personal data. The parties have also agreed on transparency arrangements, including notice types and issuers.
+
+Assessment information is available, indicating a low risk assessment outcome. The DSA includes governance and review plans, with regular reviews and audits to ensure compliance.
+
+Overall, this DSA provides a framework for the sharing of personal data between OrgA and OrgB, with measures in place to ensure the security, confidentiality, and transparency of personal data processing.

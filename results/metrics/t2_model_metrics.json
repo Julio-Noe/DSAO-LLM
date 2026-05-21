@@ -1,0 +1,53 @@
+[
+  {
+    "model": "Gemma-1.1-7B",
+    "task": "T2",
+    "items": 1300,
+    "answerable_items": 1139,
+    "unanswerable_items": 161,
+    "partial_items": 0,
+    "strict_accuracy": 0.5823076923076923,
+    "semantic_match": 0.6346153846153846,
+    "answerable_accuracy": 0.52414398595259,
+    "abstention_accuracy": 0.9937888198757764,
+    "unsupported_answer_rate": 0,
+    "ttl_supported_wrong_field_rate": 0,
+    "identifier_sensitive_exactness": 0.10272168568920105,
+    "policy_facet_separation": 0.5823076923076923,
+    "partial_information_accuracy": null
+  },
+  {
+    "model": "Meta-Llama-3-8B-Instruct",
+    "task": "T2",
+    "items": 1300,
+    "answerable_items": 1139,
+    "unanswerable_items": 161,
+    "partial_items": 0,
+    "strict_accuracy": 0.5861538461538461,
+    "semantic_match": 0.6392307692307693,
+    "answerable_accuracy": 0.5276558384547849,
+    "abstention_accuracy": 1,
+    "unsupported_answer_rate": 0,
+    "ttl_supported_wrong_field_rate": 0,
+    "identifier_sensitive_exactness": 0.11150131694468832,
+    "policy_facet_separation": 0.5861538461538461,
+    "partial_information_accuracy": null
+  },
+  {
+    "model": "Mistral-7B-v0.2",
+    "task": "T2",
+    "items": 1300,
+    "answerable_items": 1139,
+    "unanswerable_items": 161,
+    "partial_items": 0,
+    "strict_accuracy": 0.676923076923077,
+    "semantic_match": 0.7207692307692307,
+    "answerable_accuracy": 0.6619841966637401,
+    "abstention_accuracy": 0.782608695652174,
+    "unsupported_answer_rate": 0.11180124223602485,
+    "ttl_supported_wrong_field_rate": 0.09937888198757763,
+    "identifier_sensitive_exactness": 0.18525021949078138,
+    "policy_facet_separation": 0.676923076923077,
+    "partial_information_accuracy": null
+  }
+]

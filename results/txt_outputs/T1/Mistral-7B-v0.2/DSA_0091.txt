@@ -1,0 +1,13 @@
+```
+The DSA is between OrgA and OrgD. It has two purposes: research and analytics.
+OrgA is the data controller, and OrgD is the recipient.
+The DSA contains two processing activities: one for research, and one for analytics. Both have a legal basis of public interest or legal obligation.
+The DSA contains one shared dataset, which is a Dataset and conforms to <https>. It has storage for 6 months, and disposal by anonymisation.
+The DSA contains one rights handling for the right of rectification, which is handled by OrgA.
+The DSA contains one transparency arrangement, which is direct and issued by OrgA.
+The DSA contains an assessment of TRA, with a low outcome and a reference to <https://example.org/dpia.pdf>.
+The DSA contains one governance plan, with a review frequency of 12 months, a metric of AuditFindings<=2, and an audit right of on-site yearly.
+The DSA contains one incident response plan, with a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+The DSA contains one exit plan, with an exit trigger of contract_end, data disposition of SecureDelete, and a post-termination obligation of no redisclosure.
+The DSA contains one population, which is employees.
+```

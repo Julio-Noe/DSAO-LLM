@@ -1,0 +1,24 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgA and OrgB.
+The agreement was created on 2025-11-14T21:22:59Z.
+
+The agreement has two purposes: analytics and fraud detection.
+OrgA is the data controller, and OrgB is the recipient.
+
+The agreement has two processing activities: analytics and fraud detection.
+The analytics activity uses contact and financial data.
+The fraud detection activity uses health data.
+
+The agreement has one shared dataset, which conforms to a standard and is stored for 18 months.
+The dataset will be disposed of using SecureDelete.
+
+OrgA is responsible for handling rights requests, including rectification.
+The agreement has a transparency arrangement with layered notices issued by OrgA.
+
+OrgA has a governance plan with reviews every 6 months, using metrics such as BreachMTTR.
+OrgA has an incident response plan with a notification deadline of 72 hours and contact information.
+OrgA has an exit plan with a trigger of contract end, data disposition of return, and post-termination obligation of no contact after exit.
+The agreement has a population of general individuals.
+```

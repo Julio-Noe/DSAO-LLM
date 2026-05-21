@@ -1,0 +1,13 @@
+CQ-1 — Specified: analytics, fraud_detection
+CQ-2 — Specified: legitimate_interest, public_interest
+CQ-3 — Specified: OrgA (DataController), OrgE (Recipient)
+CQ-4 — Specified: biometric, contact, financial
+CQ-5 — Not stated in the TTL
+CQ-6 — Specified: destination=OrgE, transfer_mechanism=secure_transfer, safeguard=standard_contractual_clauses
+CQ-7 — Specified: responsible_party=OrgA, procedure_URL=https://example.org/dsa-rights
+CQ-8 — Specified: notice_type=layered, issuer=OrgA, page=https://example.org/dsa-notice
+CQ-9 — Specified: assessment_type=TRA, assessment_outcome=medium
+CQ-10 — Specified: notification_deadline=PT72H, contact_point=mailto:sec@example.org
+CQ-11 — Specified: review_frequency=P12M, metric=BreachMTTR<=72h, audit_right=remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — Specified: exit_trigger=contract_end, data_disposition=SecureDelete, post_termination_obligation=no_contact_after_exit

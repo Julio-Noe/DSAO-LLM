@@ -1,0 +1,23 @@
+```
+The DSA is between OrgE and OrgC. It was created on 2025-11-14T21:22:59Z.
+
+The DSA has two purposes: research and service provision. It is based on a contractual agreement.
+
+OrgE is the data controller and OrgC is the recipient.
+
+The DSA has two processing activities: research and service provision. The research activity is based on a contractual agreement, while the service provision activity is based on public interest.
+
+The DSA has one shared dataset, which conforms to a standard and is stored for 6 months. The disposal method is anonymization.
+
+The DSA has one rights handling procedure for the right of erasure, which is handled by OrgE.
+
+The DSA has one transparency arrangement with indirect notice and an issuer of OrgE.
+
+The DSA has one governance plan with a review frequency of 12 months, a metric of DSAR_SLA_<=30d, and an audit right of remote audit.
+
+The DSA has one incident response plan with a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+
+The DSA has one exit plan with an exit trigger of contract_end, data disposition of return, and a post-termination obligation of no contact after exit.
+
+The DSA has one population with the title "employees". The DSA's population is employees.
+```

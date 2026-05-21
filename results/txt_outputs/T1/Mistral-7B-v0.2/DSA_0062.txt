@@ -1,0 +1,9 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is version 1.0.3, created on November 14, 2025. It involves two parties: OrgA as the Data Controller and OrgC as the Processor. The DSA has two purposes: research and reporting.
+
+The DSA includes a governance plan, an incident response plan, and an exit plan. The governance plan requires reviews every six months, with metrics such as DSAR SLA <= 30 days and on-site audits annually. The incident response plan requires notification within 72 hours and contact with sec@example.org. The exit plan triggers upon contract end, with data disposition as return and no redisclosure.
+
+The DSA includes a population of children, with enhanced safeguards such as age-appropriate design.
+```

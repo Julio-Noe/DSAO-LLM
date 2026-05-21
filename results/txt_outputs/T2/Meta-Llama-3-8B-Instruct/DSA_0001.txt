@@ -1,0 +1,27 @@
+Here are the answers to the competency questions based on the provided TTL content:
+
+CQ-1 — The purposes associated with this DSA are analytics and fraud detection.
+
+CQ-2 — Not specified. The legal bases for the processing activities are not explicitly stated in the TTL.
+
+CQ-3 — Parties participating in this DSA are OrgA (Data Controller) and OrgE (Recipient).
+
+CQ-4 — The categories of data used or shared are biometric and contact.
+
+CQ-5 — Not specified. Retention duration and disposal method are not explicitly stated in the TTL.
+
+CQ-6 — International transfer details are specified. The destination country is DE, the transfer mechanism is SCCs, and safeguards include encryption_at_rest and access_control.
+
+CQ-7 — Data-subject rights are handled by OrgA, responsible for the right to access. The procedure URL is https.
+
+CQ-8 — Transparency arrangements are specified, including notice type (layered), issuer (OrgA), and page (https).
+
+CQ-9 — DPIA or transfer-risk assessments are specified. The assessment type is TRA, the outcome is low, and a reference to the DPIA report is provided.
+
+CQ-10 — Incident notification deadline is 72 hours, and the contact point is mailto:sec@example.org.
+
+CQ-11 — Governance, audit, or review arrangements are specified. The review frequency is every 12 months, a metric (BreachMTTR<=72h) and audit right (remote_audit) are mentioned.
+
+CQ-12 — Not specified. Children or child-specific safeguards are not represented in the TTL.
+
+CQ-13 — Exit obligations are specified. The exit trigger is contract_end, data disposition is SecureDelete, and post-termination obligation is no_redisclosure.

@@ -1,0 +1,25 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is between OrgD and OrgB. It covers two processing activities: analytics and reporting. The data categories used/shared are health and location.
+
+The dataset is a SharedDataset, which conforms to the following standard: <https>. It has a storage of 6 months and is disposed of using SecureDelete.
+
+The international transfer is to SG, using SCCs and safeguards of pseudonymisation and access control.
+
+The rights handling is for RightRectification, with OrgD as the responsible party and procedureURL <https>.
+
+The transparency arrangement is layered, with OrgD as the issuer and foaf:page <https>.
+
+The assessment is TRA, with an outcome of medium and references <https://example.org/dpia.pdf>.
+
+The governance plan is reviewed every 6 months, with a metric of AuditFindings<=2 and an auditRight of remote_audit.
+
+The incident response plan has a notificationDeadline of PT72H and a contactPoint of mailto:sec@example.org.
+
+The exit plan has an exitTrigger of contract_end, a dataDisposition of SecureDelete, and a postTerminationObligation of no_contact_after_exit.
+
+The population is children.
+
+There are enhanced safeguards of age_appropriate_design.
+```

@@ -1,0 +1,9 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) governs the sharing of personal data between two parties, OrgE and OrgA. The purposes of this DSA are service provision and research, with legal bases including contract and legal obligation. The data categories involved include biometric and health-related information.
+
+The DSA specifies that the shared dataset, DSA_0035_DS1, will be stored for six months and disposed of using the "SecureDelete" method. The parties have implemented international transfer arrangements, including a destination country of Brazil and safeguards such as pseudonymization and access control.
+
+The DSA also outlines rights handling procedures, including the right to erasure, and transparency arrangements, including a notice type of "direct" and an issuer of OrgE. The parties have conducted an assessment, which identified a high risk, and have implemented governance, incident response, and exit plans to manage this risk.
+
+The DSA population is employees, and the parties have implemented a review note process to ensure compliance with data protection principles.

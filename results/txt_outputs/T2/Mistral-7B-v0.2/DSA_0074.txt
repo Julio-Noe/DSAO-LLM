@@ -1,0 +1,13 @@
+CQ-1 — Analytics, Reporting
+CQ-2 — Legal basis: legal_obligation (P1), contract (P2)
+CQ-3 — OrgD: Data Controller, OrgE: Processor
+CQ-4 — Financial, Health, Biometric
+CQ-5 — Retention: 12 months, Disposal: Return
+CQ-6 — International transfer details not specified.
+CQ-7 — Data subject rights: Erasure, OrgD, <https>
+CQ-8 — Transparency: Direct notice, OrgD, <https>
+CQ-9 — DPIA assessment: Medium risk, <https://example.org/dpia.pdf>
+CQ-10 — Incident notification deadline: 72 hours, mailto:sec@example.org
+CQ-11 — Governance and audit: Review frequency: 12 months, Metric: DSAR SLA <=30d, Audit right: On-site yearly
+CQ-12 — Children or child-specific safeguards: Age appropriate design
+CQ-13 — Exit and termination: Contract end, Data disposition: Return, Post-termination obligation: No redisclosure

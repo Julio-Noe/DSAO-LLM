@@ -1,0 +1,14 @@
+```
+The DSA is a contract between OrgE and OrgD.
+OrgE is the data controller, and OrgD is a processor.
+The DSA has two purposes: reporting and analytics.
+OrgE uses the data for contact and financial purposes, while OrgD uses it for health purposes.
+The dataset is a shared dataset and conforms to the standard. It has a storage period of 6 months and is disposed of by anonymization.
+OrgE has a rights handling procedure for access rights, and OrgD is responsible for it.
+The transparency arrangement is indirect, with OrgE as the issuer and a web page as the notice.
+The governance plan includes reviews every 6 months, metrics such as BreachMTTR<=72h, and third-party audits.
+The incident response plan includes a notification deadline of 72 hours and contact information for security@example.org.
+The exit plan includes a trigger of contract end, data disposition of SecureDelete, and no redisclosure.
+The population is general.
+OrgE has a review note justifying the use of data for contact and financial purposes, with a guideline reference to ICO-2021-§3.2 and a decision of needs-change with a rating of 2.
+```

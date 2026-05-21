@@ -1,0 +1,11 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) governs the sharing of data between two parties, OrgC and OrgA. The purposes of this DSA are reporting and research, with legal bases grounded in legal obligation. The data categories involved include health, biometric, and financial information.
+
+The DSA specifies that the shared dataset will be stored for 18 months and disposed of through a return method. International transfer of data is allowed to Mexico, with safeguards in place, including key separation and access control.
+
+The DSA outlines rights handling procedures for erasure, with OrgC responsible for implementing these measures. Transparency arrangements include a layered notice type and an issuer, OrgC.
+
+Assessment information is available, indicating a high risk level. Governance, incident response, and exit plans are in place, with regular review frequencies and audit rights.
+
+This DSA ensures the secure sharing of data between OrgC and OrgA, while also protecting the rights and interests of individuals involved.

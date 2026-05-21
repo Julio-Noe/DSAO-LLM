@@ -1,0 +1,13 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgC and OrgE aims to detect fraud and perform analytics on health and biometric data. The parties have defined purposes for processing, including fraud detection and analytics, with legal bases of public interest and contract. The data categories used and shared include health and biometric information.
+
+The DSA specifies a retention period of six months, with data to be anonymized upon disposal. Rights handling is in place for rectification, with OrgC responsible and a procedure URL provided.
+
+The transparency arrangement includes indirect notice provision by OrgC, with a webpage link. An assessment has been conducted, concluding that the risk is low.
+
+The governance plan outlines review frequency and audit metrics, with on-site annual audits. The incident response plan includes a 72-hour notification deadline and contact point.
+
+The exit plan specifies an exit trigger of contract end, with data to be returned and no obligation for non-disclosure after termination.
+
+This DSA ensures the secure sharing of data between OrgC and OrgE, with measures in place for rights handling, transparency, governance, incident response, and exit.

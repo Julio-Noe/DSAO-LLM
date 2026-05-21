@@ -1,0 +1,13 @@
+CQ-1 — Specified: service_provision, analytics
+CQ-2 — Specified: legal_obligation, contract
+CQ-3 — Specified: OrgD (DataController), OrgE (Recipient)
+CQ-4 — Specified: location, biometric
+CQ-5 — Not stated in the TTL
+CQ-6 — Specified: destination, transfer_mechanism, safeguard
+CQ-7 — Not stated in the TTL
+CQ-8 — Specified: layered, OrgD, <https>
+CQ-9 — Not stated in the TTL
+CQ-10 — Specified: PT72H, mailto:sec@example.org
+CQ-11 — Not stated in the TTL
+CQ-12 — Specified: children, age_appropriate_design
+CQ-13 — Specified: contract_end, Return, no_contact_after_exit

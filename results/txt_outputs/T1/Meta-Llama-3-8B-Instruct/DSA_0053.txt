@@ -1,0 +1,13 @@
+Here is the Executive Summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The parties involved are OrgC (Data Controller) and OrgE (Recipient). The purposes of the DSA are research and fraud detection, with a legal basis of legitimate interest. The data categories used or shared include financial and biometric information.
+
+The dataset, DSA_0053_DS1, conforms to a standard and will be stored for 18 months. Disposal of the data will be done by anonymization.
+
+The rights handling, DSA_0053_RH1, is responsible for OrgC and provides a procedure URL. Transparency arrangements, DSA_0053_TA1, include indirect notice type and issuer OrgC.
+
+The governance plan, DSA_0053_Gov, has a review frequency of every 6 months and audit rights for third-party audits. The incident response plan, DSA_0053_IRP, has a notification deadline of 72 hours and contact point for security-related issues.
+
+The exit plan, DSA_0053_Exit, has an exit trigger of contract end and data disposition of returning the data. The population covered by this DSA is employees.
+
+Assessment information, DSA_0053_Assess, includes a DPIA assessment outcome of medium and references to a PDF document. International transfer information, DSA_0053_T1, includes destination country AU and transfer mechanism SCCs with safeguards of pseudonymization and access control.

@@ -1,0 +1,13 @@
+```
+The following Data Sharing Agreement (DSA) is between OrgC and OrgE.
+
+OrgC is the Data Controller, responsible for processing personal data according to the DSA. OrgE is the Recipient, which will receive and process personal data according to the DSA.
+
+The DSA has two purposes: service provision and reporting. The processing activities are:
+- Service Provision: This activity is subject to the legal basis of public interest. The data categories used are contact and location.
+- Reporting: This activity is subject to the legal basis of legal obligation. The data category used is contact.
+
+The DSA includes a governance plan, an incident response plan, and an exit plan. The governance plan specifies that the agreement will be reviewed every 6 months, and that audits will be conducted on-site annually. The incident response plan specifies that notifications must be made within 72 hours of an incident, and that the contact point is sec@example.org. The exit plan specifies that data will be disposed of using the SecureDelete method, and that no contact will be allowed after the exit.
+
+The DSA includes a population of general individuals, and rights handling for the right to erasure. The transparency arrangement is a layered notice issued by OrgC, with the URL <https>.
+```

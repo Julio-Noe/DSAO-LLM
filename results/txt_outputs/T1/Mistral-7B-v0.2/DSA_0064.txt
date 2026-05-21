@@ -1,0 +1,24 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is version 1.0.2, created on November 14, 2025. It involves two parties: OrgB as the Data Controller and OrgD as the Processor. The DSA has two purposes: research and reporting, with legal bases of public interest.
+
+The DSA involves two processing activities: DSA_0064_P1 and DSA_0064_P2. The first processing activity, DSA_0064_P1, has a purpose of research and a legal basis of public interest. It uses data categories of health and biometric. The second processing activity, DSA_0064_P2, has a purpose of reporting and a legal basis of public interest. It uses data categories of contact.
+
+The DSA involves one shared dataset, DSA_0064_DS1. It conforms to a standard and has storage with a duration of 6 months. The dataset is disposed of by returning it.
+
+The DSA involves one rights handling, DSA_0064_RH1. It handles the right of erasure and is responsible by OrgB. The procedure URL is <https>.
+
+The DSA involves one transparency arrangement, DSA_0064_TA1. It has a notice type of layered and is issued by OrgB. The page URL is <https>.
+
+The DSA involves one assessment, DSA_0064_Assess. It has an assessment type of DPIA, an assessment outcome of medium, and references <https://example.org/dpia.pdf>.
+
+The DSA involves one governance plan, DSA_0064_Gov. It has a review frequency of every 6 months, a metric of AuditFindings<=2, and an audit right of on-site yearly.
+
+The DSA involves one incident response plan, DSA_0064_IRP. It has a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+
+The DSA involves one exit plan, DSA_0064_Exit. It has an exit trigger of contract end, a data disposition of SecureDelete, and a post-termination obligation of no contact after exit.
+
+The DSA involves one population, children. The DSA has an enhanced safeguard of age-appropriate design.
+
+The DSA involves one review note, DSA_0064_RN1. It justifies DSA_0064_P1, uses ICO

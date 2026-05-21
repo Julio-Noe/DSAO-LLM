@@ -1,0 +1,13 @@
+CQ-1 — fraud_detection, service_provision
+CQ-2 — contract:DSA_0067_P1, legitimate_interest:DSA_0067_P2
+CQ-3 — OrgC:OrgC, OrgE:OrgE
+CQ-4 — location, health, contact
+CQ-5 — P18M:DSA_0067_DS1
+CQ-6 — Not stated in the TTL
+CQ-7 — RightErasure:DSA_0067_RH1
+CQ-8 — indirect:DSA_0067_TA1
+CQ-9 — DPIA:DSA_0067_Assess
+CQ-10 — PT72H:DSA_0067_IRP
+CQ-11 — reviewFrequency:DSA_0067_Gov, metric:DSA_0067_Gov, auditRight:DSA_0067_Gov
+CQ-12 — children:DSA_0067, age_appropriate_design:DSA_0067
+CQ-13 — contract_end:DSA_0067_Exit, SecureDelete:DSA_0067_Exit, no_redisclosure:DSA_0067_Exit

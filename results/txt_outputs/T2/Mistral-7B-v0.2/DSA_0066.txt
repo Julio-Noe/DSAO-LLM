@@ -1,0 +1,13 @@
+CQ-1 — reporting, service_provision
+CQ-2 — legitimate_interest
+CQ-3 — OrgC, OrgE
+CQ-4 — health, location, financial
+CQ-5 — P12M, Anonymise
+CQ-6 — Not stated in the TTL
+CQ-7 — RightRectification, OrgC, <https>
+CQ-8 — indirect, OrgC, <https>
+CQ-9 — DPIA, high, <https://example.org/dpia.pdf>
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — reviewFrequency=P12M, metric=DSAR_SLA_<=30d, remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end, SecureDelete, no_contact_after_exit

@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgB, acting as the Data Controller, and OrgD, acting as the Recipient. The purposes of this DSA are fraud detection and reporting. The legal bases for processing personal data are a legal obligation and legitimate interest.
+
+The DSA uses financial, biometric, location, and other data categories. The retention period for the dataset is 18 months, with disposal method "Return". International transfer of data will be made to Japan, using the adequacy mechanism and safeguards such as key separation and access control.
+
+The DSA has a governance plan, incident response plan, and exit plan. The governance plan includes review frequency every 12 months, a metric for breach MTTR less than or equal to 72 hours, and third-party audit rights. The incident response plan includes a notification deadline of 72 hours and contact point "mailto:sec@example.org". The exit plan includes an exit trigger of contract end, data disposition "Return", and post-termination obligation "no contact after exit".
+
+The DSA population is children, and enhanced safeguards are in place to ensure age-appropriate design. An assessment has been conducted, with an outcome of "medium" and references to a Data Protection Impact Assessment (DPIA) report. Transparency arrangements are in place, including notice type "indirect" and issuer OrgB.

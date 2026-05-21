@@ -1,0 +1,24 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgE and OrgA.
+It covers two purposes: fraud detection and analytics.
+The agreement was created on November 14, 2025.
+
+OrgE is the data controller and OrgA is the recipient.
+The agreement includes two processing activities: fraud detection and analytics.
+Both activities are based on legitimate interest and legal obligation as their legal bases.
+The data categories used or shared in the agreement are biometric, financial, and contact information.
+
+The dataset covered by the agreement is a shared dataset that conforms to a standard and has secure storage for 12 months.
+The disposal method is SecureDelete.
+
+OrgE has a rights handling procedure for the right to erasure, which is responsible by OrgE and can be found at <https>.
+OrgE has a transparency arrangement with layered notice and issuer. The page is <https>.
+
+The agreement has an assessment with DPIA outcome and high risk. The reference is <https://example.org/dpia.pdf>.
+The agreement has a governance plan with review frequency of 6 months, metric of DSAR_SLA_<=30d, and audit right of on-site yearly.
+The agreement has an incident response plan with notification deadline of 72 hours and contact point of mailto:sec@example.org.
+The agreement has an exit plan with exit trigger of contract end, data disposition of return, and post-termination obligation of no contact after exit.
+The agreement covers the population of employees.
+```

@@ -1,0 +1,9 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgB and OrgD aims to facilitate the sharing of data for fraud detection and research purposes. The parties have designated roles, with OrgB acting as the Data Controller and OrgD as the Processor. The DSA has been assessed, with an outcome of "high" risk, and a Data Protection Impact Assessment (DPIA) has been conducted. The assessment identified the need to reduce data categories, which is reflected in a Review Note.
+
+The DSA purposes are fraud detection and research, with legal bases grounded in public interest. The data categories used include contact information and biometric data for fraud detection, and health-related data for research. The dataset is stored for a period of six months and will be anonymized upon disposal.
+
+The parties have established governance, incident response, and exit plans. The governance plan includes regular reviews and audits, while the incident response plan outlines notification deadlines and contact points. The exit plan specifies triggers for termination, data disposition, and post-termination obligations.
+
+The DSA also includes arrangements for transparency, with a notice type of "indirect" and an issuer of OrgB. The parties have agreed to enhanced safeguards for international transfers, including the use of Standard Contractual Clauses (SCCs) and key separation.

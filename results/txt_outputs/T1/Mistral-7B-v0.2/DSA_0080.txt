@@ -1,0 +1,50 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgD and OrgC.
+OrgD is the Data Controller, responsible for collecting and processing personal data.
+OrgC is a Processor that receives data from OrgD for research and reporting purposes.
+
+The DSA has the following purposes:
+- Reporting: OrgD shares data with OrgC for reporting purposes.
+- Research: OrgC processes the shared data for research purposes.
+
+The DSA includes the following processing activities:
+- Reporting: OrgD shares data with OrgC for reporting purposes.
+- Research: OrgC processes the shared data for research purposes.
+
+The DSA includes the following legal bases:
+- Legal obligation: OrgD shares data with OrgC for reporting purposes.
+- Public interest: OrgC processes the shared data for research purposes.
+
+The DSA includes the following data categories:
+- Location: OrgD shares location data with OrgC for reporting purposes.
+- Health: OrgC processes health data for research purposes.
+
+The DSA includes the following dataset:
+- Dataset: OrgD shares a dataset with OrgC for reporting purposes.
+- Conformance link: The dataset conforms to a standard.
+- Storage and retention period: OrgD stores the dataset for 6 months.
+- Disposal method: OrgD disposes of the dataset by returning it to the original owner.
+
+The DSA includes the following international transfer:
+- Destination country: OrgD transfers data to Japan.
+- Transfer mechanism: OrgD uses BCRs for the transfer.
+- Safeguards: OrgD applies access control and encryption at rest to protect the transferred data.
+
+The DSA includes the following rights handling:
+- Right access: OrgD handles right access for data subjects.
+- Responsible party: OrgD is responsible for handling right access.
+- Procedure URL: OrgD provides a procedure URL for data subjects to exercise their rights.
+
+The DSA includes the following transparency arrangement:
+- Notice type: OrgD provides a layered notice to data subjects.
+- Issuer: OrgD is the issuer of the notice.
+- URL: OrgD provides a URL for data subjects to access the notice.
+
+The DSA includes the following governance plan:
+- Review frequency: OrgD reviews the DSA every 6 months.
+- Metric: OrgD uses a metric to measure the effectiveness of the DSA.
+- Audit right: OrgD has the right to audit the DSA.
+
+The DSA

@@ -1,0 +1,21 @@
+The following is an example response to the above instruction.
+
+The Data Sharing Agreement (DSA) between OrgA and OrgC has the following key features:
+
+1. **Purposes**: The DSA allows OrgA to share data with OrgC for the purposes of fraud detection and analytics.
+2. **Parties**: OrgA is the data controller, while OrgC is a processor of the shared data.
+3. **Processing activities**: The DSA allows OrgA to share two types of data with OrgC: contact and biometric data for fraud detection, and financial data for analytics.
+4. **Dataset**: The shared dataset is a Dataset that conforms to the specified standard and has a storage period of 6 months.
+5. **Rights handling**: OrgA is responsible for handling the rights to access the shared data, and has a procedure URL for managing these rights.
+6. **Transparency arrangement**: OrgA is responsible for issuing a transparency arrangement notice to the data subjects, which will be available on a specified web page.
+7. **Governance plan**: The DSA includes a governance plan with a review frequency of 12 months, a metric for measuring compliance, and an audit right.
+8. **Incident response plan**: The DSA includes an incident response plan with a notification deadline of 72 hours and a contact point for reporting incidents.
+9. **Exit plan**: The DSA includes an exit plan with a trigger for contract end, data disposition of SecureDelete, and no contact after exit.
+10. **Population**: The DSA includes a population of children, for which enhanced safeguards are in place.
+11. **Assessment**: The DSA includes an assessment of the data processing activities, which was conducted using a Data Protection Impact Assessment (DPIA) and resulted in a medium-risk assessment outcome.
+12. **International transfer**: The DSA includes information on international transfers of data, including the destination country, transfer mechanism, and safeguards.
+13. **Child or vulnerable-population safeguards**: The DSA includes enhanced safeguards for children and other vulnerable populations.
+
+The DSA is version 1.0.1, was created on November 14, 2025, and includes the following processing activities:
+- DSA_0008_P1: Fraud detection with contact and biometric data
+- DSA_0008_P2: Analytics with financial data

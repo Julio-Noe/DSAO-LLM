@@ -1,0 +1,23 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is between OrgA and OrgC. It covers two processing activities: analytics and fraud detection. The data categories used/shared are contact and financial.
+
+The dataset is a SharedDataset and Dataset, with conformance to <https>. It has storage and retention period of P6M. The disposal method is Return.
+
+The international transfer information includes destination country AU, transfer mechanism Adequacy, and safeguards key_separation and access_control.
+
+The rights handling is for RightAccess, with responsible party OrgA and procedureURL <https>.
+
+The transparency arrangement is direct, with issuer OrgA and foaf:page <https>.
+
+The governance plan is for review frequency P12M, metric BreachMTTR<=72h, and auditRight remote_audit.
+
+The incident response plan is for notificationDeadline PT72H and contactPoint mailto:sec@example.org.
+
+The exit plan is for exitTrigger contract_end, dataDisposition Return, and postTerminationObligation no_redisclosure.
+
+The population is children.
+
+The enhanced safeguard is age_appropriate_design.
+```

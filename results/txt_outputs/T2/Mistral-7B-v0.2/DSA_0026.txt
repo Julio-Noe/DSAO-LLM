@@ -1,0 +1,13 @@
+CQ-1 — Specified: analytics, research
+CQ-2 — Specified: contract, public_interest
+CQ-3 — Specified: OrgE (DataController), OrgD (Recipient)
+CQ-4 — Specified: location, contact, biometric
+CQ-5 — Specified: P6M, Return
+CQ-6 — Not stated in the TTL
+CQ-7 — Specified: RightRectification, OrgE, <https>
+CQ-8 — Specified: indirect, OrgE, <https>
+CQ-9 — Not stated in the TTL
+CQ-10 — Specified: PT72H, mailto:sec@example.org
+CQ-11 — Specified: P6M, BreachMTTR<=72h, third_party_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — Specified: contract_end, Return, no_redisclosure

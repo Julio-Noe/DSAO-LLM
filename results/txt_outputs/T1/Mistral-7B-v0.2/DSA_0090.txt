@@ -1,0 +1,23 @@
+The following is a sample response for the given TTL input. It includes an executive summary and a detailed description of the DSA.
+
+**Executive Summary:**
+The Data Sharing Agreement (DSA) between OrgE and OrgB involves two parties: OrgE as the Data Controller and OrgB as the Recipient. The DSA has two purposes: fraud detection and service provision.
+
+The agreement includes a governance plan, an incident response plan, and an exit plan. The governance plan involves reviewing the agreement every six months, measuring breach mean time to repair (MTTR) and conducting remote audits. The incident response plan requires notifying OrgE within 72 hours of any breach and contacting them at sec@example.org. The exit plan involves returning the data to OrgE upon contract termination and prohibiting redisclosure.
+
+The agreement covers a population of general individuals, and OrgE is responsible for handling rights related to access. The agreement includes a transparency arrangement with indirect notice and an assessment that concludes that the DSA is medium-risk.
+
+The agreement includes a processing activity for fraud detection with legal basis of public interest and uses health and location data. The agreement also includes a processing activity for service provision with legal basis of legal obligation and uses health data.
+
+The agreement includes a shared dataset that conforms to a standard and has storage for 12 months with secure delete disposal method. The agreement also includes an international transfer to Brazil with BCRs as the transfer mechanism and pseudonymization and encryption at rest as safeguards.
+
+**Detailed Description:**
+The DSA between OrgE and OrgB involves two parties: OrgE as the Data Controller and OrgB as the Recipient. The DSA has two purposes: fraud detection and service provision.
+
+The agreement includes a governance plan, an incident response plan, and an exit plan. The governance plan involves reviewing the agreement every six months, measuring breach mean time to repair (MTTR) and conducting remote audits. The incident response plan requires notifying OrgE within 72 hours of any breach and contacting them at sec@example.org. The exit plan involves returning the data to OrgE upon contract termination and prohibiting redisclosure.
+
+The agreement covers a population of general individuals, and OrgE is responsible for handling rights related to access. The agreement includes a transparency arrangement with indirect notice and an assessment that concludes that the DSA is medium-risk.
+
+The agreement includes a processing activity for fraud detection with legal basis of public interest and uses health and location data. The agreement also includes a processing activity for service provision with legal basis of legal obligation and uses health data.
+
+The agreement includes a shared

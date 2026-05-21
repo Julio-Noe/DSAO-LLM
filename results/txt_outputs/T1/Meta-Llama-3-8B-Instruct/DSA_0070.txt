@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.5, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgC, acting as the Recipient. The purposes of this DSA are analytics and fraud detection. The legal bases for processing personal data are a legal obligation and a contract.
+
+The DSA uses two categories of data: contact information and financial data. The retention period for this data is six months, and the disposal method is return of the data to the Data Controller. 
+
+The agreement has an incident response plan, which includes a notification deadline of 72 hours and a contact point for reporting incidents. The exit plan outlines the trigger for exiting the agreement, which is the end of the contract, and the data disposition method, which is return of the data to the Data Controller.
+
+The DSA has an assessment, which was conducted according to the TRA (Transparency and Accountability) framework. The outcome of the assessment is "medium", and references to the assessment report are available.
+
+The governance plan outlines the review frequency, which is every 12 months, and the audit right, which is remote auditing. The transparency arrangement includes a notice type of "direct" and an issuer of the notice, which is OrgA.
+
+The DSA also includes enhanced safeguards for vulnerable populations, such as children, and has an international transfer arrangement with Australia (AU) using the adequacy mechanism.

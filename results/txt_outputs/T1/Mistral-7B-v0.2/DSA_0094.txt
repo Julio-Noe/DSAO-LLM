@@ -1,0 +1,39 @@
+The following is an example response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgB and OrgD.
+It covers two processing activities: fraud detection and research.
+The data categories used/shared are contact, biometric, and health.
+The dataset is a SharedDataset with a conformance link to <https>.
+It has a storage and retention period of 6 months.
+The disposal method is Anonymise.
+
+International transfer information:
+- Destination country: BR
+- Transfer mechanism: SCCs
+- Safeguards: key_separation, access_control
+
+Rights handling:
+- Right Erasure: responsibleParty :OrgB, procedureURL <https>
+
+Transparency arrangement:
+- Notice type: indirect
+- Issuer: :OrgB
+- Page: <https>
+
+Governance plan:
+- Review frequency: P12M
+- Metric: BreachMTTR<=72h
+- AuditRight: remote_audit
+
+Incident response plan:
+- Notification deadline: PT72H
+- Contact point: mailto:sec@example.org
+
+Exit plan:
+- Exit trigger: contract_end
+- Data disposition: SecureDelete
+- Post termination obligation: no_redisclosure
+
+Population: employees
+```

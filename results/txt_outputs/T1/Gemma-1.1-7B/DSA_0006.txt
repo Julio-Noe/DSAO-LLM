@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The agreement involves two parties: OrgB, acting as the data controller, and OrgD, acting as the processor. The purposes of this DSA are reporting and analytics, with legal bases of public interest and legal obligation. The data categories used or shared include biometric and financial information.
+
+The dataset, DSA_0006_DS1, conforms to a standard and will be stored for 12 months before being disposed of securely. The rights handling process, DSA_0006_RH1, is managed by OrgB and provides procedures for rectification. Transparency arrangements, DSA_0006_TA1, include direct notice and an issuer, OrgB.
+
+The governance plan, DSA_0006_Gov, outlines review frequencies and metrics for auditing. The incident response plan, DSA_0006_IRP, includes notification deadlines and contact points. The exit plan, DSA_0006_Exit, outlines triggers for termination and data disposition.
+
+The population covered by this DSA is children, and enhanced safeguards are in place to ensure age-appropriate design. An assessment, DSA_0006_Assess, has been conducted and is available for review.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

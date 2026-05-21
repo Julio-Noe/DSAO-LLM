@@ -1,0 +1,13 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgE and OrgD aims to facilitate data sharing for reporting and analytics purposes. The parties have agreed on the following purposes: reporting and analytics, with legal bases of contract and legitimate interest. The data categories used or shared include contact information and biometric data.
+
+The DSA specifies that the dataset will be stored for six months, with disposal method anonymization. The parties have also agreed on an incident response plan, which includes notification deadlines and contact points.
+
+The DSA has been assessed as having a high risk level, with recommendations to reduce the data categories used. The parties have agreed on governance and exit plans, including review frequencies, metrics, and audit rights.
+
+The DSA also includes transparency arrangements, such as notice types and issuers. International transfer information is provided, including destination country, transfer mechanism, and safeguards.
+
+Assessment information is available, including assessment type, outcome, and references. Child or vulnerable population safeguards are not specified.
+
+This DSA provides a framework for the parties to share data while ensuring compliance with relevant regulations and standards.

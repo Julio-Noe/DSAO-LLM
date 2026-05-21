@@ -1,0 +1,23 @@
+The following is an example response for the above TTL input.
+
+The Data Sharing Agreement (DSA) is a legal agreement between two organizations, OrgB and OrgD. The DSA outlines the purposes for which data will be processed, the legal bases for processing, and the rights of individuals whose data is being shared.
+
+The DSA includes two processing activities: one for reporting purposes and another for analytics. The data categories used in the DSA include biometric, financial, and other types of personal data.
+
+The dataset shared under the DSA is stored for a period of 12 months and will be disposed of using the SecureDelete method. The rights handling for the DSA includes a procedure for rectification of data and is handled by OrgB.
+
+The transparency arrangement for the DSA includes a direct notice to individuals whose data is being shared. The assessment of the DSA indicates that it has a medium level of risk and includes a reference to a Data Protection Impact Assessment (DPIA) report.
+
+The governance plan for the DSA includes a review frequency of every 6 months, a metric to measure compliance with the DSA, and an audit right for remote audits. The incident response plan includes a notification deadline of 72 hours and a contact point for security incidents.
+
+The exit plan for the DSA includes an exit trigger of contract end, data disposition of return, and a post-termination obligation of no redisclosure. The DSA also includes a population of children and enhanced safeguards for age-appropriate design.
+
+The DSA is a legally binding agreement that outlines the purposes for which data will be processed, the legal bases for processing, and the rights of individuals whose data is being shared. It includes a governance plan, incident response plan, and exit plan to ensure compliance with the DSA.
+
+The dataset shared under the DSA is stored for a period of 12 months and will be disposed of using the SecureDelete method. The rights handling for the DSA includes a procedure for rectification of data and is handled by OrgB.
+
+The transparency arrangement for the DSA includes a direct notice to individuals whose data is being shared. The assessment of the DSA indicates that it has a medium level of risk and includes a reference to a Data Protection Impact Assessment (DPIA) report.
+
+The governance plan for the DSA includes a review frequency of every 6 months, a metric to measure compliance with the DSA, and an audit right for remote audits. The incident response plan includes a notification deadline of 72 hours and a contact point for security incidents.
+
+The exit plan for the DSA includes an exit trigger of contract end, data disposition of return, and a post-termination obligation

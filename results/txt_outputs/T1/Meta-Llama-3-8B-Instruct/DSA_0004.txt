@@ -1,0 +1,13 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) governs the sharing of data between two parties, OrgE and OrgB. The primary purposes of this DSA are research and analytics. The data categories involved include health, location, and contact information. The legal bases for processing are public interest and legal obligation.
+
+The DSA specifies that the data will be stored for six months, with a disposal method of anonymization. The rights handling procedures include the right to erasure, and the responsible party is OrgE.
+
+The transparency arrangement requires direct notice from OrgE to individuals whose data is being shared. The DSA has undergone an assessment, which identified a medium-level risk and provided recommendations for mitigation.
+
+The governance plan outlines the review frequency, metrics, and audit rights. The incident response plan includes a notification deadline of 72 hours and contact information for security incidents.
+
+The exit plan specifies the trigger for termination, data disposal method, and post-termination obligations. The population covered by this DSA is employees of OrgE.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values or typical DSA structure.

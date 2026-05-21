@@ -1,0 +1,25 @@
+```
+The DSA is a contract between OrgD and OrgB. The agreement has two purposes: reporting and fraud detection.
+
+OrgD is the data controller, and OrgB is the recipient. The agreement includes a governance plan, an incident response plan, and an exit plan.
+
+The agreement covers two processing activities: reporting and fraud detection. The legal basis for both is public interest.
+
+The agreement covers two data categories: contact and location. The storage period for the shared dataset is 12 months, and the disposal method is return.
+
+The agreement includes an international transfer to Mexico with SCCs as the transfer mechanism and pseudonymization and key separation as safeguards.
+
+The agreement includes a rights handling for the right to rectification, with OrgD as the responsible party and a procedure URL.
+
+The agreement includes a transparency arrangement with layered notice, OrgD as the issuer, and a page URL.
+
+The agreement includes an assessment with TRA as the assessment type, low as the outcome, and a DPIA reference.
+
+The agreement includes a governance plan with a review frequency of 6 months, a metric of DSAR SLA <=30d, and remote audit as the right.
+
+The agreement includes an incident response plan with a notification deadline of 72 hours and a contact point.
+
+The agreement includes an exit plan with contract end as the trigger, secure delete as the data disposition, and no contact after exit as the post-termination obligation.
+
+The agreement covers a population of general individuals.
+```

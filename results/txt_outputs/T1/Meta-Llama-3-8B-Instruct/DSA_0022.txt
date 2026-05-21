@@ -1,0 +1,11 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) between OrgC and OrgD outlines the terms for sharing data between the two parties. The primary purposes of this DSA are reporting and service provision, with legal bases rooted in public interest and legal obligation. The parties will process financial and location data, which are categorized as personal data.
+
+The DSA specifies that the shared dataset will be stored for 12 months and disposed of through anonymization. International transfer of data to Brazil is permitted, with safeguards in place for pseudonymization and access control.
+
+The agreement includes provisions for rights handling, transparency arrangements, and incident response. OrgC is responsible for handling rights related to access, while OrgD will provide notice in the event of a data breach. The parties have agreed to review their governance plan every 12 months and conduct remote audits.
+
+The DSA also includes an assessment, which concluded that the risks associated with this data sharing are low. The parties have agreed to implement enhanced safeguards, including age-appropriate design, to protect children's data.
+
+Overall, this DSA outlines the terms for responsible and secure data sharing between OrgC and OrgD.

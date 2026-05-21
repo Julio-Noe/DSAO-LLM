@@ -1,0 +1,7 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgB, acting as the Processor. The purposes of this DSA are service provision and analytics, with legal bases being contract and legal obligation. The data categories used or shared include location, biometric, and health information.
+
+The dataset is stored for six months and will be disposed of using the "SecureDelete" method. The agreement includes an incident response plan, which requires notification within 72 hours, and a governance plan with review frequency of every 12 months. The exit plan triggers data disposal when the contract ends and requires no contact after termination.
+
+The agreement also includes enhanced safeguards for vulnerable populations, such as children, and provides transparency arrangements, including notice types and responsible parties. An assessment has been conducted, which identified a low risk of data breaches. The DSA has undergone review and was found to require changes, specifically reducing the number of data categories used.

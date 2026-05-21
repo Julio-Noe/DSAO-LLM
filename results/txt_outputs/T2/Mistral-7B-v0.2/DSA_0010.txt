@@ -1,0 +1,13 @@
+CQ-1 — Specified: fraud detection, research
+CQ-2 — Specified: public interest, contract
+CQ-3 — Specified: OrgD (data controller), OrgA (processor)
+CQ-4 — Specified: financial, health
+CQ-5 — Specified: 12 months, SecureDelete
+CQ-6 — Not stated in the TTL
+CQ-7 — Specified: access, OrgD, <https>
+CQ-8 — Specified: direct, OrgD, <https>
+CQ-9 — Specified: TRA, low, <https://example.org/dpia.pdf>
+CQ-10 — Specified: 72 hours, mailto:sec@example.org
+CQ-11 — Specified: review frequency, 12 months, AuditFindings<=2, remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — Specified: contract end, return, no contact after exit

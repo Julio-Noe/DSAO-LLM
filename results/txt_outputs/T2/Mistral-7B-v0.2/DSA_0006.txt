@@ -1,0 +1,13 @@
+CQ-1 — reporting, analytics
+CQ-2 — legal_obligation, public_interest
+CQ-3 — OrgB:DataController, OrgD:Processor
+CQ-4 — financial, biometric
+CQ-5 — P12M, SecureDelete
+CQ-6 — Not stated in the TTL
+CQ-7 — RightRectification, OrgB, <https>
+CQ-8 — direct, OrgB, <https>
+CQ-9 — TRA, medium, <https://example.org/dpia.pdf>
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — reviewFrequency:P6M, metric:"DSAR_SLA_<=30d", auditRight:"remote_audit"
+CQ-12 — children, age_appropriate_design
+CQ-13 — contract_end, Return, no_redisclosure

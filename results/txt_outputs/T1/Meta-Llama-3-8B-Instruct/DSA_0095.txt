@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.0, was created on November 14, 2025. The agreement involves two parties: OrgE, acting as the Data Controller, and OrgC, acting as the Recipient. The purposes of this DSA are research and service provision. The legal bases for processing are contract and public interest.
+
+The agreement involves two processing activities: one for research purposes, using contact and financial data, and another for service provision purposes, also using financial data. The data is stored for six months and will be anonymized upon disposal.
+
+The rights handling procedure is in place, including the right to erasure and a responsible party. The transparency arrangement includes indirect notice and an issuer.
+
+The governance plan outlines the review frequency, metrics, and audit rights. The incident response plan includes a notification deadline and contact point. The exit plan outlines the trigger, data disposition, and post-termination obligations.
+
+The population covered by this DSA is employees.

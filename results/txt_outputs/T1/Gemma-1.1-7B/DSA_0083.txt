@@ -1,0 +1,15 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgE and OrgD aims to facilitate the sharing of data for fraud detection and reporting purposes. The parties have agreed on specific purposes, including fraud detection and reporting, with legal bases of public interest and legitimate interest. The data categories used in this DSA include contact information and financial data.
+
+The agreement outlines the processing activities, including the storage and retention period of 12 months. The disposal method is specified as "Return". Rights handling is managed by OrgE, which is responsible for the right of access and has a procedure in place.
+
+The transparency arrangement includes indirect notice type, issued by OrgE, with a notice URL. The governance plan outlines the review frequency of every 12 months and audit rights for remote audits.
+
+In case of incidents, OrgE will notify OrgD within 72 hours. The incident response plan includes a contact point for security-related matters.
+
+The exit plan outlines the trigger for exit, which is contract end, and specifies that data will be returned. Post-termination obligations include no contact after exit.
+
+The population covered by this DSA is general, and the assessment information is not specified. International transfer information is also not provided.
+
+This DSA ensures compliance with data protection regulations and provides a framework for the sharing of data between OrgE and OrgD.

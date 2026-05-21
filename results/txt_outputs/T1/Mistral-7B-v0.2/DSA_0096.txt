@@ -1,0 +1,19 @@
+The following is an example response for the above TTL input.
+
+This Data Sharing Agreement (DSA) is a contract between OrgC and OrgA. The DSA has two purposes: research and service provision.
+
+OrgC is the data controller, and OrgA is the processor. The DSA specifies two processing activities: research and service provision. Both activities are based on the legal basis of legitimate interest.
+
+The DSA includes a shared dataset, which conforms to the specified standard and has a storage period of 18 months. The dataset is disposed of using the SecureDelete method.
+
+The DSA includes a rights handling procedure for access to data, which is handled by OrgC. The DSA also includes a transparency arrangement with indirect notice and an issuer of the notice, OrgC.
+
+The DSA includes an assessment that is based on a TRA and has a high outcome. The DSA also includes a governance plan with a review frequency of 12 months, a metric of BreachMTTR<=72h, and an audit right of on-site yearly.
+
+The DSA includes an incident response plan with a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+
+The DSA includes an exit plan with an exit trigger of contract end, a data disposition of SecureDelete, and a post-termination obligation of no redisclosure.
+
+The DSA includes a population of children. The DSA also includes an enhanced safeguard for age-appropriate design.
+
+The DSA is a contract between OrgC and OrgA, with two purposes: research and service provision. The DSA includes a shared dataset, rights handling procedure, transparency arrangement, assessment, governance plan, incident response plan, exit plan, and population of children. The DSA also includes an enhanced safeguard for age-appropriate design.

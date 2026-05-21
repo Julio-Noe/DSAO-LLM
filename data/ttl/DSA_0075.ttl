@@ -1,0 +1,44 @@
+@prefix :      <https://example.org/dsao/inst/> .
+@prefix dsao:  <https://w3id.org/dsao#> .
+@prefix dpv:   <https://w3id.org/dpv#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+:DSA_0075 a dsao:DataSharingAgreement ;
+  dct:hasVersion "1.0.5" ;
+  dpv:hasPurpose dpv:research , dpv:hasPurpose dpv:service_provision ;
+  dsao:hasParty :OrgD , :OrgC ;
+  dsao:hasGovernancePlan :DSA_0075_Gov ;
+  dsao:hasIncidentResponsePlan :DSA_0075_IRP ;
+  dsao:hasExitPlan :DSA_0075_Exit ;
+  dct:created "2025-11-14T21:22:59Z"^^xsd:dateTime .
+
+:OrgD a dsao:Party ; dct:title "OrgD" ; dpv:hasRole dpv:DataController .
+:OrgC a dsao:Party ; dct:title "OrgC" ; dpv:hasRole dpv:Processor .
+
+:DSA_0075_P1 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:research ; dpv:hasLegalBasis dpv:contract ; dsao:usesData dpv:location , dsao:usesData dpv:health .
+:DSA_0075_P2 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:service_provision ; dpv:hasLegalBasis dpv:legal_obligation ; dsao:usesData dpv:location .
+
+:DSA_0075_DS1 a dsao:SharedDataset , dcat:Dataset ;
+  dct:conformsTo <https> ;
+  dpv:hasStorage [ a dpv:Storage ; dpv:hasDuration "P6M"^^xsd:duration ] ;
+  dsao:disposalMethod "Return" .
+
+:DSA_0075_T1 a dsao:InternationalTransfer ; dsao:destinationCountry "DE" ; dsao:transferMechanism "Adequacy" ; dsao:hasSafeguard dpv:access_control , dsao:hasSafeguard dpv:encryption_at_rest .
+
+:DSA_0075_RH1 a dsao:RightsHandling ; dsao:forRight dpv:RightErasure ; dsao:responsibleParty :OrgD ; dsao:procedureURL <https> .
+
+:DSA_0075_TA1 a dsao:TransparencyArrangement ; dsao:noticeType "layered" ; dsao:issuer :OrgD ; foaf:page <https> .
+
+:DSA_0075_Assess a dsao:Assessment ; dsao:assessmentType "TRA" ; dsao:assessmentOutcome "high" ; dct:references <https://example.org/dpia.pdf> .
+:DSA_0075 dsao:hasAssessment :DSA_0075_Assess .
+
+:DSA_0075_Gov a dsao:GovernancePlan ; dsao:reviewFrequency "P12M" ; dsao:metric "BreachMTTR<=72h" ; dsao:auditRight "third_party_audit" .
+:DSA_0075_IRP a dsao:IncidentResponsePlan ; dsao:notificationDeadline "PT72H"^^xsd:duration ; dsao:contactPoint "mailto:sec@example.org" .
+:DSA_0075_Exit a dsao:ExitPlan ; dsao:exitTrigger "contract_end" ; dsao:dataDisposition "SecureDelete" ; dsao:postTerminationObligation "no_redisclosure" .
+:DSA_0075_Population a dsao:Population ; dct:title "children" .
+:DSA_0075 dsao:population :DSA_0075_Population .
+:DSA_0075 dsao:enhancedSafeguard dpv:age_appropriate_design .
+:DSA_0075_RN1 a dsao:ReviewNote ; dsao:justifies :DSA_0075_P1 ; dsao:guidelineRef "ICO-2021-§3.2" ; dsao:decision "needs-change" ; dsao:rating 2 ; dct:description "reduce data categories" .

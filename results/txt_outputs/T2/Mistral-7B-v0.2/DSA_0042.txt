@@ -1,0 +1,13 @@
+CQ-1 — reporting, service_provision
+CQ-2 — contract
+CQ-3 — OrgB, OrgA
+CQ-4 — financial, location, biometric
+CQ-5 — P18M, Return
+CQ-6 — Not stated in the TTL
+CQ-7 — RightErasure, OrgB, <https>
+CQ-8 — indirect, OrgB, <https>
+CQ-9 — Not stated in the TTL
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — reviewFrequency=P12M, metric=BreachMTTR<=72h, auditRight=remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end, SecureDelete, no_contact_after_exit

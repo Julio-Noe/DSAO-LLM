@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgE and OrgA outlines the terms for sharing data between the two parties. The primary purposes of this DSA are service provision and research, with legal bases established under the legal obligation. The parties will process data categories including health and biometric information.
+
+The DSA specifies that the shared dataset, DSA_0023_DS1, will be stored for 18 months and disposed of through anonymization. The rights handling process, DSA_0023_RH1, will be managed by OrgE, and the transparency arrangement, DSA_0023_TA1, will provide direct notices to data subjects.
+
+The governance plan, DSA_0023_Gov, outlines the review frequency and audit rights, while the incident response plan, DSA_0023_IRP, specifies notification deadlines and contact points. The exit plan, DSA_0023_Exit, outlines the trigger for exit and data disposition procedures.
+
+The assessment, DSA_0023_Assess, has been conducted and the outcome is low risk. The assessment report can be found at <https://example.org/dpia.pdf>.

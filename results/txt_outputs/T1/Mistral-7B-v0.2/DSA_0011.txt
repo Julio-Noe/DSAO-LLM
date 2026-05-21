@@ -1,0 +1,13 @@
+```
+The DSA is between OrgD and OrgB.
+OrgD is the data controller, and OrgB is a processor.
+The DSA has two purposes: reporting and analytics.
+The data controller will share the following categories of data with OrgB: location, contact.
+OrgD will retain the shared dataset for 18 months and then dispose of it securely.
+OrgD will handle rights requests for rectification, and the procedure is available at <https>.
+OrgD will provide a direct transparency arrangement to employees, and the notice is available at <https>.
+OrgD will review its governance plan every 6 months, and the metric is BreachMTTR<=72h.
+OrgD will notify OrgB of any incident within 72 hours and provide contact information at mailto:sec@example.org.
+OrgD will exit the DSA when the contract ends, and it will dispose of the shared data securely.
+OrgD will not redisclose the shared data to any third parties without consent.
+```

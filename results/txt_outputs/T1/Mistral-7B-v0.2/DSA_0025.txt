@@ -1,0 +1,47 @@
+The following is an example response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgB and OrgA.
+It was created on 2025-11-14T21:22:59Z.
+
+The DSA has two purposes: research and analytics.
+OrgB is the data controller, and OrgA is the processor.
+
+The DSA has two processing activities:
+- Research: OrgB shares biometric and financial data with OrgA for research purposes.
+- Analytics: OrgB shares financial data with OrgA for analytics purposes.
+
+The DSA has one shared dataset:
+- Dataset 1: This dataset conforms to a standard and is stored for six months.
+- Disposal method: The data will be returned to OrgB after six months.
+
+The DSA has one rights handling:
+- Right to rectification: OrgB is responsible for handling requests for rectification.
+
+The DSA has one transparency arrangement:
+- Notice type: Direct notice will be provided to the data subjects.
+- Issuer: OrgB is responsible for issuing notices.
+- Page: The notice will be provided on the specified web page.
+
+The DSA has one assessment:
+- Assessment type: TRA (Transparency, Risk, and Accountability)
+- Assessment outcome: High
+- References: A DPIA (Data Protection Impact Assessment) is available at the specified URL.
+
+The DSA has one governance plan:
+- Review frequency: The plan will be reviewed every 12 months.
+- Metric: Audit findings should not exceed two.
+- Audit right: On-site audits will be conducted annually.
+
+The DSA has one incident response plan:
+- Notification deadline: Notices must be provided within 72 hours.
+- Contact point: The contact point for incident response is sec@example.org.
+
+The DSA has one exit plan:
+- Exit trigger: The contract will end.
+- Data disposition: The data will be securely deleted.
+- Post-termination obligation: No redisclosure of the data is allowed.
+
+The DSA has one population:
+- Population: The general public.
+```

@@ -1,0 +1,7 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.0, was created on November 14, 2025. The agreement involves two parties: OrgB, acting as the Data Controller, and OrgE, acting as the Processor. The purposes of this DSA are fraud detection and research. The parties will process personal data categories including health and biometric information, with legal bases of contract and public interest. The data will be stored for 12 months and disposed of through a return method.
+
+The DSA has an assessment outcome of "medium" and is subject to enhanced safeguards, including access control and pseudonymization, for international transfers to Japan. The parties have established a governance plan with regular reviews and audit rights, as well as incident response and exit plans. The transparency arrangement includes direct notice to individuals, with a responsible party and procedure URL.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

@@ -1,0 +1,13 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgD and OrgC aims to facilitate the sharing of data for research and reporting purposes. The parties have agreed on specific purposes, including research and reporting, with legal bases of legal obligation and legitimate interest. The data categories involved include biometric, location, and contact information.
+
+The DSA outlines the processing activities, including storage and retention periods, as well as disposal methods. The parties have also agreed on incident response and exit plans, including notification deadlines and contact points.
+
+The DSA includes safeguards for the protection of children's data, with enhanced safeguards in place to ensure age-appropriate design. The parties have also agreed on transparency arrangements, including notice types and issuers.
+
+Assessment information is available, including an assessment type of TRA (Technical Review Assessment) and an assessment outcome of medium. The DSA has been reviewed, with a review note justifying the need for changes to reduce data categories.
+
+International transfer information is also available, including destination country Japan and transfer mechanism SCCs (Standard Contractual Clauses). The DSA includes safeguards for the protection of personal data during international transfer, including encryption at rest and access control.
+
+Overall, this DSA provides a framework for the sharing of data between OrgD and OrgC, with clear purposes, processing activities, and safeguards in place to protect personal data.

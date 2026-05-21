@@ -1,0 +1,14 @@
+```
+The DSA is between OrgE and OrgC. It has two purposes: fraud detection and reporting.
+OrgE is the data controller, and OrgC is the recipient.
+The DSA has two processing activities: fraud detection and reporting. Both have a legitimate interest legal basis.
+The DSA uses two data categories: contact and biometric.
+The dataset is a shared dataset and a Dataset. It conforms to <https>. It has storage with a duration of 18 months and disposal method SecureDelete.
+The rights handling is for RightAccess, responsible party OrgE, and procedureURL <https>.
+The transparency arrangement is indirect, issuer OrgE, and foaf:page <https>.
+The DSA has an assessment with type TRA, outcome medium, and references <https://example.org/dpia.pdf>.
+The DSA has a governance plan with review frequency P12M, metric AuditFindings<=2, and auditRight third_party_audit.
+The DSA has an incident response plan with notificationDeadline PT72H and contactPoint mailto:sec@example.org.
+The DSA has an exit plan with exitTrigger contract_end, dataDisposition SecureDelete, and postTerminationObligation no_contact_after_exit.
+The DSA has a population with title general.
+```

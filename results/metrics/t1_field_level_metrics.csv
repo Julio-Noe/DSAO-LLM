@@ -1,0 +1,28 @@
+model,field_id,label,items,answerable,missing,prompt_facet_coverage,value_level_coverage,complete_facet_coverage,missing_ok,unsupported,ttl_supported_wrong_field_rate,coverage
+Gemma-1.1-7B,agreement_metadata,Agreement metadata,100,100,0,0.82,0.38,0,,,,0
+Gemma-1.1-7B,assessments,Assessment information,100,78,22,0.8974358974358975,0.46153846153846156,0.0641025641025641,0.8181818181818182,0,0.13636363636363635,0.0641025641025641
+Gemma-1.1-7B,children_safeguards,Children or vulnerable-population safeguards,100,29,71,0.9655172413793104,0.8793103448275862,0.7931034482758621,0.9295774647887324,0,0.028169014084507043,0.7931034482758621
+Gemma-1.1-7B,dataset_retention_disposal,"Dataset, retention, and disposal",100,100,0,0.93,0.5575,0.05,,,,0.05
+Gemma-1.1-7B,governance_incident_exit,"Governance, incident response, and exit",100,100,0,0.71,0.21875,0,,,,0
+Gemma-1.1-7B,international_transfer,International transfer information,100,32,68,0.8125,0.4140625,0.125,0.9117647058823529,0,0.014705882352941176,0.125
+Gemma-1.1-7B,parties_roles,Parties and roles,100,100,0,1,0.93,0.85,,,,0.85
+Gemma-1.1-7B,population_rights_transparency,"Population, rights, and transparency",100,100,0,1,0.512,0,,,,0
+Gemma-1.1-7B,purposes_processing_legal_basis_data,"Purposes, processing, legal bases, and data",100,100,0,1,0.9399684044233807,0.74,,,,0.74
+Meta-Llama-3-8B-Instruct,agreement_metadata,Agreement metadata,100,100,0,0.75,0.35,0,,,,0
+Meta-Llama-3-8B-Instruct,assessments,Assessment information,100,78,22,0.8846153846153846,0.41025641025641024,0.038461538461538464,0.6818181818181818,0,0.3181818181818182,0.038461538461538464
+Meta-Llama-3-8B-Instruct,children_safeguards,Children or vulnerable-population safeguards,100,29,71,0.9655172413793104,0.8793103448275862,0.7931034482758621,0.8591549295774648,0.014084507042253521,0.056338028169014086,0.7931034482758621
+Meta-Llama-3-8B-Instruct,dataset_retention_disposal,"Dataset, retention, and disposal",100,100,0,0.97,0.545,0.03,,,,0.03
+Meta-Llama-3-8B-Instruct,governance_incident_exit,"Governance, incident response, and exit",100,100,0,0.78,0.22,0,,,,0
+Meta-Llama-3-8B-Instruct,international_transfer,International transfer information,100,32,68,0.65625,0.3203125,0.0625,0.8970588235294118,0,0.04411764705882353,0.0625
+Meta-Llama-3-8B-Instruct,parties_roles,Parties and roles,100,100,0,1,0.915,0.81,,,,0.81
+Meta-Llama-3-8B-Instruct,population_rights_transparency,"Population, rights, and transparency",100,100,0,1,0.514,0,,,,0
+Meta-Llama-3-8B-Instruct,purposes_processing_legal_basis_data,"Purposes, processing, legal bases, and data",100,100,0,1,0.9557661927330173,0.8,,,,0.8
+Mistral-7B-v0.2,agreement_metadata,Agreement metadata,100,100,0,0.44,0.2,0.01,,,,0.01
+Mistral-7B-v0.2,assessments,Assessment information,100,78,22,0.8333333333333334,0.6666666666666666,0.46153846153846156,0.9090909090909091,0,0.09090909090909091,0.46153846153846156
+Mistral-7B-v0.2,children_safeguards,Children or vulnerable-population safeguards,100,29,71,0.9310344827586207,0.8275862068965517,0.7241379310344828,0.8732394366197183,0.028169014084507043,0.08450704225352113,0.7241379310344828
+Mistral-7B-v0.2,dataset_retention_disposal,"Dataset, retention, and disposal",100,100,0,0.91,0.54,0.09,,,,0.09
+Mistral-7B-v0.2,governance_incident_exit,"Governance, incident response, and exit",100,100,0,0.96,0.74625,0.42,,,,0.42
+Mistral-7B-v0.2,international_transfer,International transfer information,100,32,68,0.8125,0.625,0.34375,0.8823529411764706,0,0.10294117647058823,0.34375
+Mistral-7B-v0.2,parties_roles,Parties and roles,100,100,0,1,0.8375,0.67,,,,0.67
+Mistral-7B-v0.2,population_rights_transparency,"Population, rights, and transparency",100,100,0,1,0.74,0.25,,,,0.25
+Mistral-7B-v0.2,purposes_processing_legal_basis_data,"Purposes, processing, legal bases, and data",100,100,0,0.99,0.8372827804107424,0.45,,,,0.45

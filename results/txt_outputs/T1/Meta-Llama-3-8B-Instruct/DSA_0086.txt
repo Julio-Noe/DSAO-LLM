@@ -1,0 +1,9 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgE and OrgA outlines the terms for sharing data between the two parties. The DSA has a version of 1.0.3 and was created on November 14, 2025. The purposes of the DSA are reporting and research, with legal bases of legitimate interest and legal obligation, respectively. The data categories used and shared include contact information, financial data, and biometric data.
+
+The parties involved are OrgE, acting as the Data Controller, and OrgA, acting as the Recipient. The DSA has a governance plan in place, which includes review frequency and audit rights. In the event of an incident, OrgE will notify OrgA within 72 hours and provide contact information. The DSA also has an exit plan, which includes a trigger for contract end and data disposal method of SecureDelete.
+
+The DSA population is general, and the rights handling includes procedures for rectification. Transparency arrangements are in place, including notice types and issuers. Assessment information is not specified.
+
+This DSA does not involve international data transfers or enhanced safeguards for child or vulnerable populations.

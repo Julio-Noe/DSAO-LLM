@@ -1,0 +1,44 @@
+```
+The following DSA is between OrgC and OrgE. It covers two processing activities:
+- Service provision (purpose: dpv:service_provision, legal basis: dpv:legitimate_interest)
+- Research (purpose: dpv:research, legal basis: dpv:legitimate_interest)
+
+The data categories used/shared are:
+- Location (dpv:location)
+- Biometric (dpv:biometric)
+
+The dataset is shared with OrgC and has the following characteristics:
+- Conforms to <https>
+- Storage: dpv:Storage, duration: P6M
+- Disposal method: Return
+
+The rights handling is as follows:
+- Right Erasure (dpv:RightErasure): responsible party: OrgC, procedure URL: <https>
+
+The transparency arrangement is as follows:
+- Notice type: indirect
+- Issuer: OrgC
+- Page URL: <https>
+
+The assessment information is as follows:
+- Assessment type: TRA
+- Assessment outcome: low
+- References: <https://example.org/dpia.pdf>
+
+The governance plan is as follows:
+- Review frequency: P6M
+- Metric: AuditFindings<=2
+- Audit right: remote_audit
+
+The incident response plan is as follows:
+- Notification deadline: PT72H
+- Contact point: mailto:sec@example.org
+
+The exit plan is as follows:
+- Exit trigger: contract_end
+- Data disposition: SecureDelete
+- Post termination obligation: no_redisclosure
+
+The population is as follows:
+- employees
+```

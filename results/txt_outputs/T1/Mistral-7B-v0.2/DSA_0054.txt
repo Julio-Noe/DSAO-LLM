@@ -1,0 +1,23 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is between OrgA and OrgD. It covers two processing activities: analytics and service provision.
+
+The analytics activity uses health and contact data, with a legal basis of legal obligation. The service provision activity uses financial data, with a legal basis of public interest.
+
+The shared dataset is called DSA_0054_DS1 and conforms to the standard <https>. It is stored for 12 months, with disposal by anonymisation.
+
+The rights handling is handled by OrgD for the right of access, with a procedure URL of <https>.
+
+The transparency arrangement is handled by OrgD, with a notice type of indirect and a page URL of <https>.
+
+The DSA has been assessed by an assessment with type TRA and outcome high, referencing the document <https://example.org/dpia.pdf>.
+
+The governance plan is reviewed every 12 months, with a metric of DSAR_SLA_<=30d and an audit right of remote_audit.
+
+The incident response plan has a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+
+The exit plan has an exit trigger of contract_end, with data disposal by secure delete and a post-termination obligation of no redisclosure.
+
+The population is employees.
+```

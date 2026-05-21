@@ -1,0 +1,11 @@
+```
+The DSA is a contract between OrgA and OrgB. OrgA is the data controller, and OrgB is a processor.
+
+The DSA has two purposes: service provision and analytics. The data controller is responsible for the processing activities of OrgA and OrgB.
+
+The DSA has a governance plan, an incident response plan, and an exit plan. The governance plan includes review frequency, metrics, and audit rights. The incident response plan includes notification deadlines and contact points. The exit plan includes data disposal, post-termination obligations, and no contact after exit.
+
+The DSA has a population of children. The data controller is responsible for enhanced safeguards, such as age-appropriate design.
+
+The DSA has an assessment of TRA with a low outcome and references to a DPIA.
+```

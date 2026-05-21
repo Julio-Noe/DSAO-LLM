@@ -1,0 +1,25 @@
+```
+The following DSA is a Data Sharing Agreement (DSA) between OrgB and OrgD.
+
+OrgB is the Data Controller, and OrgD is the Recipient.
+
+The DSA has two purposes: analytics and fraud detection.
+
+OrgB will share the following data categories with OrgD: contact and location.
+
+The shared dataset is a SharedDataset, and it conforms to the following standard: <https>.
+
+The shared dataset will be stored for 6 months, and then it will be disposed of using the SecureDelete method.
+
+OrgB has a rights handling procedure for RightErasure, and it is responsible for this procedure.
+
+OrgB has a transparency arrangement with the following notice type: indirect, and it is issued by OrgB.
+
+OrgB has a governance plan with the following review frequency: P12M, and it has the following metric: BreachMTTR<=72h.
+
+OrgB has an incident response plan with the following notification deadline: PT72H, and it has the following contact point: mailto:sec@example.org.
+
+OrgB has an exit plan with the following exit trigger: contract_end, and it has the following data disposition: Return.
+
+OrgB has a population with the following title: employees, and it is shared by OrgB.
+```

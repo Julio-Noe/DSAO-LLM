@@ -1,0 +1,13 @@
+CQ-1 — research, reporting
+CQ-2 — legal_obligation, legitimate_interest
+CQ-3 — OrgD, OrgC
+CQ-4 — biometric, contact, location
+CQ-5 — P6M, SecureDelete
+CQ-6 — JP, SCCs, encryption_at_rest, access_control
+CQ-7 — RightErasure, OrgD, <https>
+CQ-8 — indirect, OrgD, <https>
+CQ-9 — TRA, medium, <https://example.org/dpia.pdf>
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — P6M, AuditFindings<=2, third_party_audit
+CQ-12 — children, age_appropriate_design
+CQ-13 — contract_end, SecureDelete, no_contact_after_exit

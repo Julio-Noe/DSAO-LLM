@@ -1,0 +1,13 @@
+CQ-1 — reporting, service_provision
+CQ-2 — legal_obligation, contract
+CQ-3 — OrgB, OrgA
+CQ-4 — location, biometric, financial
+CQ-5 — P18M, Return
+CQ-6 — Not stated in the TTL
+CQ-7 — RightRectification, OrgB, <https>
+CQ-8 — layered, OrgB, <https>
+CQ-9 — DPIA, high, <https://example.org/dpia.pdf>
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — reviewFrequency=P6M, metric=BreachMTTR<=72h, third_party_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end, SecureDelete, no_redisclosure

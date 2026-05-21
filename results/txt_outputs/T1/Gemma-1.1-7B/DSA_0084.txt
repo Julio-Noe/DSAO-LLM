@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgC and OrgE outlines the terms for sharing data between the two parties. The primary purposes of this DSA are research and fraud detection, with legal bases of legitimate interest and legal obligation. The parties will process financial, health, and biometric data categories.
+
+The DSA specifies that the shared dataset, DSA_0084_DS1, will be stored for 18 months and disposed of through return. The rights handling procedure is managed by OrgC, with responsible party OrgC and procedure URL provided.
+
+The transparency arrangement, DSA_0084_TA1, requires indirect notice from OrgC. The assessment, DSA_0084_Assess, has been conducted and the outcome is high.
+
+The governance plan, DSA_0084_Gov, outlines review frequency every 6 months and audit rights for on-site annual audits. The incident response plan, DSA_0084_IRP, requires notification within 72 hours and contact point provided. The exit plan, DSA_0084_Exit, specifies exit trigger as contract end and data disposition as return.
+
+The population covered by this DSA is general.

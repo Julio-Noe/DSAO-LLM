@@ -1,0 +1,13 @@
+CQ-1 — Specified: service provision, research
+CQ-2 — Specified: legal obligation
+CQ-3 — Specified: OrgE (data controller), OrgA (recipient)
+CQ-4 — Specified: health, biometric
+CQ-5 — Not specified
+CQ-6 — Specified: destination "unknown", transfer mechanism "unknown", safeguard "unknown"
+CQ-7 — Specified: right rectification, responsible party OrgE, procedureURL <https>
+CQ-8 — Specified: notice type "direct", issuer OrgE, foaf:page <https>
+CQ-9 — Specified: assessment type "TRA", assessment outcome "low"
+CQ-10 — Not specified
+CQ-11 — Specified: review frequency "P12M", metric "AuditFindings<=2", auditRight "remote_audit"
+CQ-12 — Not specified
+CQ-13 — Specified: exit trigger "contract_end", data disposition "SecureDelete", post-termination obligation "no contact after exit"

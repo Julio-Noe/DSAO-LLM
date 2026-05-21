@@ -1,0 +1,41 @@
+@prefix :      <https://example.org/dsao/inst/> .
+@prefix dsao:  <https://w3id.org/dsao#> .
+@prefix dpv:   <https://w3id.org/dpv#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+:DSA_0003 a dsao:DataSharingAgreement ;
+  dct:hasVersion "1.0.0" ;
+  dpv:hasPurpose dpv:reporting , dpv:hasPurpose dpv:service_provision ;
+  dsao:hasParty :OrgB , :OrgA ;
+  dsao:hasGovernancePlan :DSA_0003_Gov ;
+  dsao:hasIncidentResponsePlan :DSA_0003_IRP ;
+  dsao:hasExitPlan :DSA_0003_Exit ;
+  dct:created "2025-11-14T21:22:59Z"^^xsd:dateTime .
+
+:OrgB a dsao:Party ; dct:title "OrgB" ; dpv:hasRole dpv:DataController .
+:OrgA a dsao:Party ; dct:title "OrgA" ; dpv:hasRole dpv:Recipient .
+
+:DSA_0003_P1 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:reporting ; dpv:hasLegalBasis dpv:legal_obligation ; dsao:usesData dpv:location , dsao:usesData dpv:biometric .
+:DSA_0003_P2 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:service_provision ; dpv:hasLegalBasis dpv:contract ; dsao:usesData dpv:financial .
+
+:DSA_0003_DS1 a dsao:SharedDataset , dcat:Dataset ;
+  dct:conformsTo <https> ;
+  dpv:hasStorage [ a dpv:Storage ; dpv:hasDuration "P18M"^^xsd:duration ] ;
+  dsao:disposalMethod "Return" .
+
+:DSA_0003_RH1 a dsao:RightsHandling ; dsao:forRight dpv:RightRectification ; dsao:responsibleParty :OrgB ; dsao:procedureURL <https> .
+
+:DSA_0003_TA1 a dsao:TransparencyArrangement ; dsao:noticeType "layered" ; dsao:issuer :OrgB ; foaf:page <https> .
+
+:DSA_0003_Assess a dsao:Assessment ; dsao:assessmentType "DPIA" ; dsao:assessmentOutcome "high" ; dct:references <https://example.org/dpia.pdf> .
+:DSA_0003 dsao:hasAssessment :DSA_0003_Assess .
+
+:DSA_0003_Gov a dsao:GovernancePlan ; dsao:reviewFrequency "P6M" ; dsao:metric "BreachMTTR<=72h" ; dsao:auditRight "third_party_audit" .
+:DSA_0003_IRP a dsao:IncidentResponsePlan ; dsao:notificationDeadline "PT72H"^^xsd:duration ; dsao:contactPoint "mailto:sec@example.org" .
+:DSA_0003_Exit a dsao:ExitPlan ; dsao:exitTrigger "contract_end" ; dsao:dataDisposition "SecureDelete" ; dsao:postTerminationObligation "no_redisclosure" .
+:DSA_0003_Population a dsao:Population ; dct:title "general" .
+:DSA_0003 dsao:population :DSA_0003_Population .
+:DSA_0003_RN1 a dsao:ReviewNote ; dsao:justifies :DSA_0003_P1 ; dsao:guidelineRef "ICO-2021-§3.2" ; dsao:decision "needs-change" ; dsao:rating 2 ; dct:description "reduce data categories" .

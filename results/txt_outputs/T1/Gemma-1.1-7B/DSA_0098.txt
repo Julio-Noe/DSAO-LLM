@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.5, was created on November 14, 2025. The parties involved are OrgA, a data controller, and OrgC, a processor. The purposes of the DSA are research and service provision, with legal bases of contract and public interest. The data categories used or shared include location and health.
+
+The dataset, DSA_0098_DS1, conforms to a standard and will be stored for six months before being disposed of through anonymization. The international transfer of data to Singapore will be done using the adequacy mechanism and with safeguards such as key separation and pseudonymization.
+
+The rights handling process, DSA_0098_RH1, will be managed by OrgA, and the responsible party is also OrgA. The transparency arrangement, DSA_0098_TA1, will provide indirect notice to data subjects.
+
+The governance plan, DSA_0098_Gov, includes regular reviews every 12 months and third-party audits. The incident response plan, DSA_0098_IRP, will notify OrgA within 72 hours of an incident. The exit plan, DSA_0098_Exit, will trigger data return when the contract ends.
+
+The population covered by this DSA is employees. The assessment, DSA_0098_Assess, has identified a low risk and provides references to a data protection impact assessment.

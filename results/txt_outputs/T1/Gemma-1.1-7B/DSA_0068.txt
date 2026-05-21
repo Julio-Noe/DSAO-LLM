@@ -1,0 +1,13 @@
+Here is the executive summary for the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the data controller, and OrgB, acting as the processor. The purposes of this DSA are analytics and reporting. The data categories used or shared include biometric and contact information.
+
+The DSA has a governance plan, incident response plan, and exit plan in place. The governance plan is reviewed every six months, and the metric for breach MTTR (mean time to recover) is set at 72 hours. The incident response plan requires notification within 72 hours, and the contact point is sec@example.org.
+
+The DSA also has a transparency arrangement in place, which includes notice type "indirect" and issuer OrgA. The assessment outcome is low, and the DSA has been assessed as having a low risk.
+
+The rights handling procedure for erasure is managed by OrgA, and the responsible party is also OrgA. The disposal method for personal data is anonymization.
+
+The DSA has undergone an assessment, which identified the need to reduce the number of data categories used. The review note justifies this recommendation and provides guidance on how to implement it.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

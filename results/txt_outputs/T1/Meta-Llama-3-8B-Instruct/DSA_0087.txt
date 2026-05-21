@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgD and OrgC aims to facilitate the sharing of personal data for service provision and fraud detection purposes. The parties involved are OrgD, acting as the Data Controller, and OrgC, serving as the Recipient. The data categories used in this agreement include biometric and financial information.
+
+The DSA has been assessed as having a high risk level, with an assessment outcome of "high" and references to a Data Protection Impact Assessment (DPIA) report. The parties have implemented measures to ensure the secure storage and disposal of personal data, with a retention period of six months. The agreement also includes provisions for rights handling, transparency arrangements, and incident response planning.
+
+The governance plan outlines the review frequency, metrics for monitoring compliance, and audit rights. The incident response plan specifies a notification deadline of 72 hours and contact information for reporting incidents. The exit plan outlines the trigger for exiting the agreement, data disposition procedures, and post-termination obligations.
+
+This DSA demonstrates a commitment to transparency and accountability in the sharing of personal data, with measures in place to protect the rights and interests of individuals involved.

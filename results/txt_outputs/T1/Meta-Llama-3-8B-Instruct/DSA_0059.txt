@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The agreement involves two parties: OrgA and OrgB, with OrgB acting as the Data Controller. The purposes of this DSA are fraud detection and service provision, with legal bases including a legal obligation and contract. The data categories used and shared include biometric and contact information.
+
+The dataset, DSA_0059_DS1, conforms to a standard and will be stored for 18 months. Disposal of the data will be done by returning it to the source.
+
+The rights handling process, DSA_0059_RH1, is responsible for erasure and will be handled by OrgB. The transparency arrangement, DSA_0059_TA1, provides direct notice and will be issued by OrgB.
+
+The governance plan, DSA_0059_Gov, includes regular reviews and remote audits. The incident response plan, DSA_0059_IRP, has a notification deadline of 72 hours and a contact point for security incidents. The exit plan, DSA_0059_Exit, includes secure deletion of data and no redisclosure after termination.
+
+The population covered by this DSA is employees. The assessment, DSA_0059_Assess, was conducted and found to have a low risk. International transfer of data will be done to Japan using standard contractual clauses and includes safeguards such as key separation and pseudonymization.

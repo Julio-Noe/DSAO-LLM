@@ -1,0 +1,17 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is version 1.0.3, created on November 14, 2025. It governs the processing of personal data by OrgE and OrgB for reporting and research purposes.
+
+OrgE is the data processor, while OrgB is the data controller. The agreement includes a governance plan, an incident response plan, and an exit plan.
+
+The DSA covers the processing of biometric and contact data for reporting and research purposes, with legal bases of legitimate interest and legal obligation. The agreement also includes an international transfer to Brazil, with safeguards of pseudonymization and access control.
+
+The agreement includes a rights handling procedure for RightAccess, with OrgB as the responsible party and a URL for the procedure. It also includes a transparency arrangement with indirect notice, issued by OrgB and available at <https>.
+
+The agreement includes an assessment with DPIA outcome of low, referencing a document at <https://example.org/dpia.pdf>.
+
+The governance plan requires reviews every 12 months, with an audit right of on-site yearly audits. The incident response plan requires notification within 72 hours and contact point of mailto:sec@example.org. The exit plan includes data disposition of return and post-termination obligation of no redisclosure.
+
+The agreement covers a population of general individuals, with OrgB as the responsible party for data protection.
+```

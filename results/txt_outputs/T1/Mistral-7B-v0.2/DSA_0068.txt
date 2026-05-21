@@ -1,0 +1,18 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is between OrgA and OrgB. It covers two processing activities:
+- Analytics, with a legal basis of legitimate interest and data categories of biometric and contact.
+- Reporting, with a legal basis of legitimate interest and data categories of biometric.
+
+The agreement includes the following obligations:
+- A governance plan with a review frequency of 6 months, metric of BreachMTTR<=72h, and audit right of remote_audit.
+- An incident response plan with a notification deadline of 72 hours and contact point of mailto:sec@example.org.
+- An exit plan with an exit trigger of contract_end, data disposition of Return, and post-termination obligation of no_contact_after_exit.
+- A population of employees.
+- Rights handling for RightErasure, with a responsible party of OrgA and procedure URL of <https>.
+- A transparency arrangement with notice type of indirect, issuer of OrgA, and page URL of <https>.
+- An assessment with assessment type of TRA, assessment outcome of low, and references URL of <https://example.org/dpia.pdf>.
+- An international transfer with destination country of <https>, transfer mechanism of <https>, and has safeguard of <https>.
+- Enhanced safeguards for child or vulnerable populations.
+```

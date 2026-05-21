@@ -1,0 +1,17 @@
+```
+The DSA is a data sharing agreement between OrgE and OrgD. It has two purposes: fraud detection and reporting.
+
+OrgE is the data controller, and OrgD is the recipient. The agreement includes two processing activities: fraud detection and reporting. Both activities are based on legitimate interest as the legal basis, and they use financial data and contact information.
+
+The agreement includes a shared dataset that conforms to the specified standard. The dataset is stored for 12 months, and it will be disposed of by returning it.
+
+The agreement includes a rights handling procedure for access rights, which is handled by OrgE. The transparency arrangement is indirect, and the issuer is OrgE.
+
+The agreement includes a governance plan with a review frequency of 12 months, a metric of DSAR SLA <= 30 days, and an audit right of remote audit.
+
+The agreement includes an incident response plan with a notification deadline of 72 hours and a contact point of sec@example.org.
+
+The agreement includes an exit plan with an exit trigger of contract end, data disposition of return, and a post-termination obligation of no contact after exit.
+
+The agreement includes a population with the title "general".
+```

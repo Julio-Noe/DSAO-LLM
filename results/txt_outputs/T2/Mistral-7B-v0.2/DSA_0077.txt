@@ -1,0 +1,13 @@
+CQ-1 — fraud_detection, reporting
+CQ-2 — legitimate_interest, public_interest
+CQ-3 — OrgE:DataController, OrgC:Recipient
+CQ-4 — location, contact, biometric
+CQ-5 — P12M, Anonymise
+CQ-6 — Not stated in the TTL
+CQ-7 — RightRectification, third_party_audit
+CQ-8 — layered, OrgE, <https>
+CQ-9 — DPIA, high, https://example.org/dpia.pdf
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — P12M, AuditFindings<=2, third_party_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end, SecureDelete, no_redisclosure

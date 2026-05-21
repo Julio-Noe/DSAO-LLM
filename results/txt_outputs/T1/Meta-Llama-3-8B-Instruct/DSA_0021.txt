@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.5, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgE, acting as the Recipient. The purposes of this DSA are analytics and fraud detection. The legal bases for processing personal data are legitimate interest and public interest.
+
+The DSA uses biometric, financial, and contact data categories. The retention period is 12 months, with a disposal method of SecureDelete. Rights handling procedures are in place for rectification, and transparency arrangements include a notice type of layered notices issued by OrgA.
+
+Assessment information is available, with an assessment type of TRA (Transparency Risk Assessment) and an outcome of medium. Governance, incident response, and exit plans are also in place, including review frequencies, metrics, and audit rights. The incident response plan includes a notification deadline of 72 hours, and the exit plan outlines data disposition procedures.
+
+Please note that this summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

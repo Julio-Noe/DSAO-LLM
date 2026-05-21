@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.4, was created on November 14, 2025. The parties involved are OrgB, a data controller, and OrgD, a processor. The purposes of the DSA are analytics and fraud detection. The data categories used or shared include contact information, health data, and location data.
+
+The DSA has a governance plan in place, which includes review frequency, metrics, and audit rights. In case of an incident, OrgD will notify OrgB within 72 hours, and the contact point is sec@example.org. The DSA also has an exit plan, which includes a trigger for contract end and a data disposition of returning the data.
+
+The DSA has undergone an assessment, which identified a medium-level risk. The assessment report is available at https://example.org/dpia.pdf. The DSA has also implemented international transfer safeguards, including destination country Singapore and transfer mechanism BCRs.
+
+The DSA has a transparency arrangement in place, which includes direct notice and an issuer of OrgB. The DSA also has rights handling procedures in place, including a responsible party and a procedure URL.
+
+Overall, this DSA provides a framework for the sharing of personal data between OrgB and OrgD for analytics and fraud detection purposes, while ensuring compliance with relevant legal requirements and implementing necessary safeguards.

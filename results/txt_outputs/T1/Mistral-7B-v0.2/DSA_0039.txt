@@ -1,0 +1,27 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is version 1.0.0, created on November 14, 2025.
+It covers two purposes: reporting and research.
+The parties are OrgA, a data controller, and OrgD, a processor.
+
+The DSA includes two processing activities: reporting and research.
+Reporting has a legal basis of public interest, and uses data categories contact and location.
+Research has a legal basis of legal obligation, and uses data category location.
+
+The DSA includes one shared dataset, which conforms to a standard and has storage with a duration of 12 months.
+The dataset is disposed of by return.
+
+The DSA includes an international transfer to ZA, with a transfer mechanism of BCRs and safeguards of key separation and encryption at rest.
+
+The DSA includes a rights handling for RightAccess, with a responsible party of OrgA and a procedure URL.
+
+The DSA includes a transparency arrangement with a notice type of direct, an issuer of OrgA, and a page.
+
+The DSA includes an assessment with an assessment type of TRA, an assessment outcome of high, and references to a DPIA.
+The DSA has one governance plan with a review frequency of every 6 months, a metric of AuditFindings<=2, and an audit right of third-party audit.
+The DSA has one incident response plan with a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+The DSA has one exit plan with an exit trigger of contract_end, a data disposition of SecureDelete, and a post-termination obligation of no redisclosure.
+The DSA has one population with a title of general.
+The DSA has one review note that justifies the processing activity of reporting, with a guideline reference of ICO-2021-§3.2, a decision of needs-change, and a rating of 2.
+```

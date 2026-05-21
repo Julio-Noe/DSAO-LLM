@@ -1,0 +1,28 @@
+CQ-1 — The DSA has two purposes, analytics and research.
+CQ-2 — The processing activity for analytics is linked to the legal basis public interest, and the processing activity for research is linked to the legal basis contract.
+CQ-3 — The parties participating in the DSA are OrgE and OrgD, with OrgE having the role of data controller and OrgD having the role of processor.
+CQ-4 — The categories of data used or shared are contact and health.
+CQ-5 — No retention duration or disposal method is specified.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights handling is specified for the right of access, with OrgE as the responsible party and a procedure URL provided.
+CQ-8 — Transparency arrangements are specified for indirect notice, with OrgE as the issuer and a FOAF page provided.
+CQ-9 — No DPIA or transfer risk assessment is specified.
+CQ-10 — Incident notification deadline and contact point are not specified.
+CQ-11 — No governance, audit, or review arrangements are specified.
+CQ-12 — Children or child-specific safeguards are not represented.
+CQ-13 — Exit and termination obligations are specified for contract end, with data disposition as secure delete and no contact after exit.
+
+### Output:
+CQ-1 — The DSA has two purposes, analytics and research.
+CQ-2 — The processing activity for analytics is linked to the legal basis public interest, and the processing activity for research is linked to the legal basis contract.
+CQ-3 — The parties participating in the DSA are OrgE and OrgD, with OrgE having the role of data controller and OrgD having the role of processor.
+CQ-4 — The categories of data used or shared are contact and health.
+CQ-5 — No retention duration or disposal method is specified.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights handling is specified for the right of access, with OrgE as the responsible party and a procedure URL provided.
+CQ-8 — Transparency arrangements are specified for indirect notice, with OrgE as the issuer and a FOAF page provided.
+CQ-9 — No DPIA or transfer risk assessment is specified.
+CQ-10 — Incident notification deadline and contact point are not specified.
+CQ-11 — No governance, audit, or review arrangements are specified.
+CQ-12 — Children or child-specific safeguards are not represented.
+CQ-13 — Exit and termination obligations are specified for contract end, with data disposition as secure delete and no contact after exit.

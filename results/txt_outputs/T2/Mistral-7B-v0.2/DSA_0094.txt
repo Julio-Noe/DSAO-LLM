@@ -1,0 +1,45 @@
+CQ-1 — Specified: fraud_detection, research
+CQ-2 — Specified: public_interest
+CQ-3 — Specified: OrgB, OrgD
+CQ-4 — Specified: contact, biometric, health
+CQ-5 — Not stated in the TTL
+CQ-6 — Specified: BR, SCCs, key_separation, access_control
+CQ-7 — Specified: RightErasure, OrgB, <https>
+CQ-8 — Specified: indirect, OrgB, <https>
+CQ-9 — Specified: DPIA, high, <https://example.org/dpia.pdf>
+CQ-10 — Specified: PT72H, mailto:sec@example.org
+CQ-11 — Specified: P12M, BreachMTTR<=72h, remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — Specified: contract_end, SecureDelete, no_redisclosure
+
+### Explanation:
+The competency questions (CQ-1–CQ-13) are answered by extracting relevant information from the provided TTL content. The output is in natural language and includes answers to each question, using consistent phrasing across answers.
+
+CQ-1: The purpose of the DSA is specified as fraud_detection and research.
+CQ-2: The processing activities are linked to the legal basis of public_interest.
+CQ-3: The parties participating in the DSA are OrgB and OrgD, with OrgB having the role of DataController and OrgD having the role of Processor.
+CQ-4: The data categories used or shared are contact, biometric, and health.
+CQ-5: The retention duration and disposal method are not stated in the TTL.
+CQ-6: International transfer details are specified, with the destination country being BR, the transfer mechanism being SCCs, and the safeguards being key_separation and access_control.
+CQ-7: Data-subject rights handling is specified, with the right being RightErasure, the responsible party being OrgB, and the procedure URL being <https>.
+CQ-8: Transparency arrangements are specified, with the notice type being indirect, the issuer being OrgB, and the page being <https>.
+CQ-9: DPIA or transfer-risk assessments are specified, with the assessment type being DPIA, the trigger being high, and the reference being <https://example.org/dpia.pdf>.
+CQ-10: Incident notification deadline and contact point are specified, with the deadline being PT72H and the contact point being mailto:sec@example.org.
+CQ-11: Governance, audit, or review arrangements are specified, with the review frequency being P12M, the metric being BreachMTTR<=72h, and the audit right being remote_audit.
+CQ-12: Children or child-specific safeguards are not stated in the TTL.
+CQ-13: Exit or termination obligations are specified, with the exit trigger being contract_end, the data disposition being SecureDelete, and the post-termination obligation being no_redisclosure.
+
+### Output:
+CQ-1 — Specified: fraud_detection, research
+CQ-2 — Specified: public_interest
+CQ-3 — Specified: OrgB, OrgD
+CQ-4 — Specified: contact, biometric, health
+CQ-5 — Not stated in the TTL
+CQ-6 — Specified: BR, SCCs, key_separation, access_control
+CQ-7 — Specified: RightErasure, OrgB, <https>
+CQ-8 — Specified: indirect, OrgB, <https>
+CQ-9 — Specified: DPIA, high, <https://example.org/dpia.pdf>
+CQ-10 — Specified: PT72H, mailto:sec@example.org
+CQ-11 — Specified: P12M, BreachMTTR<=72h, remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — Specified: contract_end, SecureDelete, no_redisclosure

@@ -1,0 +1,13 @@
+CQ-1 — Specified: service_provision, reporting
+CQ-2 — Specified: contract, public_interest
+CQ-3 — Specified: OrgD (DataController), OrgE (Recipient)
+CQ-4 — Specified: location, health, contact
+CQ-5 — Not stated in the TTL
+CQ-6 — Specified: destination=https, transfer_mechanism=data_transfer, safeguard=age_appropriate_design
+CQ-7 — Specified: RightErasure, OrgD, <https>
+CQ-8 — Specified: layered, OrgD, <https>
+CQ-9 — Specified: TRA, low, https://example.org/dpia.pdf
+CQ-10 — Specified: PT72H, mailto:sec@example.org
+CQ-11 — Specified: P6M, AuditFindings<=2, third_party_audit
+CQ-12 — Specified: children, age_appropriate_design
+CQ-13 — Specified: contract_end, SecureDelete, no_redisclosure

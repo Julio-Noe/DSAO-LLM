@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.4, was created on November 14, 2025. The agreement involves two parties: OrgE (Data Controller) and OrgB (Recipient). The purposes of the DSA are fraud detection and service provision, which are based on legal obligations (public interest and legal obligation). The data categories used or shared include health and location. 
+
+The DSA has a governance plan, incident response plan, and exit plan in place. The governance plan is reviewed every six months, and the audit right is remote. The incident response plan includes a notification deadline of 72 hours, and contact information is provided. 
+
+The exit plan triggers when the contract ends, and data will be returned to the controller after termination. The DSA also includes an assessment (DPIA) with a medium outcome, which is available for review. 
+
+Additionally, the DSA has an international transfer arrangement to Brazil (BCRs) with pseudonymization and encryption at rest as safeguards. The agreement also includes transparency arrangements, including a notice type of "indirect" and an issuer (OrgE). 
+
+Please note that this summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

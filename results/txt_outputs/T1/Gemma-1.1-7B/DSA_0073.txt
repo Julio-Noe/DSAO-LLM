@@ -1,0 +1,9 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgD and OrgE outlines the terms for sharing data. The parties, OrgD (Data Controller) and OrgE (Recipient), will process personal data for the purposes of service provision and analytics. The legal bases for processing are a legal obligation and a contract, respectively. The data categories used include location and biometric information.
+
+The DSA specifies that the shared dataset, DSA_0073_DS1, will be stored for 12 months and disposed of using the "SecureDelete" method. The rights handling procedure, DSA_0073_RH1, is responsible for rectification and will be handled by OrgD. Transparency arrangements, DSA_0073_TA1, include layered notices and will be issued by OrgD.
+
+The governance plan, DSA_0073_Gov, outlines the review frequency and audit rights. The incident response plan, DSA_0073_IRP, includes a notification deadline and contact point. The exit plan, DSA_0073_Exit, specifies the trigger for exit and data disposition. The population covered by this DSA is children.
+
+The assessment, DSA_0073_Assess, has been conducted and the outcome is "medium". The enhanced safeguard implemented is age-appropriate design.

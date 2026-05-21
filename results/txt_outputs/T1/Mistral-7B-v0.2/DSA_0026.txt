@@ -1,0 +1,28 @@
+```
+This Data Sharing Agreement (DSA) is a contract between OrgE and OrgD.
+It was created on 2025-11-14T21:22:59Z.
+The DSA has two purposes: analytics and research.
+OrgE is the data controller, and OrgD is the recipient.
+The DSA contains two processing activities: analytics and research.
+The analytics activity uses location and contact data categories, and has a legal basis of contract.
+The research activity uses biometric data categories, and has a legal basis of public interest.
+The DSA contains one shared dataset: Dataset 1.
+Dataset 1 conforms to the standard <https>.
+The dataset has a storage location with a duration of 6 months.
+The disposal method for the dataset is return.
+The DSA contains one rights handling: Right Rectification.
+OrgE is responsible for the rights handling, and the procedure URL is <https>.
+The DSA contains one transparency arrangement: Indirect Notice.
+OrgE is the issuer of the notice, and the page URL is <https>.
+The DSA contains one governance plan: Governance Plan 1.
+The review frequency is every 6 months, the metric is Breach MTTR <= 72h, and the audit right is third-party audit.
+The DSA contains one incident response plan: Incident Response Plan 1.
+The notification deadline is PT72H, and the contact point is mailto:sec@example.org.
+The DSA contains one exit plan: Exit Plan 1.
+The exit trigger is contract end, the data disposition is return, and the post-termination obligation is no redisclosure.
+The DSA contains one population: General Population.
+OrgE is the population of the DSA.
+The DSA contains one review note: Review Note 1.
+It justifies the analytics activity, and its guideline reference is ICO-2021-§3.2.
+The decision is needs change, and the rating is 2.
+```

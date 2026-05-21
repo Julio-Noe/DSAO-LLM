@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgD, acting as the Recipient. The purposes of this DSA are research and analytics, with legal bases of public interest and legal obligation. The data categories involved include health and contact information.
+
+The DSA specifies that the dataset, DSA_0091_DS1, will be stored for six months and disposed of through anonymization. The rights handling process, DSA_0091_RH1, is managed by OrgA and provides procedures for rectification. Transparency arrangements, DSA_0091_TA1, require OrgA to provide direct notices and maintain a webpage.
+
+The DSA has undergone an assessment, DSA_0091_Assess, which concluded that the risk is low. The governance plan, DSA_0091_Gov, includes regular reviews and audit rights. In case of an incident, OrgA will notify the recipient within 72 hours and maintain a contact point. The exit plan, DSA_0091_Exit, specifies that data will be securely deleted and no further disclosure is allowed after the contract ends. The population covered by this DSA is employees.
+
+Please note that this summary only includes the information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

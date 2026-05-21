@@ -1,0 +1,13 @@
+CQ-1 — The DSA has two purposes, reporting and research.
+CQ-2 — The processing activity “DSA_0050_P1” is linked to the legal basis “contract”. The processing activity “DSA_0050_P2” is linked to the legal basis “contract”.
+CQ-3 — The parties participating in the DSA are “OrgA” and “OrgC”. “OrgA” has the role of data controller. “OrgC” has the role of recipient.
+CQ-4 — The data categories used or shared are “health” and “financial”.
+CQ-5 — The retention duration is not specified. The disposal method is “Anonymise”.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights handling is specified for the right “Erasure”. The responsible party is “OrgA”. The procedure URL is “https://example.org/dsa-rights.html”.
+CQ-8 — Transparency arrangements are specified for the notice type “layered”. The issuer is “OrgA”. The page URL is “https://example.org/dsa-notice.html”.
+CQ-9 — DPIA or transfer risk assessments are not specified.
+CQ-10 — Incident notification deadline is “PT72H”. The contact point is “mailto:sec@example.org”.
+CQ-11 — Governance, audit, or review arrangements are specified for the review frequency “P6M”, the metric “BreachMTTR<=72h”, and the audit right “third_party_audit”.
+CQ-12 — Children or child-specific safeguards are not specified.
+CQ-13 — Exit or termination obligations are specified for the exit trigger “contract_end”, the data disposition “Return”, and the post-termination obligation “no_redisclosure”.

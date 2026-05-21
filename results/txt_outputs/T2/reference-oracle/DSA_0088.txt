@@ -1,0 +1,13 @@
+CQ-1 — Purpose: dpv:reporting, dpv:service_provision.
+CQ-2 — Processing activities and legal bases: dpv:service_provision -> dpv:contract; dpv:reporting -> dpv:legal_obligation.
+CQ-3 — Parties and roles: OrgB as dpv:Processor; OrgD as dpv:DataController.
+CQ-4 — Data categories: dpv:contact, dpv:financial.
+CQ-5 — Retention and disposal: P1Y6M, Return.
+CQ-6 — Not stated in the TTL
+CQ-7 — Rights handling: OrgD, dpv:RightAccess, https.
+CQ-8 — Transparency: OrgD, direct, https.
+CQ-9 — Not stated in the TTL
+CQ-10 — Incident response: P3D, mailto:sec@example.org.
+CQ-11 — Governance and audit: DSAR_SLA_<=30d, P6M, on_site_yearly.
+CQ-12 — Not stated in the TTL
+CQ-13 — Exit and termination: SecureDelete, contract_end, no_contact_after_exit.

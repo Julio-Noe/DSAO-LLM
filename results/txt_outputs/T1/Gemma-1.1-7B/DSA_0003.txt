@@ -1,0 +1,9 @@
+Here is the executive summary for the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.0, was created on November 14, 2025. The agreement involves two parties: OrgA and OrgB, with OrgB acting as the Data Controller. The purposes of this DSA are reporting and service provision, with legal bases including a legal obligation and a contract. The data categories used or shared include location and biometric information.
+
+The dataset, DSA_0003_DS1, conforms to a standard and will be stored for 18 months before being disposed of through return. The rights handling process, DSA_0003_RH1, is responsible for rectification and has a procedure URL. Transparency arrangements, DSA_0003_TA1, include layered notices issued by OrgB.
+
+The governance plan, DSA_0003_Gov, includes regular reviews every 6 months and a third-party audit. The incident response plan, DSA_0003_IRP, requires notification within 72 hours and has a contact point. The exit plan, DSA_0003_Exit, includes secure deletion of data and no redisclosure after termination. The population covered by this DSA is general.
+
+An assessment, DSA_0003_Assess, was conducted and found the risk to be high. The assessment report is available at <https://example.org/dpia.pdf>.

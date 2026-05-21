@@ -1,0 +1,13 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgA and OrgD aims to detect fraud and perform analytics on specific data categories, including biometric and financial information. The agreement is governed by a purpose-specific governance plan, incident response plan, and exit plan. OrgA acts as the data controller, while OrgD serves as the processor.
+
+The DSA purposes are fraud detection and analytics, with legal bases of contract and legitimate interest. The data categories used or shared include biometric and financial information.
+
+The dataset, DSA_0007_DS1, conforms to a specific standard and is stored for 18 months with an anonymization disposal method. Rights handling procedures are in place, including responsible party OrgA and a procedure URL.
+
+Transparency arrangements include notice types and issuers. An assessment has been conducted, concluding that the DSA poses a high risk.
+
+The governance plan includes review frequencies and audit rights. Incident response procedures include notification deadlines and contact points. The exit plan outlines triggers, data disposition, and post-termination obligations.
+
+This DSA is applicable to a specific population of employees.

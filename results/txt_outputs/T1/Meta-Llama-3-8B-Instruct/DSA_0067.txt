@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgC and OrgE aims to facilitate the sharing of data for fraud detection and service provision purposes. The parties involved are OrgC, acting as the Data Controller, and OrgE, serving as the Recipient. The agreement is governed by a comprehensive plan that includes incident response and exit procedures.
+
+The data categories used in this agreement include location, health, contact information, and age. The legal bases for processing these data are contract and legitimate interest. The retention period is 18 months, with a disposal method of returning the data to the Data Controller.
+
+The agreement also includes provisions for rights handling, transparency arrangements, and assessment. The rights handling process involves the responsible party OrgC, while the transparency arrangement includes notice types and issuers. The assessment outcome is "low" risk.
+
+The governance plan outlines the review frequency, metrics for audit, and audit rights. The incident response plan includes notification deadlines and contact points. Finally, the exit plan specifies triggers, data disposition methods, and post-termination obligations.
+
+This DSA demonstrates a commitment to transparency, accountability, and responsible data sharing practices.

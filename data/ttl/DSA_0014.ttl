@@ -1,0 +1,37 @@
+@prefix :      <https://example.org/dsao/inst/> .
+@prefix dsao:  <https://w3id.org/dsao#> .
+@prefix dpv:   <https://w3id.org/dpv#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+:DSA_0014 a dsao:DataSharingAgreement ;
+  dct:hasVersion "1.0.1" ;
+  dpv:hasPurpose dpv:reporting , dpv:hasPurpose dpv:analytics ;
+  dsao:hasParty :OrgC , :OrgE ;
+  dsao:hasGovernancePlan :DSA_0014_Gov ;
+  dsao:hasIncidentResponsePlan :DSA_0014_IRP ;
+  dsao:hasExitPlan :DSA_0014_Exit ;
+  dct:created "2025-11-14T21:22:59Z"^^xsd:dateTime .
+
+:OrgC a dsao:Party ; dct:title "OrgC" ; dpv:hasRole dpv:DataController .
+:OrgE a dsao:Party ; dct:title "OrgE" ; dpv:hasRole dpv:Processor .
+
+:DSA_0014_P1 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:reporting ; dpv:hasLegalBasis dpv:legal_obligation ; dsao:usesData dpv:location , dsao:usesData dpv:contact .
+:DSA_0014_P2 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:analytics ; dpv:hasLegalBasis dpv:legitimate_interest ; dsao:usesData dpv:contact .
+
+:DSA_0014_DS1 a dsao:SharedDataset , dcat:Dataset ;
+  dct:conformsTo <https> ;
+  dpv:hasStorage [ a dpv:Storage ; dpv:hasDuration "P18M"^^xsd:duration ] ;
+  dsao:disposalMethod "Return" .
+
+:DSA_0014_RH1 a dsao:RightsHandling ; dsao:forRight dpv:RightAccess ; dsao:responsibleParty :OrgC ; dsao:procedureURL <https> .
+
+:DSA_0014_TA1 a dsao:TransparencyArrangement ; dsao:noticeType "direct" ; dsao:issuer :OrgC ; foaf:page <https> .
+
+:DSA_0014_Gov a dsao:GovernancePlan ; dsao:reviewFrequency "P12M" ; dsao:metric "DSAR_SLA_<=30d" ; dsao:auditRight "third_party_audit" .
+:DSA_0014_IRP a dsao:IncidentResponsePlan ; dsao:notificationDeadline "PT72H"^^xsd:duration ; dsao:contactPoint "mailto:sec@example.org" .
+:DSA_0014_Exit a dsao:ExitPlan ; dsao:exitTrigger "contract_end" ; dsao:dataDisposition "Return" ; dsao:postTerminationObligation "no_redisclosure" .
+:DSA_0014_Population a dsao:Population ; dct:title "employees" .
+:DSA_0014 dsao:population :DSA_0014_Population .

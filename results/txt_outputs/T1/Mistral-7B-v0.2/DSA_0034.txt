@@ -1,0 +1,26 @@
+The following is an example response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgB and OrgD.
+It was created on 2025-11-14T21:22:59Z and has version 1.0.2.
+
+The DSA includes two processing activities:
+- DSA_0034_P1, which has the purpose of research and is based on a legal obligation.
+- DSA_0034_P2, which has the purpose of service provision and is based on legitimate interest.
+
+The DSA also includes a shared dataset, DSA_0034_DS1, which conforms to the standard <https> and has a storage period of 6 months. The dataset is disposed of by returning it to the original owner.
+
+The DSA includes a rights handling, DSA_0034_RH1, which handles the right of erasure and is responsible by OrgB. The procedure for handling this right is available at <https>.
+
+The DSA includes a transparency arrangement, DSA_0034_TA1, which is indirect and is issued by OrgB. The transparency arrangement can be found at <https>.
+
+The DSA includes an assessment, DSA_0034_Assess, which is a TRA and has an outcome of high. The assessment can be found at <https://example.org/dpia.pdf>.
+
+The DSA includes a governance plan, DSA_0034_Gov, which has a review frequency of 6 months and a metric of AuditFindings<=2. The governance plan is audited on-site annually.
+
+The DSA includes an incident response plan, DSA_0034_IRP, which has a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+
+The DSA includes an exit plan, DSA_0034_Exit, which has an exit trigger of contract_end and a data disposition of return. The post-termination obligation is no contact after exit.
+
+The DSA includes a population, DSA_0034_Population, which is general.
+```

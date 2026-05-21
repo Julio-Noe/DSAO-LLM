@@ -1,0 +1,11 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgD and OrgA aims to facilitate the sharing of data for research and analytics purposes. The parties have defined specific purposes, including research and analytics, with legal bases grounded in legitimate interest. Data categories used for these purposes include health, financial, and location information.
+
+The DSA outlines the processing activities, including data storage and retention periods. The dataset is stored for a period of 12 months, with disposal method specified as "Return". Rights handling is managed by OrgD, responsible for the right of access, with a procedure URL provided.
+
+The agreement includes transparency arrangements, such as notice types and issuers. An assessment has been conducted, with an outcome of "high" risk, and references to a DPIA report are provided.
+
+Governance, incident response, and exit plans are also outlined. The governance plan includes review frequencies, metrics, and audit rights. Incident response procedures include notification deadlines and contact points. The exit plan specifies triggers, data disposition, and post-termination obligations.
+
+This DSA ensures the secure sharing of data between OrgD and OrgA, while also addressing transparency, rights, and governance requirements.

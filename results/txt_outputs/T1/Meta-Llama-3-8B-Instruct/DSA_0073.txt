@@ -1,0 +1,11 @@
+Here is the executive summary for the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the Data Controller, and OrgE, acting as the Recipient. The purposes of this DSA are service provision and analytics, with legal bases including a legal obligation and a contract. The data categories used or shared include location and biometric information.
+
+The DSA specifies that the dataset, DSA_0073_DS1, will be stored for 12 months and disposed of using the "SecureDelete" method. The rights handling process, DSA_0073_RH1, is responsible for rectification and has a procedure URL. Transparency arrangements, DSA_0073_TA1, include layered notices issued by OrgD.
+
+The governance plan, DSA_0073_Gov, outlines review frequencies and audit rights. The incident response plan, DSA_0073_IRP, specifies a notification deadline and contact point. The exit plan, DSA_0073_Exit, outlines triggers, data disposition, and post-termination obligations.
+
+The population covered by this DSA is children, and enhanced safeguards are in place to ensure age-appropriate design. An assessment, DSA_0073_Assess, has been conducted and is available for review.
+
+Note: This summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

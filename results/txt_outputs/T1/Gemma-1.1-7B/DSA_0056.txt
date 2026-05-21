@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.4, was created on November 14, 2025. The agreement involves two parties: OrgC, acting as the Data Controller, and OrgE, acting as the Processor. The purposes of this DSA are service provision and research, with a legal basis of legitimate interest. The parties will process personal data categories including location and biometric information.
+
+The DSA specifies that the processed data will be stored for six months, with a disposal method of return. The rights handling procedure includes the right to erasure, and the responsible party is OrgC.
+
+The transparency arrangement requires indirect notice, with issuer OrgC and a procedure URL. The DSA has undergone an assessment, which concluded that the risk is low.
+
+The governance plan includes regular reviews every six months, with a review metric of audit findings less than or equal to two. The incident response plan requires notification within 72 hours, with a contact point for security incidents.
+
+The exit plan specifies that data will be disposed of securely upon contract end, with no obligation to redisclose the data. The population covered by this DSA is employees.
+
+Note that this summary only includes information explicitly present in the TTL graph and does not infer missing values or typical DSA structure.

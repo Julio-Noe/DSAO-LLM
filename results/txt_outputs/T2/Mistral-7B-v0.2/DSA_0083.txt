@@ -1,0 +1,13 @@
+CQ-1 — fraud_detection, reporting
+CQ-2 — public_interest, legitimate_interest
+CQ-3 — OrgE: Data Controller, OrgD: Recipient
+CQ-4 — contact, financial
+CQ-5 — P12M, Return
+CQ-6 — Not stated in the TTL
+CQ-7 — RightAccess, OrgE, <https>
+CQ-8 — indirect, OrgE, <https>
+CQ-9 — Not stated in the TTL
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — P12M, DSAR_SLA_<=30d, remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end, Return, no_contact_after_exit

@@ -1,0 +1,35 @@
+The following is an example response.
+
+This Data Sharing Agreement (DSA) establishes a framework for sharing data between OrgE and OrgC. The DSA is versioned at 1.0.2, created on November 14, 2025, and has two purposes: analytics and service provision.
+
+OrgE is the data controller, responsible for ensuring compliance with applicable laws and regulations. OrgC is the processor, responsible for processing data in accordance with the DSA's terms.
+
+The DSA outlines two processing activities: analytics and service provision. Analytics is subject to the public interest legal basis, while service provision is also subject to the public interest legal basis. The analytics processing activity uses data categories contact and financial, while the service provision processing activity uses location.
+
+The DSA specifies a shared dataset, which conforms to the specified standard and has storage with a duration of 12 months. The dataset is subject to disposal by anonymization.
+
+The DSA outlines rights handling for the right of rectification, with OrgE as the responsible party and a procedure URL specified.
+
+The DSA specifies a transparency arrangement with layered notice, issued by OrgE and published on the specified URL.
+
+The DSA outlines a governance plan with a review frequency of every six months, using audit findings as the metric and third-party audits as the audit right.
+
+The DSA outlines an incident response plan with a notification deadline of 72 hours and contact point specified.
+
+The DSA outlines an exit plan with an exit trigger of contract end, data disposition of return, and post-termination obligation of no redisclosure.
+
+The DSA specifies a population with the title "general". The DSA's population is specified as general.
+
+The DSA outlines rights handling for the right of rectification, with OrgE as the responsible party and a procedure URL specified.
+
+The DSA specifies a transparency arrangement with layered notice, issued by OrgE and published on the specified URL.
+
+The DSA outlines a governance plan with a review frequency of every six months, using audit findings as the metric and third-party audits as the audit right.
+
+The DSA outlines an incident response plan with a notification deadline of 72 hours and contact point specified.
+
+The DSA outlines an exit plan with an exit trigger of contract end, data disposition of return, and post-termination obligation of no redisclosure.
+
+The DSA specifies a population with the title "general". The DSA's population is specified as general.
+
+The DSA outlines rights handling for the right of rectification, with OrgE

@@ -1,0 +1,13 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is between OrgE and OrgC. It covers two processing activities:
+- Fraud detection, based on legitimate interest and using location and biometric data.
+- Reporting, based on public interest and using contact data.
+
+The agreement includes a governance plan with reviews every 12 months, an incident response plan with a notification deadline of 72 hours and a contact point at sec@example.org, and an exit plan with data disposition of secure delete and no redisclosure.
+
+The agreement covers a population of employees, with rights handling for rectification and responsible party OrgE.
+
+The agreement includes a transparency arrangement with notice type layered and issuer OrgE, and an assessment with outcome high and references https://example.org/dpia.pdf.
+```

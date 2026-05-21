@@ -1,0 +1,18 @@
+CQ-1 — Specified purposes are fraud_detection and analytics.
+CQ-2 — Legal basis for processing activity DSA_0028_P1 is public_interest.
+Legal basis for processing activity DSA_0028_P2 is contract.
+CQ-3 — Participating parties are OrgC and OrgE.
+OrgC has role DataController.
+OrgE has role Processor.
+CQ-4 — Categories of data used or shared are health and biometric.
+CQ-5 — Retention duration is P6M.
+Disposal method is Anonymise.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights handling is for RightRectification, responsible party is OrgC, and procedure URL is https://example.org/dsa_0028_RH1.
+CQ-8 — Transparency arrangement is indirect, issuer is OrgC, and foaf:page is https://example.org/dsa_0028_TA1.
+CQ-9 — DPIA or transfer risk assessment is not specified.
+CQ-10 — Incident notification deadline is PT72H.
+Contact point is mailto:sec@example.org.
+CQ-11 — Governance, audit, or review arrangements are not specified.
+CQ-12 — Children or child-specific safeguards are not represented.
+CQ-13 — Exit or termination obligations are contract_end, data disposition is Return, and post-termination obligation is no_redisclosure.

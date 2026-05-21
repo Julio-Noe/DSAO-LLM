@@ -1,0 +1,21 @@
+```
+The DSA is between OrgD and OrgA. It has two purposes: fraud detection and research.
+
+OrgD is the data controller, and OrgA is a processor. The agreement includes two processing activities: one for fraud detection with a legal basis of public interest, and another for research with a legal basis of legitimate interest.
+
+The agreement includes one shared dataset, which conforms to the specified standard and has a storage period of 6 months. The disposal method is anonymization.
+
+The agreement includes one rights handling procedure, which grants access to the data controller and specifies a procedure URL.
+
+The agreement includes one transparency arrangement, which is indirect and issued by the data controller. The notice type is "indirect".
+
+The agreement includes one assessment, which was assessed as low risk and has a reference to a DPIA.
+
+The agreement includes one governance plan, which specifies a review frequency of 12 months, a metric of "AuditFindings<=2", and an audit right of "remote_audit".
+
+The agreement includes one incident response plan, which specifies a notification deadline of 72 hours and a contact point of "mailto:sec@example.org".
+
+The agreement includes one exit plan, which specifies an exit trigger of "contract_end", a data disposition of "SecureDelete", and a post-termination obligation of "no_redisclosure".
+
+The agreement includes one population, which is general.
+```

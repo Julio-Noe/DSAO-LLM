@@ -1,0 +1,13 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgD and OrgC aims to facilitate the sharing of data for fraud detection and research purposes. The agreement is version 1.0.5, created on November 14, 2025. OrgD acts as the Data Controller, while OrgC serves as the Processor.
+
+The DSA purposes are to detect fraud and conduct research. The legal bases for processing are legitimate interest and legal obligation, respectively. Financial and location data categories will be used/shared.
+
+The dataset is stored for 18 months, with a disposal method of SecureDelete. Rights handling procedures are in place for rectification rights, with OrgD as the responsible party.
+
+The transparency arrangement includes a layered notice type and an issuer of OrgD, with a procedure URL provided. Governance, incident response, and exit plans are also in place.
+
+The governance plan includes regular reviews every 6 months, with a breach metric of MTTR <= 72 hours. The incident response plan requires notification within 72 hours, with a contact point provided. The exit plan includes triggers for contract end, with data disposition and post-termination obligations specified.
+
+The population covered by this DSA is general.

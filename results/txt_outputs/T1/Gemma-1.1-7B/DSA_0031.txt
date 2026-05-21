@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.5, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgB, acting as the Processor. The purposes of this DSA are fraud detection and reporting. The legal bases for processing personal data are public interest and contract.
+
+The DSA uses contact, health, and biometric data categories. The dataset is stored for 18 months and will be anonymized upon disposal. International transfer of data to South Africa is allowed, with safeguards in place, including pseudonymization and key separation.
+
+The DSA has a governance plan, incident response plan, and exit plan in place. The responsible party for rights handling is OrgA, which will provide rectification rights to individuals. Transparency arrangements include notice types and issuers.
+
+An assessment has been conducted, which identified a high risk. The DSA has undergone review and was found to require changes to reduce data categories.
+
+Please note that this summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

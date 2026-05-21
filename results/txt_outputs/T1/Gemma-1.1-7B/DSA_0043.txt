@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the Data Controller, and OrgC, acting as the Processor. The purposes of this DSA are service provision and research, with legal bases of legal obligation and public interest. The data categories involved include health and location information.
+
+The DSA specifies that the data will be stored for 18 months, with a disposal method of return. The rights handling procedure is managed by OrgD, and the transparency arrangement includes a notice type of direct notification from OrgD.
+
+The governance plan outlines review frequency, metrics, and audit rights. The incident response plan includes a notification deadline of 72 hours and a contact point for security incidents. The exit plan specifies an exit trigger, data disposition, and post-termination obligations.
+
+Assessment information is available, including a DPIA assessment outcome of "medium" and references to the assessment report.

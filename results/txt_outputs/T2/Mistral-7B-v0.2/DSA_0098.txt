@@ -1,0 +1,82 @@
+CQ-1 (Facet: Purpose): What purposes are associated with the DSA?
+
+CQ-2 (Facet: Processing activity / Legal basis): Which processing activities are linked to which legal bases?
+
+CQ-3 (Facet: Parties and roles): Which parties participate in the DSA and what roles do they have?
+
+CQ-4 (Facet: Data categories): Which categories of data are used or shared?
+
+CQ-5 (Facet: Retention and disposal): What retention duration and disposal method are specified?
+
+CQ-6 (Facet: International transfer): Are international transfer details specified? If so, what destination, transfer mechanism, and safeguard are stated?
+
+CQ-7 (Facet: Rights handling): How are data-subject rights handled, including the right, responsible party, and procedure URL if present?
+
+CQ-8 (Facet: Transparency): What transparency or notice arrangements are specified, including notice type, issuer, and page if present?
+
+CQ-9 (Facet: Risk assessment): Are DPIA or transfer-risk assessments specified? If so, what assessment type, trigger, or responsible party is stated?
+
+CQ-10 (Facet: Incident response): What incident notification deadline and contact point are specified?
+
+CQ-11 (Facet: Governance and audit): What governance, audit, or review arrangements are specified?
+
+CQ-12 (Facet: Children / vulnerable data subjects): Are children or child-specific safeguards represented? If so, what child-related condition or safeguard is stated?
+
+CQ-13 (Facet: Exit and termination): What exit or termination obligations are specified?
+
+### Output:
+CQ-1 (Facet: Purpose): What purposes are associated with the DSA?
+
+CQ-2 (Facet: Processing activity / Legal basis): Which processing activities are linked to which legal bases?
+
+CQ-3 (Facet: Parties and roles): Which parties participate in the DSA and what roles do they have?
+
+CQ-4 (Facet: Data categories): Which categories of data are used or shared?
+
+CQ-5 (Facet: Retention and disposal): What retention duration and disposal method are specified?
+
+CQ-6 (Facet: International transfer): Are international transfer details specified? If so, what destination, transfer mechanism, and safeguard are stated?
+
+CQ-7 (Facet: Rights handling): How are data-subject rights handled, including the right, responsible party, and procedure URL if present?
+
+CQ-8 (Facet: Transparency): What transparency or notice arrangements are specified, including notice type, issuer, and page if present?
+
+CQ-9 (Facet: Risk assessment): Are DPIA or transfer-risk assessments specified? If so, what assessment type, trigger, or responsible party is stated?
+
+CQ-10 (Facet: Incident response): What incident notification deadline and contact point are specified?
+
+CQ-11 (Facet: Governance and audit): What governance, audit, or review arrangements are specified?
+
+CQ-12 (Facet: Children / vulnerable data subjects): Are children or child-specific safeguards represented? If so, what child-related condition or safeguard is stated?
+
+CQ-13 (Facet: Exit and termination): What exit or termination obligations are specified?
+
+### Output:
+CQ-1 (Facet: Purpose): What purposes are associated with the DSA?
+
+CQ-2 (Facet: Processing activity / Legal basis): Which processing activities are linked to which legal bases?
+
+CQ-3 (Facet: Parties and roles): Which parties participate in the DSA and what roles do they have?
+
+CQ-4 (Facet: Data categories): Which categories of data are used or shared?
+
+CQ-5 (Facet: Retention and disposal): What retention duration and disposal method are specified?
+
+CQ-6 (Facet: International transfer): Are international transfer details specified? If so, what destination, transfer mechanism, and safeguard are stated?
+
+CQ-7 (Facet: Rights handling): How are data-subject rights handled, including the right, responsible party, and procedure URL if present?
+
+CQ-8 (Facet: Transparency): What transparency or notice arrangements are specified, including notice type, issuer, and page if present?
+
+CQ-9 (Facet: Risk assessment): Are DPIA or transfer-risk assessments specified? If so, what assessment type, trigger, or responsible party is stated?
+
+CQ-10 (Facet: Incident response): What incident notification deadline and contact point are specified?
+
+CQ-11 (Facet: Governance and audit): What governance, audit, or review arrangements are specified?
+
+CQ-12 (Facet: Children / vulnerable data subjects): Are children or child-specific safeguards represented? If so, what child-related condition or safeguard is stated?
+
+CQ-13 (Facet: Exit and termination): What exit or termination obligations are specified?
+
+### Output:
+CQ-1 (

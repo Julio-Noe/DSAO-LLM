@@ -1,0 +1,21 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is version 1.0.3, created on November 14, 2025.
+It involves two parties: OrgD as the Data Controller and OrgC as the Processor.
+The purposes of this DSA are fraud detection and analytics, with legal bases of contract and legitimate interest.
+The processing activities include:
+- Fraud detection: uses biometric and contact data, with a legal basis of contract.
+- Analytics: uses contact data, with a legal basis of legitimate interest.
+The shared dataset is a Dataset that conforms to <https> and has storage with a duration of 6 months.
+The disposal method is SecureDelete.
+Rights handling includes a RightAccess procedure at <https>.
+The transparency arrangement is indirect, with an issuer of OrgD and a page at <https>.
+The assessment is DPIA with an outcome of medium, referencing <https://example.org/dpia.pdf>.
+The governance plan includes a review frequency of every 12 months, a metric of DSAR_SLA_<=30d, and an audit right of remote_audit.
+The incident response plan includes a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+The exit plan includes an exit trigger of contract_end, data disposition of SecureDelete, and a post-termination obligation of no contact after exit.
+The population is children.
+Enhanced safeguards include age-appropriate design.
+A review note justifies the processing activity of fraud detection, with a guideline reference of ICO-2021-§3.2, a decision of needs-change, and a rating of 2.
+```

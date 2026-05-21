@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the Data Controller, and OrgB, acting as the Recipient. The purposes of this DSA are analytics and reporting, with a legal basis of legitimate interest. The data categories involved include health and location information.
+
+The DSA specifies that the data will be stored for six months, with a disposal method of SecureDelete. The agreement also includes provisions for international transfer to Singapore, with safeguards such as pseudonymization and access control.
+
+The DSA includes arrangements for rights handling, including the right to rectification, and transparency obligations, such as layered notice and a procedure URL. The agreement also includes an assessment report, which identified a medium-level risk.
+
+The governance plan outlines the review frequency and audit rights, while the incident response plan specifies a notification deadline and contact point. The exit plan outlines the trigger for exit, data disposition, and post-termination obligations.
+
+Finally, the DSA includes enhanced safeguards for vulnerable populations, such as children, and age-appropriate design.

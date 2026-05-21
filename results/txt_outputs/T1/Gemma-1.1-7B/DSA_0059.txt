@@ -1,0 +1,9 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) governs the sharing of personal data between two parties, OrgA and OrgB. The purposes of this DSA are fraud detection and service provision. The data categories involved include biometric, contact, and health information. The legal bases for processing are a legal obligation and contract.
+
+The DSA has been assessed as having a low risk, with an assessment outcome of "low" and references to a Data Protection Impact Assessment (DPIA) available. The governance plan includes regular reviews every six months, with a metric to measure compliance and an audit right for remote audits.
+
+In the event of an incident, OrgB will notify OrgA within 72 hours and provide a contact point for reporting incidents. The DSA also includes an exit plan, which outlines the procedures for disposing of personal data when the agreement ends. The plan includes a trigger for exit, which is the end of the contract, and a data disposition method of secure deletion.
+
+The DSA has been implemented with safeguards in place to protect personal data, including the use of pseudonymization and key separation. International transfers of personal data will be made to Japan, with the use of standard contractual clauses (SCCs) and safeguards in place.

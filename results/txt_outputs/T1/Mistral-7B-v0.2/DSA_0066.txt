@@ -1,0 +1,16 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is between OrgC and OrgE. It covers two processing activities:
+- Reporting (purpose: reporting, legal basis: legitimate interest) using health and location data.
+- Service provision (purpose: service provision, legal basis: legitimate interest) using financial data.
+
+The agreement includes a governance plan with a review frequency of 12 months, a metric of DSAR_SLA_<=30d, and an audit right of remote audit.
+It also includes an incident response plan with a notification deadline of 72 hours and a contact point of sec@example.org.
+The exit plan includes an exit trigger of contract_end, data disposition of SecureDelete, and a post-termination obligation of no contact after exit.
+The population covered by the agreement is general.
+
+The agreement includes a rights handling for right rectification with responsible party OrgC and procedure URL <https>.
+It also includes a transparency arrangement with notice type indirect, issuer OrgC, and page <https>.
+The agreement includes an assessment with assessment type DPIA, assessment outcome high, and references <https://example.org/dpia.pdf>.
+```

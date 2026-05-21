@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This Data Sharing Agreement (DSA) between OrgC and OrgA outlines the terms for sharing data. The parties involved are OrgC, a Data Controller, and OrgA, a Processor. The purposes of the DSA are reporting and research, with legal bases being contract and legal obligation, respectively. The data categories used or shared include contact information, financial data, and biometric data.
+
+The DSA specifies that the data will be stored for six months and disposed of through anonymization. The rights handling procedures are in place, with OrgC responsible for managing the data and providing a procedure URL. Transparency arrangements include indirect notice and an issuer, OrgC.
+
+The governance plan outlines the review frequency, metrics, and audit rights. The incident response plan includes a notification deadline and contact point. The exit plan specifies the trigger, data disposition, and post-termination obligations.
+
+The population covered by this DSA is general. No assessment information or international transfer information is provided.

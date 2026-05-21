@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.1, was created on November 14, 2025. The parties involved are OrgD (Data Controller) and OrgB (Recipient). The purposes of the DSA are reporting and fraud detection, which are based on the legal basis of public interest. The data categories used and shared include contact information, location, health, and other personal data.
+
+The dataset is stored for 12 months and will be disposed of through a return process. The DSA has an international transfer arrangement with Mexico, using Standard Contractual Clauses (SCCs) and pseudonymization and key separation as safeguards.
+
+The rights handling process is managed by OrgD, which is responsible for rectification and has a procedure in place. The transparency arrangement includes layered notices issued by OrgD, with a reference to the Data Protection Authority's guidelines.
+
+The governance plan includes regular reviews every 6 months, with a metric to measure compliance and an audit right for remote audits. The incident response plan includes notification deadlines and contact points.
+
+The exit plan outlines the procedures for exiting the agreement, including data disposition and post-termination obligations. The population covered by this DSA is general.
+
+Note: This summary only includes the information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

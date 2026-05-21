@@ -1,0 +1,13 @@
+CQ-1 — Analytics, fraud detection
+CQ-2 — analytics: public interest; fraud_detection: legitimate interest
+CQ-3 — OrgB: Data Controller, OrgD: Recipient
+CQ-4 — contact, location
+CQ-5 — 6 months; SecureDelete
+CQ-6 — Not stated in the TTL
+CQ-7 — Erasure: OrgB; procedureURL: <https>
+CQ-8 — indirect: OrgB; foaf:page: <https>
+CQ-9 — Not stated in the TTL
+CQ-10 — 72 hours; mailto:sec@example.org
+CQ-11 — reviewFrequency: 12 months; metric: BreachMTTR<=72h; auditRight: remote_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end; Return; no_redisclosure

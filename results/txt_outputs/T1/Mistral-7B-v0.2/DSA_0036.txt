@@ -1,0 +1,19 @@
+The following is an example response for the above TTL input.
+
+```
+This Data Sharing Agreement (DSA) is between OrgA and OrgD. It covers two processing activities:
+- DSA_0036_P1: service provision and reporting, with legal basis of legitimate interest and data categories of health and biometric.
+- DSA_0036_P2: reporting, with legal basis of legitimate interest and data categories of financial.
+
+The agreement includes a governance plan, an incident response plan, and an exit plan. The governance plan specifies a review frequency of 12 months, a metric of DSAR SLA <= 30 days, and an audit right of remote audit. The incident response plan specifies a notification deadline of 72 hours and a contact point of sec@example.org. The exit plan specifies an exit trigger of contract end, data disposition of return, and a post-termination obligation of no contact after exit.
+
+The agreement also includes an international transfer with destination country DE, transfer mechanism of BCRs, and safeguards of key separation and encryption at rest.
+
+The agreement includes a rights handling for right erasure, with responsible party OrgD and procedure URL https://example.org/dsa-rights-handling.
+
+The agreement includes a transparency arrangement with notice type indirect, issuer OrgD, and page https://example.org/dsa-transparency-arrangement.
+
+The agreement includes an assessment with assessment type TRA, assessment outcome high, and references https://example.org/dpia.pdf.
+
+The agreement includes a population of children. The agreement also includes enhanced safeguards of age-appropriate design.
+```

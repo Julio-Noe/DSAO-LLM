@@ -1,0 +1,9 @@
+Here is the Executive Summary:
+
+This Data Sharing Agreement (DSA) governs the sharing of data between two parties, OrgD and OrgA. The primary purposes of this DSA are analytics and service provision. The data categories involved include health, contact, financial, and other information. The legal bases for processing are legal obligation and public interest.
+
+The DSA specifies that the data will be stored for 12 months and then anonymized. The rights handling procedures are in place, with OrgD responsible for ensuring access to the data and providing a procedure URL. Transparency arrangements are also in place, with OrgD as the issuer of notices and providing a webpage for further information.
+
+The DSA has undergone an assessment, which identified a high risk. The governance plan includes regular reviews and remote audits to ensure compliance with data protection regulations. In the event of an incident, OrgD will notify OrgA within 72 hours and provide a contact point for further information. The exit plan outlines the procedures for terminating the agreement, including secure deletion of data and no redisclosure.
+
+Overall, this DSA provides a framework for the sharing of personal data between OrgD and OrgA, with measures in place to protect the rights and interests of individuals involved.

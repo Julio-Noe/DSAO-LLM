@@ -1,0 +1,13 @@
+CQ-1 — reporting, research
+CQ-2 — legal_obligation, public_interest
+CQ-3 — OrgD:DataController, OrgC:Processor
+CQ-4 — location, health
+CQ-5 — P18M, Return
+CQ-6 — JP, BCRs, access_control, encryption_at_rest
+CQ-7 — RightAccess, OrgD, <https>
+CQ-8 — layered, OrgD, <https>
+CQ-9 — DPIA, low, <https://example.org/dpia.pdf>
+CQ-10 — PT72H, mailto:sec@example.org
+CQ-11 — P6M, BreachMTTR<=72h, third_party_audit
+CQ-12 — children, age_appropriate_design
+CQ-13 — contract_end, SecureDelete, no_redisclosure

@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.1, was created on November 14, 2025. The agreement involves two parties: OrgA and OrgB, with OrgB acting as the Data Controller. The purposes of this DSA are fraud detection and service provision. The parties will process financial and location data, with legal bases of legal obligation and contract.
+
+The DSA specifies that the processed data will be stored for 12 months and then anonymized. The rights handling procedures include erasure of personal data, with OrgB responsible for this process and a procedure URL provided. Transparency arrangements include layered notices issued by OrgB, with a review frequency of every 12 months.
+
+The governance plan outlines the review frequency and audit rights, while the incident response plan specifies a notification deadline of 72 hours. The exit plan includes triggers for contract end, data disposition procedures, and post-termination obligations.
+
+The DSA also addresses population-specific safeguards, including enhanced safeguards for children.

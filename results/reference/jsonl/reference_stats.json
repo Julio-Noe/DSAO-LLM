@@ -1,0 +1,174 @@
+{
+  "num_dsas": 100,
+  "T1_prompt_facets": [
+    {
+      "field_id": "agreement_metadata",
+      "label": "Agreement metadata",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 3.0
+    },
+    {
+      "field_id": "parties_roles",
+      "label": "Parties and roles",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 4.0
+    },
+    {
+      "field_id": "purposes_processing_legal_basis_data",
+      "label": "Purposes, processing, legal bases, and data",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 6.33
+    },
+    {
+      "field_id": "dataset_retention_disposal",
+      "label": "Dataset, retention, and disposal",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 4.0
+    },
+    {
+      "field_id": "population_rights_transparency",
+      "label": "Population, rights, and transparency",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 5.0
+    },
+    {
+      "field_id": "governance_incident_exit",
+      "label": "Governance, incident response, and exit",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 8.0
+    },
+    {
+      "field_id": "assessments",
+      "label": "Assessment information",
+      "answerable": 78,
+      "unanswerable": 22,
+      "avg_values": 2.34
+    },
+    {
+      "field_id": "international_transfer",
+      "label": "International transfer information",
+      "answerable": 32,
+      "unanswerable": 68,
+      "avg_values": 1.28
+    },
+    {
+      "field_id": "children_safeguards",
+      "label": "Children or vulnerable-population safeguards",
+      "answerable": 29,
+      "unanswerable": 71,
+      "avg_values": 0.58
+    }
+  ],
+  "T2_cqs": [
+    {
+      "cq_id": "CQ-1",
+      "field_id": "purposes",
+      "label": "Purpose",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 2.0
+    },
+    {
+      "cq_id": "CQ-2",
+      "field_id": "processing_legal_bases",
+      "label": "Processing activity / Legal basis",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 3.8
+    },
+    {
+      "cq_id": "CQ-3",
+      "field_id": "parties_roles",
+      "label": "Parties and roles",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 4.0
+    },
+    {
+      "cq_id": "CQ-4",
+      "field_id": "data_categories",
+      "label": "Data categories",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 2.53
+    },
+    {
+      "cq_id": "CQ-5",
+      "field_id": "retention_disposal",
+      "label": "Retention and disposal",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 2.0
+    },
+    {
+      "cq_id": "CQ-6",
+      "field_id": "international_transfer",
+      "label": "International transfer",
+      "answerable": 32,
+      "unanswerable": 68,
+      "avg_values": 1.28
+    },
+    {
+      "cq_id": "CQ-7",
+      "field_id": "rights_handling",
+      "label": "Rights handling",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 3.0
+    },
+    {
+      "cq_id": "CQ-8",
+      "field_id": "transparency",
+      "label": "Transparency",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 3.0
+    },
+    {
+      "cq_id": "CQ-9",
+      "field_id": "assessments",
+      "label": "Risk assessment",
+      "answerable": 78,
+      "unanswerable": 22,
+      "avg_values": 2.34
+    },
+    {
+      "cq_id": "CQ-10",
+      "field_id": "incident_response",
+      "label": "Incident response",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 2.0
+    },
+    {
+      "cq_id": "CQ-11",
+      "field_id": "governance_audit",
+      "label": "Governance and audit",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 3.0
+    },
+    {
+      "cq_id": "CQ-12",
+      "field_id": "children_safeguards",
+      "label": "Children / vulnerable data subjects",
+      "answerable": 29,
+      "unanswerable": 71,
+      "avg_values": 0.58
+    },
+    {
+      "cq_id": "CQ-13",
+      "field_id": "exit_termination",
+      "label": "Exit and termination",
+      "answerable": 100,
+      "unanswerable": 0,
+      "avg_values": 3.0
+    }
+  ]
+}

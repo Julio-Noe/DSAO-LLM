@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.1, was created on November 14, 2025. The parties involved are OrgC, acting as the Data Controller, and OrgE, acting as the Recipient. The purposes of this DSA are research and service provision. The legal bases for processing are a legal obligation and legitimate interest.
+
+The data categories used and shared include location and health information. The dataset, DSA_0033_DS1, conforms to a standard and will be stored for six months before being disposed of through anonymization. The international transfer of data to South Africa will be done through a business continuity and recovery service (BCRs) with safeguards in place, including access control and pseudonymization.
+
+The rights handling procedures include the right to erasure, with OrgC responsible for implementing this procedure. Transparency arrangements are in place, including a notice type of "direct" and an issuer of OrgC. An assessment has been conducted, which concluded that the risks are low.
+
+The governance plan includes regular reviews every six months and a metric for measuring breach response time. The incident response plan outlines procedures for notification and contact points. The exit plan includes triggers, data disposition, and post-termination obligations.
+
+This DSA has been assessed as having a low risk profile.

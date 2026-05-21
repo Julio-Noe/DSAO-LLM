@@ -1,0 +1,36 @@
+The following is a sample response for the given TTL input. It includes an executive summary and a detailed description of each field in the DSA.
+
+**Executive Summary:**
+This Data Sharing Agreement (DSA) is between OrgD and OrgC. It covers two processing activities: research and service provision. The agreement includes a governance plan, an incident response plan, and an exit plan.
+
+The research processing activity involves sharing data categories related to location and health, with a storage period of 6 months. The service provision processing activity involves sharing data categories related to location only.
+
+The agreement includes an international transfer with Germany, using adequacy as the transfer mechanism and access control and encryption at rest as safeguards.
+
+The agreement includes a rights handling procedure for the right to erasure, with OrgD as the responsible party and a URL provided.
+
+The agreement includes a transparency arrangement with layered notices, issued by OrgD and available at the URL provided.
+
+The agreement includes an assessment with a TRA outcome, high rating, and a DPIA reference.
+
+The governance plan includes a review frequency of 12 months, a metric of BreachMTTR<=72h, and an audit right of third-party audit.
+
+The incident response plan includes a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+
+The exit plan includes an exit trigger of contract_end, data disposition of SecureDelete, and a post-termination obligation of no redisclosure.
+
+The agreement includes a population of children, with enhanced safeguards of age-appropriate design.
+
+The agreement includes a review note justifying the research processing activity, with a guideline reference of ICO-2021-§3.2, a decision of needs-change, and a rating of 2.
+
+**Detailed Description:**
+
+1. **Agreement Metadata**:
+   - DSA identifier: The agreement is identified by the URI `https://example.org/dsao/inst/DSA_0075`.
+   - Version: The agreement has a version of `1.0.5`.
+   - Creation date: The agreement was created on November 14, 2025.
+
+2. **Parties and Roles**:
+   - Parties: The agreement involves two parties, OrgD and OrgC.
+     - OrgD: The organization is identified by the URI `https://example.org/dsao/inst/OrgD`. It has a title of "OrgD" and a role of `DataController`.
+     - OrgC: The organization is identified by the URI `https://example.org

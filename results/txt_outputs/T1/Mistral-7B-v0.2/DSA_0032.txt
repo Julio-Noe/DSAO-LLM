@@ -1,0 +1,20 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgB and OrgE.
+OrgB is the Data Controller, responsible for collecting and processing personal data.
+OrgE is a Processor, authorized to process the data on behalf of OrgB.
+
+The DSA has two purposes: fraud detection and research.
+It covers the processing of health and biometric data, subject to legal bases of contract and public interest.
+The data is stored for 12 months, after which it is securely deleted.
+
+OrgB has an international transfer plan to Japan, using Binding Corporate Rules and pseudonymization as safeguards.
+OrgB has a rights handling plan for the right to erasure, with OrgB as the responsible party and a procedure URL.
+OrgB has a transparency arrangement with direct notice to the issuer, OrgB.
+OrgB has an assessment plan for DPIA with medium risk and a reference to ICO-2021-§3.2.
+OrgB has a governance plan with review frequency of 6 months, metric of AuditFindings<=2, and audit right on-site yearly.
+OrgE has an incident response plan with notification deadline of 72 hours and contact point mailto:sec@example.org.
+OrgE has an exit plan with exit trigger contract_end, data disposition SecureDelete, and post-termination obligation no redisclosure.
+The population covered by the DSA is general.
+```

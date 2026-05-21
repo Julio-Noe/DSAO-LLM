@@ -1,0 +1,27 @@
+Here are the answers to the competency questions based on the provided TTL content:
+
+CQ-1 — The purposes associated with the DSA are fraud detection and reporting.
+
+CQ-2 — Not specified. 
+
+CQ-3 — The parties participating in the DSA are OrgE (Data Controller) and OrgC (Recipient).
+
+CQ-4 — The categories of data used or shared are location, biometric, and contact.
+
+CQ-5 — The retention duration is 12 months, and the disposal method is anonymise.
+
+CQ-6 — Not specified. 
+
+CQ-7 — The data-subject rights are handled by OrgE, and the procedure URL is https.
+
+CQ-8 — The transparency arrangement specifies a layered notice type, issued by OrgE, and the page is https.
+
+CQ-9 — A DPIA assessment has been conducted, with an outcome of "high", and the assessment report is available at https://example.org/dpia.pdf.
+
+CQ-10 — The incident notification deadline is 72 hours, and the contact point is mailto:sec@example.org.
+
+CQ-11 — The governance plan specifies a review frequency of 12 months, audit metrics, and third-party audit rights.
+
+CQ-12 — Not specified. 
+
+CQ-13 — The exit plan specifies an exit trigger of contract end, data disposition as SecureDelete, and post-termination obligation as no_redisclosure.

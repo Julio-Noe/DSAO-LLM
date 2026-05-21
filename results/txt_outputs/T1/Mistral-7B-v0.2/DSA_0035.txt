@@ -1,0 +1,16 @@
+```
+The DSA is a contract between OrgE and OrgA. It covers two processing activities:
+- DSA_0035_P1: service provision, legal basis contract, data categories biometric and health
+- DSA_0035_P2: research, legal basis legal obligation, data categories health
+
+The DSA has the following obligations:
+- Governance plan: DSA_0035_Gov, review frequency P6M, metric BreachMTTR<=72h, audit right on_site_yearly
+- Incident response plan: DSA_0035_IRP, notification deadline PT72H, contact point mailto:sec@example.org
+- Exit plan: DSA_0035_Exit, exit trigger contract_end, data disposition Return, post termination obligation no_redisclosure
+- Population: DSA_0035_Population, title employees
+- Rights handling: DSA_0035_RH1, right RightErasure, responsible party OrgE, procedureURL https://example.org/dpia.pdf
+- Transparency arrangement: DSA_0035_TA1, notice type direct, issuer OrgE, page https://example.org/dpia.pdf
+- Assessment: DSA_0035_Assess, assessment type DPIA, assessment outcome high, references https://example.org/dpia.pdf
+- International transfer: DSA_0035_T1, destination country BR, transfer mechanism Adequacy, safeguards pseudonymisation and access_control
+- Child or vulnerable population safeguards: enhancedSafeguard
+```

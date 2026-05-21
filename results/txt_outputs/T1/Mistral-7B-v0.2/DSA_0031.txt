@@ -1,0 +1,12 @@
+```
+The DSA is between OrgA and OrgB.
+OrgA is the data controller, and OrgB is a processor.
+The DSA has two purposes: fraud detection and reporting.
+OrgA uses the data categories contact, health, and biometric for these purposes.
+The DSA has a governance plan, an incident response plan, and an exit plan.
+The data is stored for 6 months and then deleted.
+OrgA has a transparency arrangement, and OrgB has a rights handling procedure.
+The DSA is assessed as high-risk, and the data is transferred to ZA with pseudonymisation and key separation as safeguards.
+The DSA has a population of employees, and OrgA is responsible for handling rights requests.
+The DSA has a review note justifying the use of data categories contact, health, and biometric.
+```

@@ -1,0 +1,61 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgC and OrgD.
+It covers two processing activities: reporting and service provision.
+The agreement is effective from 2025-11-14T21:22:59Z.
+
+The agreement covers the following purposes:
+- Reporting: OrgC will use data from OrgD to generate reports.
+- Service provision: OrgD will provide services to OrgC using data from OrgC.
+
+The agreement covers the following legal bases:
+- Public interest: OrgC will use data from OrgD for public interest purposes.
+- Legal obligation: OrgD will provide services to OrgC based on a legal obligation.
+
+The agreement covers the following data categories:
+- Financial: OrgC will use financial data from OrgD.
+- Location: OrgD will provide location data to OrgC.
+
+The agreement covers the following datasets:
+- Dataset 1: This dataset is a SharedDataset and also a Dataset. It conforms to <https>.
+- Storage: The dataset will be stored for 12 months.
+- Disposal method: The dataset will be anonymised after disposal.
+
+The agreement covers the following international transfers:
+- Destination country: BR
+- Transfer mechanism: SCCs
+- Safeguards: Pseudonymisation and Access Control
+
+The agreement covers the following rights handling:
+- Right access: OrgC will handle right access to data from OrgD.
+- Responsible party: OrgC is responsible for handling right access to data from OrgD.
+- Procedure URL: <https>
+
+The agreement covers the following transparency arrangement:
+- Notice type: Layered
+- Issuer: OrgC
+- Page URL: <https>
+
+The agreement covers the following assessment information:
+- Assessment type: DPIA
+- Assessment outcome: Low
+- References: <https://example.org/dpia.pdf>
+
+The agreement covers the following governance plan:
+- Review frequency: 12 months
+- Metric: AuditFindings<=2
+- Audit right: Remote audit
+
+The agreement covers the following incident response plan:
+- Notification deadline: 72 hours
+- Contact point: mailto:sec@example.org
+
+The agreement covers the following exit plan:
+- Exit trigger: Contract end
+- Data disposition: Return
+- Post termination obligation: No contact after exit
+
+The agreement covers the following population:
+- Children
+```

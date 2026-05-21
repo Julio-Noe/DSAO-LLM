@@ -1,0 +1,13 @@
+CQ-1 — Specified purposes are analytics and fraud_detection.
+CQ-2 — Legal basis for DSA_0055_P1 is public_interest and legal basis for DSA_0055_P2 is contract.
+CQ-3 — OrgB has role DataController and OrgC has role Recipient.
+CQ-4 — Categories of data used or shared are location and financial.
+CQ-5 — Retention duration is P18M and disposal method is SecureDelete.
+CQ-6 — International transfer details are not specified.
+CQ-7 — Data subject rights handling is for RightRectification, responsible party is OrgB and procedure URL is https.
+CQ-8 — Transparency arrangement notice type is direct, issuer is OrgB and page is https.
+CQ-9 — DPIA or transfer risk assessment is not specified.
+CQ-10 — Incident notification deadline is PT72H and contact point is mailto:sec@example.org.
+CQ-11 — Governance, audit or review arrangements are not specified.
+CQ-12 — Children or child-specific safeguards are not specified.
+CQ-13 — Exit or termination obligations are exitTrigger contract_end, data disposition Return and postTerminationObligation no_contact_after_exit.

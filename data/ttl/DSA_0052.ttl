@@ -1,0 +1,41 @@
+@prefix :      <https://example.org/dsao/inst/> .
+@prefix dsao:  <https://w3id.org/dsao#> .
+@prefix dpv:   <https://w3id.org/dpv#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+:DSA_0052 a dsao:DataSharingAgreement ;
+  dct:hasVersion "1.0.5" ;
+  dpv:hasPurpose dpv:service_provision , dpv:hasPurpose dpv:reporting ;
+  dsao:hasParty :OrgD , :OrgE ;
+  dsao:hasGovernancePlan :DSA_0052_Gov ;
+  dsao:hasIncidentResponsePlan :DSA_0052_IRP ;
+  dsao:hasExitPlan :DSA_0052_Exit ;
+  dct:created "2025-11-14T21:22:59Z"^^xsd:dateTime .
+
+:OrgD a dsao:Party ; dct:title "OrgD" ; dpv:hasRole dpv:DataController .
+:OrgE a dsao:Party ; dct:title "OrgE" ; dpv:hasRole dpv:Recipient .
+
+:DSA_0052_P1 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:service_provision ; dpv:hasLegalBasis dpv:contract ; dsao:usesData dpv:location , dsao:usesData dpv:health .
+:DSA_0052_P2 a dsao:ProcessingActivity ; dpv:hasPurpose dpv:reporting ; dpv:hasLegalBasis dpv:public_interest ; dsao:usesData dpv:contact .
+
+:DSA_0052_DS1 a dsao:SharedDataset , dcat:Dataset ;
+  dct:conformsTo <https> ;
+  dpv:hasStorage [ a dpv:Storage ; dpv:hasDuration "P12M"^^xsd:duration ] ;
+  dsao:disposalMethod "Anonymise" .
+
+:DSA_0052_RH1 a dsao:RightsHandling ; dsao:forRight dpv:RightErasure ; dsao:responsibleParty :OrgD ; dsao:procedureURL <https> .
+
+:DSA_0052_TA1 a dsao:TransparencyArrangement ; dsao:noticeType "layered" ; dsao:issuer :OrgD ; foaf:page <https> .
+
+:DSA_0052_Assess a dsao:Assessment ; dsao:assessmentType "TRA" ; dsao:assessmentOutcome "low" ; dct:references <https://example.org/dpia.pdf> .
+:DSA_0052 dsao:hasAssessment :DSA_0052_Assess .
+
+:DSA_0052_Gov a dsao:GovernancePlan ; dsao:reviewFrequency "P6M" ; dsao:metric "AuditFindings<=2" ; dsao:auditRight "third_party_audit" .
+:DSA_0052_IRP a dsao:IncidentResponsePlan ; dsao:notificationDeadline "PT72H"^^xsd:duration ; dsao:contactPoint "mailto:sec@example.org" .
+:DSA_0052_Exit a dsao:ExitPlan ; dsao:exitTrigger "contract_end" ; dsao:dataDisposition "SecureDelete" ; dsao:postTerminationObligation "no_redisclosure" .
+:DSA_0052_Population a dsao:Population ; dct:title "children" .
+:DSA_0052 dsao:population :DSA_0052_Population .
+:DSA_0052 dsao:enhancedSafeguard dpv:age_appropriate_design .

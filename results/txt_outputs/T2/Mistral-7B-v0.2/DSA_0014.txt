@@ -1,0 +1,25 @@
+CQ-1 — Specified: reporting, analytics
+
+CQ-2 — Specified: legal_obligation, legitimate_interest
+
+CQ-3 — Specified: OrgC (DataController), OrgE (Processor)
+
+CQ-4 — Specified: location, contact
+
+CQ-5 — Not specified
+
+CQ-6 — Not stated in the TTL
+
+CQ-7 — Specified: RightAccess, OrgC, <https>
+
+CQ-8 — Specified: direct, OrgC, <https>
+
+CQ-9 — Not specified
+
+CQ-10 — Specified: PT72H, mailto:sec@example.org
+
+CQ-11 — Specified: P12M, DSAR_SLA_<=30d, third_party_audit
+
+CQ-12 — Not specified
+
+CQ-13 — Specified: contract_end, Return, no_redisclosure

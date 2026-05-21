@@ -1,0 +1,23 @@
+The following is an example response.
+
+This Data Sharing Agreement (DSA) establishes a framework for data sharing between OrgE and OrgC. The DSA is versioned at 1.0.3, created on November 14, 2025, and has two purposes: fraud detection and reporting.
+
+OrgE is the data controller, responsible for processing personal data according to the DSA. OrgC is the recipient of the shared dataset, which conforms to a specified standard and has a storage period of six months. The dataset is disposed of using the SecureDelete method.
+
+OrgE has a rights handling procedure for data subjects' right to erasure, which is responsible by OrgE and can be accessed at <https>.
+
+OrgE has a transparency arrangement for direct notice to data subjects, issued by OrgE and accessible at <https>.
+
+OrgE has conducted a DPIA assessment with an outcome of low risk and references <https://example.org/dpia.pdf>.
+
+OrgE has a governance plan with a review frequency of six months, a metric of BreachMTTR<=72h, and an audit right of remote_audit.
+
+OrgE has an incident response plan with a notification deadline of 72 hours and a contact point of mailto:sec@example.org.
+
+OrgE has an exit plan with an exit trigger of contract_end, data disposition of return, and a post-termination obligation of no contact after exit.
+
+OrgE has a population of children, which is shared with the DSA.
+
+OrgE has an enhanced safeguard of age-appropriate design.
+
+The DSA includes a review note justifying the processing activity of fraud detection, which references ICO-2021-§3.2 and has a decision of needs-change with a rating of 2. The description is "reduce data categories".

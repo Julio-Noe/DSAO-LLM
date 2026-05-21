@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the data controller, and OrgE, acting as the processor. The purposes of this DSA are analytics and research, with legal bases of legitimate interest and legal obligation, respectively. The data categories used or shared include contact information and biometric data.
+
+The dataset, DSA_0085_DS1, conforms to a standard and will be stored for 18 months before being anonymized. The international transfer of data to Brazil is governed by standard contractual clauses and includes safeguards such as access control and pseudonymization.
+
+The rights handling procedure, DSA_0085_RH1, is responsible for erasure requests and can be accessed through a specific URL. Transparency arrangements, DSA_0085_TA1, provide direct notice to data subjects and are issued by OrgD.
+
+The governance plan, DSA_0085_Gov, outlines review frequencies and metrics for auditing, while the incident response plan, DSA_0085_IRP, specifies notification deadlines and contact points. The exit plan, DSA_0085_Exit, outlines triggers for exiting the agreement and data disposition procedures.
+
+The population covered by this DSA is general, and an assessment has been conducted, with a DPIA outcome of "high" risk. The assessment report is available at <https://example.org/dpia.pdf>.

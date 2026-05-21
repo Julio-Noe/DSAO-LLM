@@ -1,0 +1,13 @@
+CQ-1 — Specified: fraud_detection, analytics
+CQ-2 — Specified: public_interest, legal_obligation
+CQ-3 — Specified: OrgE (DataController), OrgA (Recipient)
+CQ-4 — Specified: contact, health
+CQ-5 — Not stated in the TTL
+CQ-6 — Specified: destination "https", transfer mechanism "InternationalTransfer", safeguard "StandardContractualClauses"
+CQ-7 — Specified: RightAccess, responsible party "OrgE", procedureURL "<https>"
+CQ-8 — Specified: indirect, issuer "OrgE", foaf:page "<https>"
+CQ-9 — Specified: TRA, assessmentOutcome "low", dct:references "<https://example.org/dpia.pdf>"
+CQ-10 — Specified: PT72H, contactPoint "mailto:sec@example.org"
+CQ-11 — Specified: reviewFrequency "P6M", metric "AuditFindings<=2", auditRight "third_party_audit"
+CQ-12 — Specified: children, child-specific safeguard "age_appropriate_design"
+CQ-13 — Specified: contract_end, dataDisposition "SecureDelete", postTerminationObligation "no_redisclosure"

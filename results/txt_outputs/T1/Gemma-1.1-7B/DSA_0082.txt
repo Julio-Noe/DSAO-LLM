@@ -1,0 +1,11 @@
+Here is the executive summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgC and OrgA outlines the terms for sharing data between the two parties. The primary purposes of this DSA are reporting and research, with legal bases established under the legal obligation. The parties will process data categories related to health and biometric information for reporting purposes, and financial information for research purposes.
+
+The DSA specifies that the data will be stored for 18 months and then disposed of through a return method. The parties have established an incident response plan, which includes notification deadlines and contact points in case of incidents. The DSA also outlines an exit plan, which includes triggers for exit and data disposition.
+
+The parties have conducted an assessment of the DSA, which identified a high level of risk. The assessment report is available at https://example.org/dpia.pdf.
+
+The DSA has a governance plan in place, which includes review frequencies and audit rights. The parties have also established transparency arrangements, including notice types and issuers.
+
+Overall, this DSA provides a framework for the sharing of data between OrgC and OrgA, with clear purposes, processing activities, and legal bases established.

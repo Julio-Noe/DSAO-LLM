@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA) in clear English text:
+
+This DSA, version 1.0.1, was created on November 14, 2025. The agreement involves two parties: OrgE, acting as the Data Controller, and OrgC, acting as the Recipient. The purposes of this DSA are fraud detection and research. The legal bases for processing personal data are legal obligations.
+
+The agreement involves two processing activities: one for fraud detection and another for research. The data categories used or shared in these activities include financial, health, and biometric information.
+
+The dataset to be shared is a confidential dataset that conforms to the standard at https://example.org/dataset. The retention period for this data is 18 months, and the disposal method is anonymization.
+
+The rights handling procedure includes the right to erasure, with OrgE as the responsible party and a procedure available at https://example.org. The transparency arrangement includes indirect notice, with OrgE as the issuer and a webpage available at https://example.org.
+
+The governance plan includes regular reviews every 12 months, with a breach metric of MTTR <= 72 hours and on-site audits annually. The incident response plan includes a notification deadline of 72 hours, with contact information available at mailto:sec@example.org. The exit plan includes a trigger of contract end, with data disposition through secure deletion and post-termination obligations to have no contact after exit.
+
+The population covered by this DSA is employees.

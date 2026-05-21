@@ -1,0 +1,13 @@
+CQ-1 — fraud_detection, research
+CQ-2 — legitimate_interest:DSA_0024_P1, public_interest:DSA_0024_P2
+CQ-3 — OrgB:DataController, OrgD:Processor
+CQ-4 — contact, financial, health
+CQ-5 — P12M:DSA_0024_DS1
+CQ-6 — ZA:DSA_0024_T1, Adequacy:DSA_0024_T1
+CQ-7 — RightErasure:DSA_0024_RH1
+CQ-8 — indirect:DSA_0024_TA1
+CQ-9 — TRA:DSA_0024_Assess
+CQ-10 — PT72H:DSA_0024_IRP, mailto:sec@example.org:DSA_0024_IRP
+CQ-11 — P12M:DSA_0024_Gov, AuditFindings<=2:DSA_0024_Gov
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end:DSA_0024_Exit, Return:DSA_0024_Exit, no_redisclosure:DSA_0024_Exit

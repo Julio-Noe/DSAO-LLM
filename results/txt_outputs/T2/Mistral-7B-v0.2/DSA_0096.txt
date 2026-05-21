@@ -1,0 +1,13 @@
+CQ-1 — research, service provision
+CQ-2 — legitimate interest
+CQ-3 — OrgA, OrgC
+CQ-4 — biometric, contact, health
+CQ-5 — 18 months, SecureDelete
+CQ-6 — Not stated in the TTL
+CQ-7 — Specified, OrgC, <https>
+CQ-8 — Specified, indirect, OrgC, <https>
+CQ-9 — Specified, TRA, high, https://example.org/dpia.pdf
+CQ-10 — Specified, 72 hours, mailto:sec@example.org
+CQ-11 — Specified, review frequency 12 months, metric BreachMTTR<=72h, audit right on_site_yearly
+CQ-12 — Specified, children, age appropriate design
+CQ-13 — Specified, contract_end, SecureDelete, no redisclosure

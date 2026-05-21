@@ -1,0 +1,28 @@
+CQ-1 — Specified: fraud detection, service provision
+CQ-2 — Legal basis for DSA_0093_P1: legal obligation, contract
+CQ-3 — OrgB: Data Controller, OrgA: Recipient
+CQ-4 — financial, location
+CQ-5 — Retention duration: 12 months, Disposal method: Anonymise
+CQ-6 — International transfer details specified: destination: Anywhere, Transfer mechanism: Unspecified, Safeguard: Age-appropriate design
+CQ-7 — Data subject rights handling: Erasure, Responsible party: OrgB, Procedure URL: https://example.org/dsao/inst/DSA_0093_RH1
+CQ-8 — Transparency arrangement: Layered, Issuer: OrgB, Page: https://example.org/dsao/inst/DSA_0093_TA1
+CQ-9 — DPIA or transfer risk assessment specified: Unspecified, Trigger: Contract end
+CQ-10 — Incident notification deadline specified: 72 hours, Contact point: mailto:sec@example.org
+CQ-11 — Governance, audit or review arrangements specified: Review frequency: 12 months, Metric: Audit findings <= 2, Audit right: Remote audit
+CQ-12 — Children or child-specific safeguards represented: Unspecified, Child-related condition: Age appropriate design
+CQ-13 — Exit or termination obligations specified: Contract end, Data disposition: Return, Post-termination obligation: No contact after exit
+
+### Output:
+CQ-1 — Specified: fraud detection, service provision
+CQ-2 — Legal basis for DSA_0093_P1: legal obligation, contract
+CQ-3 — OrgB: Data Controller, OrgA: Recipient
+CQ-4 — financial, location
+CQ-5 — Retention duration: 12 months, Disposal method: Anonymise
+CQ-6 — International transfer details specified: destination: Anywhere, Transfer mechanism: Unspecified, Safeguard: Age-appropriate design
+CQ-7 — Data subject rights handling: Erasure, Responsible party: OrgB, Procedure URL: https://example.org/dsao/inst/DSA_0093_RH1
+CQ-8 — Transparency arrangement: Layered, Issuer: OrgB, Page: https://example.org/dsao/inst/DSA_0093_TA1
+CQ-9 — DPIA or transfer risk assessment specified: Unspecified, Trigger: Contract end
+CQ-10 — Incident notification deadline specified: 72 hours, Contact point: mailto:sec@example.org
+CQ-11 — Governance, audit or review arrangements specified: Review frequency: 12 months, Metric: Audit findings <= 2, Audit right: Remote audit
+CQ-12 — Children or child-specific safeguards represented: Unspecified, Child-related condition: Age appropriate design
+CQ-13 — Exit or termination obligations specified: Contract end, Data disposition: Return, Post-termination obligation: No contact after exit

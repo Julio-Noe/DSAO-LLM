@@ -1,0 +1,13 @@
+CQ-1 — fraud_detection, service_provision
+CQ-2 — legal_obligation:DSA_0059_P1, contract:DSA_0059_P2
+CQ-3 — OrgB:OrgB, OrgA:OrgA
+CQ-4 — biometric, contact, health
+CQ-5 — P18M:DSA_0059_DS1
+CQ-6 — JP, SCCs, key_separation, pseudonymisation
+CQ-7 — RightErasure:DSA_0059_RH1
+CQ-8 — direct:DSA_0059_TA1
+CQ-9 — DPIA:DSA_0059_Assess
+CQ-10 — PT72H:DSA_0059_IRP
+CQ-11 — P6M:DSA_0059_Gov
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end:DSA_0059_Exit

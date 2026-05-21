@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The agreement involves two parties: OrgD, acting as the Data Controller, and OrgB, acting as the Recipient. The purposes of this DSA are research and reporting, with legal bases including a legal obligation and public interest. The data categories involved are health, location, financial, and other unspecified categories.
+
+The DSA specifies that the data will be stored for six months and disposed of through a return process. International transfer of data is allowed to Germany, with safeguards including encryption at rest and pseudonymization.
+
+The agreement includes arrangements for rights handling, transparency, and incident response. Rights handling involves the erasure of personal data upon request, with OrgD responsible for this process. Transparency arrangements include direct notification to individuals and a webpage providing information on the DSA.
+
+The agreement also includes an assessment, which concluded that there is a high risk of data breaches. The governance plan outlines review frequencies and metrics for monitoring compliance, while the incident response plan specifies notification deadlines and contact points. Finally, the exit plan outlines procedures for exiting the agreement, including data disposition and post-termination obligations.
+
+This DSA includes enhanced safeguards to protect children's personal data, including age-appropriate design.

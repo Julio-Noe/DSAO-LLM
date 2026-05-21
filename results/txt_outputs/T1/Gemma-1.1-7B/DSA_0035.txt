@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The parties involved are OrgE (Data Controller) and OrgA (Recipient). The purposes of the DSA are service provision and research, with legal bases being contract and legal obligation. The data categories used and shared are biometric and health-related.
+
+The dataset, DSA_0035_DS1, conforms to a standard and will be stored for six months before being disposed of using the "SecureDelete" method. The international transfer of data will be made to Brazil, with safeguards in place including pseudonymization and access control.
+
+The rights handling process is managed by OrgE, which will respond to requests for erasure and provide a procedure URL. Transparency arrangements include direct notice and an issuer, OrgE.
+
+The governance plan includes regular reviews every six months, with metrics such as breach MTTR (mean time to resolve) and audit rights. The incident response plan includes a notification deadline of 72 hours, with contact information provided.
+
+The exit plan outlines the procedures for terminating the agreement, including data disposition and post-termination obligations. The population covered by this DSA is employees.
+
+Assessment information, including a DPIA (Data Protection Impact Assessment) outcome of "high", is available.

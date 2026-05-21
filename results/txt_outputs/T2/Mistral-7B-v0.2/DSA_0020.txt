@@ -1,0 +1,13 @@
+CQ-1 — Analytics, fraud detection
+CQ-2 — contract, public_interest
+CQ-3 — OrgA: Data Controller, OrgB: Recipient
+CQ-4 — contact, financial, health
+CQ-5 — 18 months, SecureDelete
+CQ-6 — Not stated in the TTL
+CQ-7 — RightRectification, OrgA, <https>
+CQ-8 — layered, OrgA, <https>
+CQ-9 — Not stated in the TTL
+CQ-10 — 72 hours, mailto:sec@example.org
+CQ-11 — reviewFrequency=P6M, metric=BreachMTTR<=72h, auditRight=third_party_audit
+CQ-12 — Not stated in the TTL
+CQ-13 — contract_end, Return, no_contact_after_exit

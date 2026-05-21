@@ -1,0 +1,15 @@
+base_url: http://localhost:1234/v1
+temperature: 0.1
+max_tokens_T1: 600
+max_tokens_T2: 1200
+timeout_seconds: 240
+input_dir: data/ttl
+raw_output_jsonl: results/raw_jsonl/model_outputs.jsonl
+txt_output_dir: results/txt_outputs
+models:
+  - id: mistral-7b-v0.2
+    name: Mistral-7B-v0.2
+  - id: meta-llama-3-8b-instruct
+    name: Meta-Llama-3-8B-Instruct
+  - id: gemma-1.1-7b
+    name: Gemma-1.1-7B

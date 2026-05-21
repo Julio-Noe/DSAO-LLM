@@ -1,0 +1,27 @@
+The following is an example response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is version 1.0.5, created on November 14, 2025. It has two purposes: research and analytics.
+
+The DSA involves two parties: OrgD, a data controller, and OrgA, a processor.
+
+The DSA contains two processing activities:
+- Research: This activity has a legitimate interest legal basis and uses health and financial data categories.
+- Analytics: This activity also has a legitimate interest legal basis and uses location data.
+
+The DSA contains one shared dataset, which conforms to a standard and has storage for 12 months. The disposal method is "Return".
+
+The DSA contains one rights handling: RightAccess, responsible by OrgD, with a procedure URL.
+
+The DSA contains one transparency arrangement: layered notice type, issued by OrgD, with a page.
+
+The DSA contains one assessment: DPIA outcome "high", references <https://example.org/dpia.pdf>.
+
+The DSA contains one governance plan: review frequency "P6M", metric "DSAR_SLA_<=30d", audit right "remote_audit".
+
+The DSA contains one incident response plan: notification deadline "PT72H", contact point "mailto:sec@example.org".
+
+The DSA contains one exit plan: exit trigger "contract_end", data disposition "SecureDelete", post termination obligation "no_redisclosure".
+
+The DSA contains one population: general.
+```

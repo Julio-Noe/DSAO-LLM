@@ -1,0 +1,9 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.2, was created on November 14, 2025. The agreement involves two parties: OrgC, acting as the Data Controller, and OrgD, acting as the Recipient. The purposes of this DSA are reporting and analytics, with legal bases being contract and legitimate interest. The data categories used or shared include financial and health information.
+
+The dataset, DSA_0037_DS1, conforms to a standard and will be stored for 12 months before being disposed of through anonymization. The rights handling process, DSA_0037_RH1, ensures the responsible party OrgC will handle requests for right to erasure. Transparency arrangements, DSA_0037_TA1, include indirect notice and an issuer OrgC.
+
+The governance plan, DSA_0037_Gov, outlines review frequency and audit rights. The incident response plan, DSA_0037_IRP, includes notification deadlines and contact points. The exit plan, DSA_0037_Exit, outlines triggers, data disposition, and post-termination obligations. The population covered by this DSA is general.
+
+Assessment information, DSA_0037_Assess, indicates a medium-level risk and provides references to a DPIA report.

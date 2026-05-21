@@ -1,0 +1,41 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is between OrgD and OrgC. It covers two processing activities:
+- DSA_0043_P1: service provision, legal basis: legal obligation
+- DSA_0043_P2: research, legal basis: public interest
+
+The data categories used/shared are:
+- health
+- location
+
+The dataset is shared with the following terms:
+- conformance link: <https>
+- storage and retention period: P18M
+- disposal method: Return
+
+The rights handling is as follows:
+- right to erasure: responsible party: OrgD, procedure URL: <https>
+
+The transparency arrangement is as follows:
+- notice type: direct
+- issuer: OrgD
+- page: <https>
+
+The governance plan is as follows:
+- review frequency: P6M
+- metric: BreachMTTR<=72h
+- audit right: third_party_audit
+
+The incident response plan is as follows:
+- notification deadline: PT72H
+- contact point: mailto:sec@example.org
+
+The exit plan is as follows:
+- exit trigger: contract_end
+- data disposition: Return
+- post termination obligation: no_redisclosure
+
+The population is as follows:
+- employees
+```

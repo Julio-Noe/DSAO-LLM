@@ -1,0 +1,9 @@
+Here is the Executive Summary for the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgE and OrgC outlines the terms for sharing personal data. The parties involved are OrgE, acting as the Data Controller, and OrgC, serving as the Recipient. The purposes of this DSA are research and service provision, with legal bases established under contract and public interest. The data categories used and shared include contact information and financial data.
+
+The DSA specifies that the data will be stored for six months, with a disposal method of anonymization. Rights handling is in place, including the right to erasure, with OrgE as the responsible party. Transparency arrangements include indirect notice and a webpage maintained by OrgE.
+
+The governance plan outlines review frequency, metrics, and audit rights. The incident response plan includes notification deadlines and a contact point for security incidents. Finally, the exit plan specifies triggers, data disposition, and post-termination obligations.
+
+This DSA ensures compliance with relevant regulations and provides a framework for the responsible sharing of personal data between OrgE and OrgC.

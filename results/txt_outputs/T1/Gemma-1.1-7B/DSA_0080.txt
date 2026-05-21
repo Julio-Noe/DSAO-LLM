@@ -1,0 +1,13 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The agreement involves two parties: OrgD (Data Controller) and OrgC (Processor). The purposes of the DSA are reporting and research, with legal bases of legal obligation and public interest. The data categories used or shared include location and health.
+
+The dataset, DSA_0080_DS1, conforms to a standard and will be stored for 18 months with disposal method "Return". International transfer information is provided, including destination country Japan and transfer mechanism BCRs. Safeguards include access control and encryption at rest.
+
+Rights handling is managed by OrgD, with procedures outlined in DSA_0080_RH1. Transparency arrangements are in place, including notice type "layered" and issuer OrgD.
+
+Assessment information is available, including an assessment outcome of "low" and references to a DPIA report. Governance plan DSA_0080_Gov outlines review frequency, metrics, and audit rights. Incident response plan DSA_0080_IRP provides notification deadlines and contact points.
+
+Exit plan DSA_0080_Exit outlines exit triggers, data disposition, and post-termination obligations. Population information is provided for children, with enhanced safeguards in place to ensure age-appropriate design.
+
+Review notes are available, including justifications for specific processing activities and guidelines for improvement.

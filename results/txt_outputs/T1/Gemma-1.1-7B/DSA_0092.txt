@@ -1,0 +1,11 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.3, was created on November 14, 2025. The agreement involves two parties: OrgB, acting as the Data Controller, and OrgE, acting as the Recipient. The purposes of this DSA are analytics and reporting. The legal bases for processing are a legal obligation and legitimate interest.
+
+The agreement uses data categories related to health and location. The retention period is 12 months, with a disposal method of returning the data. Rights handling procedures are in place for erasure, and transparency arrangements include indirect notice and a procedure URL.
+
+The governance plan includes regular reviews every 12 months, with audit rights for on-site annual audits. The incident response plan provides for notification within 72 hours, with a contact point for security incidents.
+
+The exit plan outlines the procedures for exiting the agreement, including returning data and no contact after termination. The population covered by this DSA is general.
+
+Assessment information is available, including a DPIA assessment outcome of "high" and references to the assessment report.

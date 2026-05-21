@@ -1,0 +1,9 @@
+Here is the Executive Summary of the Data Sharing Agreement (DSA):
+
+This Data Sharing Agreement (DSA) between OrgC and OrgE outlines the terms for sharing data. The parties involved are OrgC, a Data Controller, and OrgE, a Processor. The purposes of the DSA are reporting and analytics, with legal bases including legal obligation and legitimate interest. The data categories used and shared include location and contact information.
+
+The dataset, DSA_0014_DS1, conforms to a standard and will be stored for 18 months before being disposed of through return. The rights handling, DSA_0014_RH1, ensures that OrgC is responsible for the right to access and has a procedure in place. Transparency arrangements, DSA_0014_TA1, require OrgC to provide direct notices and maintain a webpage.
+
+The governance plan, DSA_0014_Gov, outlines the review frequency and metrics for monitoring compliance. The incident response plan, DSA_0014_IRP, includes a notification deadline and contact point. The exit plan, DSA_0014_Exit, outlines the trigger for exiting the agreement and the data disposition method. The population covered by this DSA is employees.
+
+Note that this summary only includes information explicitly present in the TTL graph and does not infer missing values from external knowledge or typical DSA structure.

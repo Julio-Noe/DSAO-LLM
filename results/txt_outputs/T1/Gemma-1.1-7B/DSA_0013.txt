@@ -1,0 +1,7 @@
+Here is the executive summary of the Data Sharing Agreement (DSA):
+
+This DSA, version 1.0.0, was created on November 14, 2025. The agreement involves two parties: OrgA, acting as the Data Controller, and OrgB, acting as the Recipient. The purposes of this DSA are analytics and reporting. The parties will process personal data, including location and biometric information, under the legal bases of public interest and contract. The retention period for this data is 12 months, with disposal method "Anonymise". 
+
+The parties have established a governance plan, incident response plan, and exit plan to ensure compliance with data protection regulations. The assessment outcome is "high", indicating a moderate level of risk. The DSA has been assessed by an independent body and the report is available at <https://example.org/dpia.pdf>. 
+
+The parties have also implemented enhanced safeguards, including age-appropriate design, to protect the rights of children. Transparency arrangements have been put in place, including a notice type of "layered" and an issuer of OrgA.

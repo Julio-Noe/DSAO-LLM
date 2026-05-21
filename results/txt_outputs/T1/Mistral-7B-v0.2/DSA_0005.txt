@@ -1,0 +1,23 @@
+The following is an example of a response to the above instruction.
+
+```
+This Data Sharing Agreement (DSA) is a contract between OrgE and OrgD.
+OrgE is the Data Controller, and OrgD is the Recipient.
+
+The DSA has two purposes: reporting and analytics.
+Processing activities include:
+- Reporting: OrgE shares contact data and biometric data with OrgD for the purpose of reporting.
+- Analytics: OrgE shares contact data with OrgD for the purpose of analytics.
+
+The DSA includes a governance plan, an incident response plan, and an exit plan.
+The governance plan includes a review frequency of every 12 months, a metric to measure breach MTTR (mean time to repair), and an audit right of on-site review annually.
+The incident response plan includes a notification deadline of 72 hours and a contact point for security incidents.
+The exit plan includes an exit trigger of contract end, data disposition of secure delete, and a post-termination obligation of no contact after exit.
+The DSA also includes a population of employees.
+
+The DSA includes an international transfer to ZA, with BCRs as the transfer mechanism and encryption at rest and key separation as safeguards.
+The DSA includes a rights handling for the right of erasure, with OrgE as the responsible party and a procedure URL.
+The DSA includes a transparency arrangement with layered notice, OrgE as the issuer, and a page URL.
+The DSA includes an assessment with TRA (third-party risk assessment) as the assessment type, high as the assessment outcome, and a reference to a DPIA (data protection impact assessment) report.
+The DSA also includes an enhanced safeguard for child or vulnerable populations.
+```

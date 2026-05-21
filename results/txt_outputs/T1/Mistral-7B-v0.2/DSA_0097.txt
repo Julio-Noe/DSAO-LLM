@@ -1,0 +1,12 @@
+```
+The DSA is between OrgC and OrgA. It has two purposes: reporting and research.
+OrgC is the data controller, and OrgA is a processor.
+The agreement includes two processing activities: reporting and research. The reporting activity uses contact and financial data, while the research activity uses biometric data.
+The agreement includes a shared dataset that conforms to a standard and has a storage period of 6 months. The dataset will be disposed of by anonymization.
+The agreement includes a rights handling procedure for access to the data, which is handled by OrgC.
+The agreement includes a transparency arrangement that notifies the data subjects indirectly through OrgC.
+The agreement includes a governance plan that reviews the data every 6 months, measures breach MTTR (mean time to repair), and audits on-site annually.
+The agreement includes an incident response plan that notifies the data subjects within 72 hours and has a contact point of sec@example.org.
+The agreement includes an exit plan that exits the data at contract end, disposes of it by returning it, and imposes a no-contact-after-exit obligation.
+The agreement includes a population of general data subjects.
+```

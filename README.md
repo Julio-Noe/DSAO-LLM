@@ -20,8 +20,6 @@ configs/                 Non-identifying runtime configuration summary
 data/ttl/                Anonymised RDF/Turtle DSA instances, when included
 prompts/                 System, T1, and T2 prompts used for the experiments
 results/metrics/         Aggregate metric files and per-item score artifacts
-docs/                    Reproducibility notes, metric decisions, and structure notes
-.github/                 Non-identifying issue and pull-request templates
 ```
 
 ## What is intentionally withheld until acceptance
@@ -36,7 +34,7 @@ The withheld material will be added to the public repository after acceptance. T
 1. extracting graph-derived reference answers from the Turtle files;
 2. running local OpenAI-compatible LLM endpoints;
 3. evaluating T1 and T2 outputs;
-4. regenerating JSON, CSV, JSONL, and LaTeX result artifacts; and
+4. regenerating JSON, CSV and JSONL; and
 5. running a lightweight continuous-integration smoke test.
 
 ## Experimental configuration summary
@@ -49,8 +47,6 @@ max_tokens_T1: 600
 max_tokens_T2: 1200
 timeout_seconds: 240
 ```
-
-The evaluated local models are reported in the paper and configuration summary using their non-identifying model labels. Exact executable setup files will be released after acceptance.
 
 ## Prompt files
 
@@ -73,12 +69,7 @@ results/metrics/t1_summary_metrics.json
 results/metrics/t2_model_metrics.json
 results/metrics/t1_field_level_metrics.csv
 results/metrics/t2_cq_level_metrics.csv
-results/tables/t1_summary_metrics.tex
-results/tables/t2_model_metrics.tex
-results/tables/t2_per_cq_semantic.tex
 ```
-
-These files are provided to make the paper tables and aggregate claims auditable during review. The executable scripts used to generate them are withheld only for the anonymous-review phase and will be released after acceptance.
 
 ## Metrics overview
 
@@ -114,16 +105,12 @@ This anonymous repository is **not yet intended to be executed** because the sou
 
 - the task definitions;
 - the prompt wording;
-- the anonymised DSA representation, when included;
-- the metric families and evaluation rationale;
-- the reported aggregate results; and
-- the LaTeX-ready tables used in the paper.
+- the anonymized DSA representation, when included;
+- the metric families and evaluation rationale; and
+- the reported aggregate results.
 
-After acceptance, the repository will be updated with the complete source code and execution instructions so that the full evaluation can be rerun locally.
+After acceptance, the repository will be updated to include the complete source code and execution instructions, allowing the full evaluation to be rerun locally.
 
-## Anonymity and citation
-
-Please do not attempt to infer author identity from this anonymous-review artifact. Author metadata, institutional information, repository ownership, and final citation details are intentionally omitted. A complete `CITATION.cff` file will be added after acceptance.
 
 ## License status
 

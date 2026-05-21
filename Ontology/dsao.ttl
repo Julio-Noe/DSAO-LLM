@@ -1,0 +1,464 @@
+@prefix dsao: <https://example.org/dsao#> .
+@prefix dpv:  <https://w3id.org/dpv#> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+################################################################################
+# Ontology header
+################################################################################
+
+<https://example.org/dsao>
+  dct:title "DSAO — Data Sharing Agreement Ontology (profile for DPV-aligned DSAs)" ;
+  dct:description "General-purpose, DPV-aligned ontology for representing Data Sharing Agreements (DSAs), actors, processing, datasets, governance, transfers, and review; designed to be explainable-by-design and validation-ready." ;
+  dct:created "2025-12-04"^^xsd:date ;
+  dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+  rdfs:isDefinedBy <https://example.org/dsao> .
+
+################################################################################
+# Classes (align to DPV where useful)
+################################################################################
+
+dsao:DataSharingAgreement a rdfs:Class ;
+  rdfs:label "Data Sharing Agreement" ;
+  skos:definition "A legal/contractual agreement governing the sharing and processing of data between parties." .
+
+dsao:Party a rdfs:Class ;
+  rdfs:label "Party" ;
+  skos:definition "An organization or individual participating in a DSA." .
+
+dsao:Role a rdfs:Class ;
+  rdfs:label "Role" ;
+  skos:definition "A role a Party assumes in the DSA (e.g., controller, processor, recipient)." .
+
+dsao:ProcessingActivity a rdfs:Class ;
+  rdfs:subClassOf dpv:Processing ;
+  rdfs:label "Processing Activity" ;
+  skos:definition "A concrete processing activity with declared purposes, legal basis, and data categories." .
+
+dsao:Purpose a rdfs:Class ;
+  rdfs:subClassOf dpv:Purpose ;
+  rdfs:label "Purpose" ;
+  skos:definition "A purpose for processing personal data under the DSA." .
+
+dsao:PersonalDataCategory a rdfs:Class ;
+  rdfs:subClassOf dpv:PersonalDataCategory ;
+  rdfs:label "Personal Data Category" ;
+  skos:definition "A category of personal data used or shared under the DSA." .
+
+dsao:SharedDataset a rdfs:Class ;
+  rdfs:subClassOf dpv:Dataset ;
+  rdfs:label "Shared Dataset" ;
+  skos:definition "A dataset shared and governed by the DSA." .
+
+dsao:LegalBasis a rdfs:Class ;
+  rdfs:subClassOf dpv:LegalBasis ;
+  rdfs:label "Legal Basis" ;
+  skos:definition "The legal basis claimed for processing activities under the DSA." .
+
+dsao:Policy a rdfs:Class ;
+  rdfs:subClassOf dpv:Policy ;
+  rdfs:label "Policy" ;
+  skos:definition "A policy applicable to the DSA (e.g., governance, transparency, rights handling)." .
+
+dsao:Obligation a rdfs:Class ;
+  rdfs:label "Obligation" ;
+  skos:definition "A required action or duty arising from the DSA or applicable regime." .
+
+dsao:TechnicalOrganisationalMeasure a rdfs:Class ;
+  rdfs:subClassOf dpv:TechnicalOrganisationalMeasure ;
+  rdfs:label "Technical and Organisational Measure" ;
+  skos:definition "A technical/organisational safeguard (e.g., encryption, access control)." .
+
+dsao:AccessRule a rdfs:Class ;
+  rdfs:label "Access Rule" ;
+  skos:definition "A rule describing who may access which datasets under what conditions." .
+
+dsao:CrossBorderDataTransfer a rdfs:Class ;
+  rdfs:subClassOf dpv:DataTransfer , dsao:ProcessingActivity ;
+  rdfs:label "Cross-Border Data Transfer" ;
+  skos:definition "A transfer of data across jurisdictions requiring a specific mechanism and safeguards." .
+
+dsao:RightsHandling a rdfs:Class ;
+  rdfs:subClassOf dsao:Policy ;
+  rdfs:label "Rights Handling" ;
+  skos:definition "Procedures and channels to receive and fulfill data subject rights." .
+
+dsao:TransparencyArrangement a rdfs:Class ;
+  rdfs:subClassOf dsao:Policy ;
+  rdfs:label "Transparency Arrangement" ;
+  skos:definition "Arrangements to provide information and notices to data subjects/participants." .
+
+dsao:Assessment a rdfs:Class ;
+  rdfs:subClassOf dpv:ImpactAssessment ;
+  rdfs:label "Assessment" ;
+  skos:definition "An assessment relevant to the DSA (e.g., DPIA, transfer risk assessment)." .
+
+dsao:DataQualityPlan a rdfs:Class ;
+  rdfs:subClassOf dsao:Policy ;
+  rdfs:label "Data Quality Plan" ;
+  skos:definition "Plan defining data quality targets, metrics, and correction procedures." .
+
+dsao:GovernancePlan a rdfs:Class ;
+  rdfs:subClassOf dsao:Policy ;
+  rdfs:label "Governance Plan" ;
+  skos:definition "Plan describing accountability, oversight, and review for DSA governance." .
+
+dsao:IncidentResponsePlan a rdfs:Class ;
+  rdfs:subClassOf dsao:Policy ;
+  rdfs:label "Incident Response Plan" ;
+  skos:definition "Plan for detection, response, notification, and recovery from incidents." .
+
+dsao:ExitPlan a rdfs:Class ;
+  rdfs:subClassOf dsao:Policy ;
+  rdfs:label "Exit Plan" ;
+  skos:definition "Plan for termination, return/deletion, and post-termination duties." .
+
+dsao:Regime a rdfs:Class ;
+  rdfs:label "Regime" ;
+  skos:definition "A legal/regulatory/organizational regime applicable to the DSA." .
+
+dsao:ReviewNote a rdfs:Class ;
+  rdfs:label "Review Note" ;
+  skos:definition "HITL assessment node capturing decision and guideline reference." .
+
+dsao:DataManagementPlan a rdfs:Class ;
+  rdfs:subClassOf dsao:Policy ;
+  rdfs:label "Data Management Plan" ;
+  skos:definition "Plan for lifecycle management of shared datasets." .
+
+dsao:DataGovernancePolicy a rdfs:Class ;
+  rdfs:subClassOf dsao:Policy ;
+  rdfs:label "Data Governance Policy" ;
+  skos:definition "Policy governing data management and control across parties." .
+
+dsao:DataQualityRequirement a rdfs:Class ;
+  rdfs:label "Data Quality Requirement" ;
+  skos:definition "A requirement on a dataset's quality (e.g., completeness, accuracy)." .
+
+dsao:DataRiskEvent a rdfs:Class ;
+  rdfs:subClassOf dpv:Risk ;
+  rdfs:label "Data Risk Event" ;
+  skos:definition "An observed or potential risk affecting data under the DSA." .
+
+dsao:DataRetentionDisposalProcess a rdfs:Class ;
+  rdfs:label "Data Retention & Disposal Process" ;
+  skos:definition "A process describing retention duration, storage location, and disposal at end-of-life." .
+
+################################################################################
+# Properties (domains/ranges for profiling/validation)
+################################################################################
+
+# Agreement structure and roles
+dsao:hasParty a rdf:Property ;
+  rdfs:label "has party" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:Party ;
+  skos:definition "Links a DSA to a participating party." .
+
+dpv:hasRole a rdf:Property ;
+  rdfs:label "has role" ;
+  rdfs:domain dsao:Party ;
+  rdfs:range  dsao:Role ;
+  skos:definition "Assigns a role to a party within the DSA context." .
+
+# Processing semantics
+dpv:hasPurpose a rdf:Property ;
+  rdfs:label "has purpose" ;
+  rdfs:domain dsao:ProcessingActivity ;
+  rdfs:range  dsao:Purpose ;
+  skos:definition "Declares the purpose(s) of a processing activity." .
+
+dsao:hasProcessing a rdf:Property ;
+  rdfs:label "has processing activity" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:ProcessingActivity ;
+  skos:definition "Associates the DSA with its processing activities." .
+
+dpv:hasLegalBasis a rdf:Property ;
+  rdfs:label "has legal basis" ;
+  rdfs:domain dsao:ProcessingActivity ;
+  rdfs:range  dsao:LegalBasis ;
+  skos:definition "Declares the legal basis for a processing activity." .
+
+dsao:usesData a rdf:Property ;
+  rdfs:label "uses personal data category" ;
+  rdfs:domain dsao:ProcessingActivity ;
+  rdfs:range  dsao:PersonalDataCategory ;
+  skos:definition "Indicates data categories used by the processing activity." .
+
+dpv:hasPersonalData a rdf:Property ;
+  rdfs:label "has personal data" ;
+  rdfs:domain dsao:ProcessingActivity ;
+  rdfs:range  dsao:PersonalDataCategory ;
+  skos:definition "Alternative property to indicate used personal data categories." .
+
+# Policies and access rules
+dsao:hasPolicy a rdf:Property ;
+  rdfs:label "has policy" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:Policy ;
+  skos:definition "Associates a DSA with a relevant policy." .
+
+dsao:governsAccess a rdf:Property ;
+  rdfs:label "governs access" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:AccessRule ;
+  skos:definition "Links a DSA to an access rule it governs." .
+
+dsao:hasActor a rdf:Property ;
+  rdfs:label "has actor" ;
+  rdfs:domain dsao:AccessRule ;
+  rdfs:range  dsao:Party ;
+  skos:definition "Actor to whom the access rule applies." .
+
+dsao:hasResource a rdf:Property ;
+  rdfs:label "has resource" ;
+  rdfs:domain dsao:AccessRule ;
+  rdfs:range  dsao:SharedDataset ;
+  skos:definition "Dataset governed by the access rule." .
+
+dsao:hasCondition a rdf:Property ;
+  rdfs:label "has condition" ;
+  rdfs:domain dsao:AccessRule ;
+  rdfs:range  xsd:string ;
+  skos:definition "Condition(s) that must hold for access." .
+
+# Retention, storage, disposal
+dpv:hasStorageLocation a rdf:Property ;
+  rdfs:label "has storage location" ;
+  rdfs:domain dsao:DataRetentionDisposalProcess ;
+  rdfs:range  xsd:string ;
+  skos:definition "Storage location description for the dataset/process." .
+
+dpv:hasStorageDuration a rdf:Property ;
+  rdfs:label "has storage duration" ;
+  rdfs:domain dsao:DataRetentionDisposalProcess ;
+  rdfs:range  xsd:duration ;
+  skos:definition "Retention duration for the dataset/process." .
+
+dsao:disposalMethod a rdf:Property ;
+  rdfs:label "disposal method" ;
+  rdfs:domain dsao:DataRetentionDisposalProcess ;
+  rdfs:range  xsd:string ;
+  skos:definition "Method for disposal at end-of-life (e.g., secure delete)." .
+
+# Cross-border transfers and safeguards
+dsao:destinationCountry a rdf:Property ;
+  rdfs:label "destination country" ;
+  rdfs:domain dsao:CrossBorderDataTransfer ;
+  rdfs:range  xsd:string ;
+  skos:definition "Destination jurisdiction for the transfer." .
+
+dsao:transferMechanism a rdf:Property ;
+  rdfs:label "transfer mechanism" ;
+  rdfs:domain dsao:CrossBorderDataTransfer ;
+  rdfs:range  xsd:string ;
+  skos:definition "Mechanism used for the transfer (e.g., SCCs, contractual, derogation)." .
+
+dsao:hasSafeguard a rdf:Property ;
+  rdfs:label "has safeguard" ;
+  rdfs:domain dsao:CrossBorderDataTransfer ;
+  rdfs:range  dsao:TechnicalOrganisationalMeasure ;
+  skos:definition "Safeguards (TOMs) applied to the transfer." .
+
+# Rights and transparency
+dsao:hasRightsHandling a rdf:Property ;
+  rdfs:label "has rights handling" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:RightsHandling ;
+  skos:definition "Associates the DSA with a rights-handling procedure/policy." .
+
+dsao:responsibleParty a rdf:Property ;
+  rdfs:label "responsible party" ;
+  rdfs:domain dsao:RightsHandling ;
+  rdfs:range  dsao:Party ;
+  skos:definition "Party responsible for handling rights requests." .
+
+dsao:hasTransparencyArrangement a rdf:Property ;
+  rdfs:label "has transparency arrangement" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:TransparencyArrangement ;
+  skos:definition "Links the DSA to a transparency arrangement." .
+
+dsao:noticeType a rdf:Property ;
+  rdfs:label "notice type" ;
+  rdfs:domain dsao:TransparencyArrangement ;
+  rdfs:range  xsd:string ;
+  skos:definition "Type of notice (e.g., layered notice, public webpage)." .
+
+# Provenance and references
+dsao:issuer a rdf:Property ;
+  rdfs:label "issuer" ;
+  rdfs:domain dsao:Policy ;
+  rdfs:range  xsd:string ;
+  skos:definition "Issuing authority or party for a policy or arrangement." .
+
+dct:source a rdf:Property ;
+  rdfs:label "source" ;
+  rdfs:domain rdfs:Resource ;
+  rdfs:range  rdfs:Resource ;
+  skos:definition "A related resource from which the described resource is derived." .
+
+# Assessments
+dsao:hasAssessment a rdf:Property ;
+  rdfs:label "has assessment" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:Assessment ;
+  skos:definition "Associates the DSA with a relevant assessment (e.g., DPIA)." .
+
+dsao:assessmentType a rdf:Property ;
+  rdfs:label "assessment type" ;
+  rdfs:domain dsao:Assessment ;
+  rdfs:range  xsd:string ;
+  skos:definition "Type of assessment (e.g., DPIA, TRA)." .
+
+dsao:assessmentOutcome a rdf:Property ;
+  rdfs:label "assessment outcome" ;
+  rdfs:domain dsao:Assessment ;
+  rdfs:range  xsd:string ;
+  skos:definition "Outcome/summary of the assessment." .
+
+dct:references a rdf:Property ;
+  rdfs:label "references" ;
+  rdfs:domain rdfs:Resource ;
+  rdfs:range  rdfs:Resource ;
+  skos:definition "A related resource that is referenced." .
+
+# Data quality & governance
+dsao:hasDataQualityPlan a rdf:Property ;
+  rdfs:label "has data quality plan" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:DataQualityPlan ;
+  skos:definition "Associates the DSA with a data quality plan." .
+
+dsao:correctionProcedure a rdf:Property ;
+  rdfs:label "correction procedure" ;
+  rdfs:domain dsao:DataQualityPlan ;
+  rdfs:range  xsd:string ;
+  skos:definition "Procedure for correcting data quality issues." .
+
+dsao:hasGovernancePlan a rdf:Property ;
+  rdfs:label "has governance plan" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:GovernancePlan ;
+  skos:definition "Associates the DSA with a governance plan." .
+
+dsao:reviewFrequency a rdf:Property ;
+  rdfs:label "review frequency" ;
+  rdfs:domain dsao:GovernancePlan ;
+  rdfs:range  xsd:string ;
+  skos:definition "Frequency of governance reviews (e.g., quarterly)." .
+
+dsao:metric a rdf:Property ;
+  rdfs:label "metric" ;
+  rdfs:domain dsao:GovernancePlan ;
+  rdfs:range  xsd:string ;
+  skos:definition "Governance or quality metric." .
+
+dsao:auditRight a rdf:Property ;
+  rdfs:label "audit right" ;
+  rdfs:domain dsao:GovernancePlan ;
+  rdfs:range  xsd:string ;
+  skos:definition "Right to audit or inspection terms." .
+
+# Incident response
+dsao:hasIncidentResponsePlan a rdf:Property ;
+  rdfs:label "has incident response plan" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:IncidentResponsePlan ;
+  skos:definition "Associates the DSA with an incident response plan." .
+
+dsao:notificationDeadline a rdf:Property ;
+  rdfs:label "notification deadline" ;
+  rdfs:domain dsao:IncidentResponsePlan ;
+  rdfs:range  xsd:duration ;
+  skos:definition "Deadline for breach/incident notification." .
+
+dsao:contactPoint a rdf:Property ;
+  rdfs:label "contact point" ;
+  rdfs:domain dsao:IncidentResponsePlan ;
+  rdfs:range  xsd:string ;
+  skos:definition "Contact for incident reporting." .
+
+# Exit / termination
+dsao:hasExitPlan a rdf:Property ;
+  rdfs:label "has exit plan" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:ExitPlan ;
+  skos:definition "Associates the DSA with an exit plan." .
+
+dsao:exitTrigger a rdf:Property ;
+  rdfs:label "exit trigger" ;
+  rdfs:domain dsao:ExitPlan ;
+  rdfs:range  xsd:string ;
+  skos:definition "Condition(s) that trigger DSA termination." .
+
+dsao:dataDisposition a rdf:Property ;
+  rdfs:label "data disposition" ;
+  rdfs:domain dsao:ExitPlan ;
+  rdfs:range  xsd:string ;
+  skos:definition "What happens to data at exit (e.g., return, delete)." .
+
+dsao:postTerminationObligation a rdf:Property ;
+  rdfs:label "post-termination obligation" ;
+  rdfs:domain dsao:ExitPlan ;
+  rdfs:range  xsd:string ;
+  skos:definition "Obligations that continue after termination." .
+
+# Regime / population / versioning
+dsao:appliesRegime a rdf:Property ;
+  rdfs:label "applies regime" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  dsao:Regime ;
+  skos:definition "Indicates a governing regime applicable to the DSA." .
+
+dsao:population a rdf:Property ;
+  rdfs:label "population" ;
+  rdfs:domain dsao:Regime ;
+  rdfs:range  xsd:string ;
+  skos:definition "Population/scope of the regime (e.g., jurisdictions, sectors)." .
+
+dsao:enhancedSafeguard a rdf:Property ;
+  rdfs:label "enhanced safeguard" ;
+  rdfs:domain dsao:CrossBorderDataTransfer ;
+  rdfs:range  dsao:TechnicalOrganisationalMeasure ;
+  skos:definition "Additional safeguard required due to transfer risk." .
+
+dct:hasVersion a rdf:Property ;
+  rdfs:label "has version" ;
+  rdfs:domain rdfs:Resource ;
+  rdfs:range  xsd:string ;
+  skos:definition "Version identifier of a resource." .
+
+dsao:approvalRecord a rdf:Property ;
+  rdfs:label "approval record" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  rdfs:Resource ;
+  skos:definition "Record evidencing approval (e.g., signed PDF, registry entry)." .
+
+dsao:changeLog a rdf:Property ;
+  rdfs:label "change log" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  xsd:string ;
+  skos:definition "Human-readable change history." .
+
+dsao:onwardSharingRule a rdf:Property ;
+  rdfs:label "onward sharing rule" ;
+  rdfs:domain dsao:DataSharingAgreement ;
+  rdfs:range  xsd:string ;
+  skos:definition "Rules for onward sharing/redistribution." .
+
+# HITL Review (traceability)
+dsao:justifies a rdf:Property ;
+  rdfs:label "justifies" ;
+  rdfs:domain dsao:ReviewNote ;
+  rdfs:range  rdfs:Resource ;
+  skos:definition "Links a ReviewNote to the resource it evaluates." .
+
+dsao:guidelineRef a rdf:Property ;
+  rdfs:label "guideline reference" ;
+  rdfs:domain dsao:ReviewNote ;
+  rdfs:range  xsd:string ;
+  skos:definition "Reference to a guideline or source used in the decision." .

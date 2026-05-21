@@ -1,114 +1,83 @@
-# 100-DSA Local LLM Evaluation Process
+# Anonymous Review Artifact: Ontology-Grounded LLM Evaluation for Data Sharing Agreements
 
-A reproducible Python workflow for evaluating local Large Language Models (LLMs) on two ontology-grounded tasks over 100 Turtle-encoded Data Sharing Agreements (DSAs).
+This repository is an **anonymised review artifact** for a paper under peer review. It provides the non-identifying material needed to understand the evaluation design, prompts, aggregate results, and reported tables for an ontology-grounded Large Language Model (LLM) evaluation over 100 Turtle-encoded Data Sharing Agreements (DSAs).
 
-The package supports:
+> **Anonymous-review status.** The executable source code is intentionally **not included in this review version**. The full implementation, runnable scripts, CI configuration, software citation metadata, and final open-source license will be released after paper acceptance and de-anonymisation.
+
+## Purpose of this review artifact
+
+The artifact supports reviewer inspection of the experimental setup without revealing author-identifying information. It documents two ontology-grounded tasks:
 
 - **T1 — Executive-summary generation:** generate a concise professional summary from a DSA represented as RDF/Turtle.
-- **T2 — Competency-question answering:** answer the CQ-1–CQ-13 best-set competency questions using only graph-supported evidence, with explicit abstention when the TTL does not contain the answer.
+- **T2 — Competency-question answering:** answer the best-set competency questions using only graph-supported evidence, with explicit abstention when the TTL does not contain the answer.
 
-The evaluator is Turtle-aware: it compares model outputs against graph-derived references while accepting equivalent lexical forms such as full URIs, compact URIs, local names, underscore/space variants, and common date/duration aliases.
+The evaluation is designed around Turtle-aware comparison between model outputs and graph-derived references. It accounts for equivalent lexical forms such as full URIs, compact URIs, local names, underscore/space variants, and common date/duration aliases.
 
-## Repository contents
+## What is included during anonymous review
 
 ```text
-configs/                 LM Studio / OpenAI-compatible runtime configuration
-data/ttl/                100 DSA instances in RDF/Turtle
-prompts/                 System, T1, and T2 prompts
-src/                     Reference extraction, local LLM execution, and evaluation scripts
-results/                 Current outputs, metrics, and LaTeX-ready result tables
-docs/                    Methodological notes and reproducibility documentation
-.github/                 Issue templates, pull-request template, and CI workflow
+configs/                 Non-identifying runtime configuration summary
+data/ttl/                Anonymised RDF/Turtle DSA instances, when included
+prompts/                 System, T1, and T2 prompts used for the experiments
+results/metrics/         Aggregate metric files and per-item score artifacts
+results/tables/          LaTeX-ready result tables reported in the paper
+docs/                    Reproducibility notes, metric decisions, and structure notes
+.github/                 Non-identifying issue and pull-request templates
 ```
 
-## Requirements
+## What is intentionally withheld until acceptance
 
-- Python 3.10 or newer.
-- `make` for the convenience commands.
-- LM Studio, llama.cpp server, vLLM, Ollama OpenAI-compatible endpoint, or any local OpenAI-compatible chat-completions server for model runs.
-
-Install dependencies:
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
+```text
+src/                     Source code for reference extraction, model execution, and evaluation
+Makefile                 Convenience targets for reproducing the pipeline
+Dockerfile               Containerised execution environment
+CI workflow              GitHub Actions smoke tests
+pyproject.toml           Package metadata
+requirements*.txt        Installation dependency files
+final CITATION.cff       Author-aware citation metadata
+final LICENSE            Final open-source license file
 ```
 
-## Configure local models
+The withheld material will be added to the public repository after acceptance. The post-acceptance version will include the complete runnable workflow for:
 
-Edit `configs/run.yaml`:
+1. extracting graph-derived reference answers from the Turtle files;
+2. running local OpenAI-compatible LLM endpoints;
+3. evaluating T1 and T2 outputs;
+4. regenerating JSON, CSV, JSONL, and LaTeX result artifacts; and
+5. running a lightweight continuous-integration smoke test.
+
+## Experimental configuration summary
+
+The experiments use a local OpenAI-compatible chat-completions endpoint. The reported configuration is:
 
 ```yaml
-base_url: http://localhost:1234/v1
 temperature: 0.1
 max_tokens_T1: 600
 max_tokens_T2: 1200
 timeout_seconds: 240
-models:
-  - id: mistral-7b-v0.2
-    name: Mistral-7B-v0.2
-  - id: meta-llama-3-8b-instruct
-    name: Meta-Llama-3-8B-Instruct
-  - id: gemma-1.1-7b
-    name: Gemma-1.1-7B
 ```
 
-The `id` value must exactly match the model identifier exposed by the local server.
+The evaluated local models are reported in the paper and configuration summary using their non-identifying model labels. Exact executable setup files will be released after acceptance.
 
-## Run the workflow
+## Prompt files
 
-Generate graph-derived references:
-
-```bash
-make references
-```
-
-Run a two-DSA smoke test against the configured local LLM server:
-
-```bash
-make llm-smoke
-```
-
-Run the complete 100-DSA experiment:
-
-```bash
-make llm-all
-```
-
-Evaluate an existing `results/raw_jsonl/model_outputs.jsonl` file without rerunning the models:
-
-```bash
-make evaluate
-```
-
-Run a reference-oracle sanity check:
-
-```bash
-make oracle
-```
-
-Run the lightweight CI-style smoke test used by GitHub Actions:
-
-```bash
-make ci-smoke
-```
-
-## Main outputs
+The review version includes the prompt files so reviewers can inspect the task instructions directly:
 
 ```text
-results/txt_outputs/T1/<MODEL>/<DSA_ID>.txt
-results/txt_outputs/T2/<MODEL>/<DSA_ID>.txt
-results/raw_jsonl/model_outputs.jsonl
-results/reference/jsonl/reference_answers.jsonl
-results/reference/jsonl/reference_stats.json
-results/metrics/t1_field_scores.jsonl
-results/metrics/t2_item_scores.jsonl
+prompts/system.txt
+prompts/T1_executive_summary.txt
+prompts/T2_competency_questions.txt
+```
+
+These prompts define the graph-only evidence constraint, the no-fabrication rule, the executive-summary facets, and the competency-question answer format.
+
+## Result artifacts
+
+The main aggregate result files are:
+
+```text
 results/metrics/t1_summary_metrics.json
 results/metrics/t2_model_metrics.json
-results/metrics/t1_field_level_metrics.json
-results/metrics/t2_cq_level_metrics.json
 results/metrics/t1_field_level_metrics.csv
 results/metrics/t2_cq_level_metrics.csv
 results/tables/t1_summary_metrics.tex
@@ -116,26 +85,26 @@ results/tables/t2_model_metrics.tex
 results/tables/t2_per_cq_semantic.tex
 ```
 
-## T1 metrics
+These files are provided to make the paper tables and aggregate claims auditable during review. The executable scripts used to generate them are withheld only for the anonymous-review phase and will be released after acceptance.
 
-T1 is evaluated against the prompt facets in the executive-summary prompt rather than a legacy fixed business-field checklist. The main T1 metrics are:
+## Metrics overview
 
-- `prompt_facet_coverage`: whether each answerable prompt facet is represented at least once.
-- `value_level_coverage`: fraction of graph-supported reference values found across answerable facets.
-- `complete_facet_coverage`: fraction of answerable facets for which all expected graph values are present.
-- `missing_facet_behavior_accuracy`: whether optional or missing facets are omitted or explicitly marked as not stated/not specified.
-- `unsupported_missing_facet_rate`: concrete unsupported claims for missing facets.
-- `ttl_supported_wrong_facet_rate`: values present somewhere in the TTL but used for the wrong missing facet.
-- `identifier_sensitive_exactness`: exact preservation for identifier-bearing facets.
-- `word_limit_pass_rate`: whether the T1 output respects the 180-word limit.
+### T1 metrics
 
-Backward-compatible aliases such as `supported_field_coverage` are still written for older paper tables/scripts, but the prompt-aligned names should be preferred.
+T1 is evaluated against the facets requested in the executive-summary prompt. The main metric families are:
 
-## T2 metrics
+- `prompt_facet_coverage`
+- `value_level_coverage`
+- `complete_facet_coverage`
+- `missing_facet_behavior_accuracy`
+- `unsupported_missing_facet_rate`
+- `ttl_supported_wrong_facet_rate`
+- `identifier_sensitive_exactness`
+- `word_limit_pass_rate`
 
-T2 uses the 13-question best set. The evaluator accepts both `CQ-1` and legacy `CQ1` line prefixes, but all internal metrics use the canonical `CQ-#` IDs.
+### T2 metrics
 
-The model-level metrics are:
+T2 evaluates competency-question answers over the graph-supported reference values. The main metric families are:
 
 - `strict_accuracy`
 - `semantic_match`
@@ -146,20 +115,23 @@ The model-level metrics are:
 - `identifier_sensitive_exactness`
 - `policy_facet_separation`
 
-## Important reproducibility note
+## Reproducibility statement for review
 
-The repository includes generated results as a snapshot. Before reporting final paper metrics, regenerate outputs with the current prompt files and the exact local model identifiers/settings to be reported in the paper.
+This anonymous repository is **not yet intended to be executed** because the source code is withheld until acceptance. During review, it should be used to inspect:
 
-```bash
-make llm-all
-```
+- the task definitions;
+- the prompt wording;
+- the anonymised DSA representation, when included;
+- the metric families and evaluation rationale;
+- the reported aggregate results; and
+- the LaTeX-ready tables used in the paper.
 
-See [`docs/reproducibility.md`](docs/reproducibility.md) for a fuller protocol.
+After acceptance, the repository will be updated with the complete source code and execution instructions so that the full evaluation can be rerun locally.
 
-## Citation
+## Anonymity and citation
 
-Use [`CITATION.cff`](CITATION.cff) for software citation metadata. If this repository supports a paper submission, cite both the repository and the corresponding paper.
+Please do not attempt to infer author identity from this anonymous-review artifact. Author metadata, institutional information, repository ownership, and final citation details are intentionally omitted. A complete `CITATION.cff` file will be added after acceptance.
 
-## License
+## License status
 
-This package is distributed under the MIT License. Review and change `LICENSE` before public release if a different institutional or project license is required.
+This anonymous-review artifact is provided for peer-review inspection only. The final public release will include the full source code and the definitive open-source license after acceptance.
